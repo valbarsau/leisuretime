@@ -126,11 +126,6 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 )
 
 
-STATIC_URL = '/static/'
-STATICFILES_DIRS = (
-    
-    os.path.join(RUTA_PROYECTO, "static")
-)
 
 
 INSTALLED_APPS = (

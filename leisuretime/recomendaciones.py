@@ -25,8 +25,14 @@ def recomienda(id_usuario):
     usuarios_libros={}
     try:
         usuarios_libros=pickle.load( open( "diccionario.p", "rb" ) )
-    except Exception:
+        if not id_usuario in usuarios_libros.keys():
+            calcula_valoraciones()
+            usuarios_libros=pickle.load( open( "diccionario.p", "rb" ) )
+    except IOError:
         calcula_valoraciones()
+        usuarios_libros=pickle.load( open( "diccionario.p", "rb" ) )
+        
+            
     return recommendations.getRecommendations(usuarios_libros, id_usuario)
 #busca usuarios a los que se les pueda recomendar
 def encuentra_ids():
@@ -37,4 +43,3 @@ def encuentra_ids():
                 print usuario
         except Exception:
             pass    
-encuentra_ids()

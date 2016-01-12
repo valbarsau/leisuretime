@@ -7,9 +7,10 @@ from django import forms
 from principal.models import *
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
+import random
 class UserForm(UserCreationForm):
     class Meta:
-        model = User
+        model = Usuario
         fields = ("username", "email", "first_name", "last_name")
         widgets={"username":forms.TextInput(attrs={'class': u'form-control'}),
                  "email":forms.TextInput(attrs={'class': u'form-control'}),
@@ -21,6 +22,7 @@ class UserForm(UserCreationForm):
         # user.username=self.cleaned_data["username"]
         password = self.cleaned_data["password1"]
         usuario.set_password(password)
+        usuario.id_usuario=random.randint(100000,9999999)
         if commit:
             usuario.save()
         return usuario

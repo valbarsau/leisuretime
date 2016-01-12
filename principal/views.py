@@ -21,7 +21,7 @@ def registrar(request):
         form = UserForm(request.POST)
         if form.is_valid():
             form.save()
-            result = HttpResponseRedirect("")
+            result = HttpResponseRedirect("/")
         else:
             result = render_to_response("registro.html", {"form":form}, context_instance=RequestContext(request))
     else:
@@ -113,7 +113,7 @@ def puntuar(request,id_libro):
             usuario = Usuario.objects.get(id=request.user.id)
             libro=Libro.objects.get(id=int(id_libro))
             form.save(usuario,libro)
-            result = HttpResponseRedirect("")
+            result = HttpResponseRedirect("/")
         else:
             result = render_to_response("puntuacion_form.html", {"id":id_libro,"form":form}, context_instance=RequestContext(request))
     else:

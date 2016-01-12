@@ -20,7 +20,7 @@ class Genero(models.Model):
         return self.categoria
     
 class Usuario(User):
-    id_usuario= models.IntegerField()
+    id_usuario= models.IntegerField(unique=True)
     localizacion=models.TextField()
     def __unicode__(self):
         return self.username
