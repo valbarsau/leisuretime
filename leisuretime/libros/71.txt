@@ -1,0 +1,2435 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="desktop js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms no-csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#"><style type="text/css"></style>
+  <meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification" />
+  <title>
+
+Team Bush by Donald F. Kettl — Reviews, Discussion, Bookclubs, Lists
+</title>
+
+    <meta content="Team Bush" property="og:title" />
+  <meta content="good_reads:book" property="og:type" />
+  <meta content="http://www.goodreads.com/work/best_book/1680225-team-bush-leadership-lessons-from-the-bush-white-house" property="og:url" />
+  <meta content="Goodreads" property="og:site_name" />
+  <meta content="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1186843961i/1683623._UY500_SS500_.jpg" property="og:image" />
+  <meta content="2415071772" property="fb:app_id" />
+  <meta content="LEADERSHIP STRATEGIES BEHIND ONE OF THE MOST POPULAR PRESIDENTS IN HISTORYHow the Commander-in-Chief commands  George W. Bush has surpris..." property="og:description" />
+  <meta content="0071416331" property="good_reads:isbn" />
+  <meta content="224" property="good_reads:page_num" />
+  <meta content="http://www.goodreads.com/author/show/18748.Donald_F_Kettl" property="good_reads:author" />
+  <meta content="com.goodreads.https://book/show/1683623" property="al:ios:url" />
+  <meta content="355833469" property="al:ios:app_store_id" />
+  <meta content="Goodreads" property="al:ios:app_name" />
+
+  <link href="android-app://com.goodreads/http/www.goodreads.com/book/show/1683623.Team_Bush" rel="alternate" />
+
+
+    <meta content="Team Bush has 9 ratings and 2 reviews. Tucker said: This is an apparently non-partisan book assessing George W. Bush's leadership style. As his close fr..." name="description" />
+
+  <meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1" />
+  <meta content="app-id=355833469" name="apple-itunes-app" />
+
+
+          <script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script src="http://pixel.quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<link rel="stylesheet" href="http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css" media="all" /><script>
+//&lt;![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]&gt;
+</script>
+
+  <link href="http://s.gr-assets.com/assets/goodreads-3c9b9a966816a4aac5c3d68c79fb1280.css" media="all" rel="stylesheet" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="all" href="http://s.gr-assets.com/assets/goodreads_split2-83b1af1f3e876bbcccdf21d7600cad4a.css" />
+<![endif]-->
+  <script src="http://s.gr-assets.com/assets/application-a06f3da8ffeb1807014f7bd704106ffd.js"></script><script src="/assets/prototip/styles.js" type="text/javascript"></script>
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="5zMgetMVj6cgJ9q8WYHXGBMGWqHYjY5Jgap/xpHSA0WC5x+pIcebXaz/rgcn4DGqWvGZuJFQyePro3pUXUf1AA==" name="csrf-token" />
+
+  <meta content="1J137V12WFFGRZYM5YCV" name="request-id" />
+
+      <link href="http://www.goodreads.com/book/show/1683623.Team_Bush" rel="canonical" />
+
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/ie-243e73b5c2539766a7d02b37fdf277f8.css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/common_images_ie-ff1f4db02ef61385ef51f103d00c6211.css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-1f5f358465cda19b462df17cb7cab8f7.css" media="screen" rel="stylesheet" />
+  <!--<![endif]-->
+
+  <script>
+  //&lt;![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("grsession", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("shelf", ["toread","finished","ebook","workrelated","currentlyreading","smartypants"]);
+    googletag.pubads().setTargeting("gtargeting", "1");
+    googletag.pubads().setTargeting("resource", "Work_1680225");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]&gt;
+</script>
+
+  
+
+
+      <link href="http://s.gr-assets.com/assets/book/show-4f5a7a0bb0741cb3c8e17daf13dd08e2.css" media="screen" rel="stylesheet" />
+
+    <!--[if lte IE 7]>
+    <style type="text/css" media="screen">
+        #imagecol { overflow: hidden; }
+    </style>
+    <![endif]-->
+
+    <script src="http://s.gr-assets.com/assets/book/show-3e4b15b467bc4087a739b6c57cbb0454.js"></script>
+  <script>
+  //&lt;![CDATA[
+    !function(d,s,id)
+      {var js, fjs = d.getElementsByTagName(s)[0];
+        if(!d.getElementById(id))
+          {js=d.createElement(s);
+          js.id=id;
+          js.src='https://platform.twitter.com/widgets.js';
+          fjs.parentNode.insertBefore(js,fjs);
+        }}(document,'script','twitter-wjs');
+  //]]&gt;
+  </script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.left.out.160x600", [160, 600], "div-gpt-ad-3cc9096880")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-3cc9096880") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-3cc9096880", attrs);
+    
+            if (true &amp;&amp; document.getElementById("div-gpt-ad-3cc9096880").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.right.out.160x600", [160, 600], "div-gpt-ad-86adc7e2ba")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-86adc7e2ba") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-86adc7e2ba", attrs);
+    
+            if (true &amp;&amp; document.getElementById("div-gpt-ad-86adc7e2ba").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.top.out.300x250", [300, 250], "div-gpt-ad-ec26191a43")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-ec26191a43") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-ec26191a43", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-ec26191a43").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.cb.300x140", [300, 140], "div-gpt-ad-dcdef79161")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-dcdef79161") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-dcdef79161", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-dcdef79161").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.bottom.out.300x250", [300, 250], "div-gpt-ad-2e356bb6c9")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-2e356bb6c9") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-2e356bb6c9", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-2e356bb6c9").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.top.out.970x66", [970, 66], "div-gpt-ad-34a202fb4f")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-34a202fb4f") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-34a202fb4f", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-34a202fb4f").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+
+  
+  
+  
+  <link title="Goodreads" href="/opensearch.xml" type="application/opensearchdescription+xml" rel="search" />
+
+
+  <script>
+  //&lt;![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("&lt;li/&gt;").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]&gt;
+</script>
+
+
+<script src="http://partner.googleadservices.com/gpt/pubads_impl_78.js" async=""></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.57b265f4a957883c0d94631f668764c9.js"></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/osd.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow-x:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <div id="siteheader" class="uitext">
+<div class="mainContent">
+<ul id="usernav" class="nav">
+<li>
+<strong>
+<a href="/user/new" rel="nofollow" class="navlink">register</a>
+</strong>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fbook%2Fshow%2F1683623.Team_Bush" rel="nofollow" class="navlink">sign in</a>
+</li>
+</ul>
+<div id="logo">
+<a href="/"></a>
+<a href="/"><img width="140" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" alt="Goodreads: Book reviews, recommendations, and discussion" /></a>
+</div>
+<div id="sitesearch">
+<form method="get" accept-charset="UTF-8" action="/search" id="headerSearchForm"><input type="hidden" value="?" name="utf8" /><div class="auto_complete_field_wrapper">
+<input type="text" placeholder="Title / Author / ISBN" id="sitesearch_field" name="query" />
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading trans" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="loading" id="sitesearch_field_loading" style="display: none" />
+</div>
+<a onclick="$j('#headerSearchForm').submit(); return false;" href="#" class="submitLink"><img width="16" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" alt="search" title="Title / Author / ISBN" /></a>
+</form>
+</div>
+
+<ul id="sitenav" class="nav">
+<li>
+<a href="/" class="navlink">Home</a>
+</li>
+<li>
+<a href="/review/list" rel="nofollow" class="navlink">My Books</a>
+</li>
+<li>
+<a href="/friend" rel="nofollow" class="navlink">Friends</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a href="/book" class="navlink" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2015" title="2015 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2016/1" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Quotes</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Creative Writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">People</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a href="/book" class="dropDownOpener subnavlink"></a>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+      <div id="landingAdLeft" class="genericLandingAdRail">
+    <div style="width: 160px; height: 600px; right: 0px; position: absolute; display: none;" id="div-gpt-ad-3cc9096880">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-3cc9096880");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-3cc9096880").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__container__" style="border: 0pt none;"><iframe width="160" height="600" frameborder="0" id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0" name="google_ads_iframe_/4215/goodr.book.left.out.160x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div><iframe width="0" height="0" frameborder="0" id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__hidden__" name="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__hidden__" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom; visibility: hidden; display: none;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div>
+
+  </div>
+  <div id="landingAdRight" class="genericLandingAdRail">
+    <div style="width: 160px; height: 600px; left: 0px; position: absolute; display: none;" id="div-gpt-ad-86adc7e2ba">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-86adc7e2ba");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-86adc7e2ba").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.right.out.160x600_0__container__" style="border: 0pt none;"><iframe width="160" height="600" frameborder="0" id="google_ads_iframe_/4215/goodr.book.right.out.160x600_0" name="google_ads_iframe_/4215/goodr.book.right.out.160x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+  </div>
+
+    <div class="mainContent">
+          <div id="premiumAdTop">
+      <div style="width: 970px; height: 66px; display: none;" id="div-gpt-ad-34a202fb4f">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-34a202fb4f");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-34a202fb4f").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.top.out.970x66_0__container__" style="border: 0pt none;"><iframe width="970" height="66" frameborder="0" id="google_ads_iframe_/4215/goodr.book.top.out.970x66_0" name="google_ads_iframe_/4215/goodr.book.top.out.970x66_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+    </div>
+
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  <div class="ctaBannerShown">
+<div class="ctaHeader">
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “Team Bush” as Want to Read:
+</div>
+<div class="ctaButton">
+<div id="1_book_1683623" class="wtrButtonContainer wtrSignedOut">
+<div class="wtrUp wtrLeft">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="5zMgetMVj6cgJ9q8WYHXGBMGWqHYjY5Jgap/xpHSA0WC5x+pIcebXaz/rgcn4DGqWvGZuJFQyePro3pUXUf1AA==" name="authenticity_token" />
+<input type="hidden" value="1683623" id="book_id" name="book_id" />
+<input type="hidden" value="to-read" id="name" name="name" />
+<input type="hidden" value="1_book_1683623" id="unique_id" name="unique_id" />
+<input type="hidden" value="true" id="wtr_new" name="wtr_new" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" class="wtrLeftUpRef" value="" id="ref" name="ref" />
+<input type="hidden" class="wtrExisting" value="false" id="existing_review" name="existing_review" />
+<input type="hidden" id="page_url" name="page_url" />
+<button type="submit" class="wtrToRead">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class="wtrRight wtrUp">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="5zMgetMVj6cgJ9q8WYHXGBMGWqHYjY5Jgap/xpHSA0WC5x+pIcebXaz/rgcn4DGqWvGZuJFQyePro3pUXUf1AA==" name="authenticity_token" />
+<input type="hidden" value="1_book_1683623" id="unique_id" name="unique_id" />
+<input type="hidden" value="1683623" id="book_id" name="book_id" />
+<input type="hidden" id="a" name="a" />
+<input type="hidden" id="name" name="name" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" id="page_url" name="page_url" />
+</form>
+
+<button class="wtrShelfButton"></button>
+<div class="wtrShelfMenu">
+<ul class="wtrExclusiveShelves">
+<li><button value="to-read" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Want to Read</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+<li><button value="currently-reading" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Currently Reading</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+<li><button value="read" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Read</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="ctaBannerTriangle"></div>
+
+
+<div itemtype="http://schema.org/Book" itemscope="" class="leftContainer">
+<div class="last col stacked" id="topcol">
+
+
+<div class="col" id="imagecol">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a href="/book/photo/1683623.Team_Bush" itemprop="image" rel="nofollow"><img src="http://d.gr-assets.com/books/1186843961l/1683623.jpg" alt="Team Bush" id="coverImage" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="http://www.goodreads.com/work/editions/1680225-team-bush-leadership-lessons-from-the-bush-white-house">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div id="edition_1683623_enlarge" class="coverButton enlargeCover">
+            Enlarge cover
+          </div>
+          <div style="display: none;" id="edition_1683623_enlarge_cover" class="editionCover">
+            <img alt="1683623" src="http://d.gr-assets.com/books/1186843961l/1683623.jpg" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+    <div id="2_book_1683623" class="wtrButtonContainer wtrSignedOut">
+<div class="wtrUp wtrLeft">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="5zMgetMVj6cgJ9q8WYHXGBMGWqHYjY5Jgap/xpHSA0WC5x+pIcebXaz/rgcn4DGqWvGZuJFQyePro3pUXUf1AA==" name="authenticity_token" />
+<input type="hidden" value="1683623" id="book_id" name="book_id" />
+<input type="hidden" value="to-read" id="name" name="name" />
+<input type="hidden" value="2_book_1683623" id="unique_id" name="unique_id" />
+<input type="hidden" value="true" id="wtr_new" name="wtr_new" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" class="wtrLeftUpRef" value="" id="ref" name="ref" />
+<input type="hidden" class="wtrExisting" value="false" id="existing_review" name="existing_review" />
+<input type="hidden" value="/book/show/1683623.Team_Bush" id="page_url" name="page_url" />
+<button type="submit" class="wtrToRead">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class="wtrRight wtrUp">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="5zMgetMVj6cgJ9q8WYHXGBMGWqHYjY5Jgap/xpHSA0WC5x+pIcebXaz/rgcn4DGqWvGZuJFQyePro3pUXUf1AA==" name="authenticity_token" />
+<input type="hidden" value="2_book_1683623" id="unique_id" name="unique_id" />
+<input type="hidden" value="1683623" id="book_id" name="book_id" />
+<input type="hidden" id="a" name="a" />
+<input type="hidden" id="name" name="name" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" value="/book/show/1683623.Team_Bush" id="page_url" name="page_url" />
+</form>
+
+<button class="wtrShelfButton"></button>
+</div>
+
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div data-rating="0" data-submit-url="/review/rate/1683623?page_url=%2Fbook%2Fshow%2F1683623.Team_Bush&amp;stars_click=true&amp;wtr_button_id=2_book_1683623" data-user-id="0" data-resource-id="1683623" class="stars"><a ref="" href="#" title="did not like it" class="star off">1 of 5 stars</a><a ref="" href="#" title="it was ok" class="star off">2 of 5 stars</a><a ref="" href="#" title="liked it" class="star off">3 of 5 stars</a><a ref="" href="#" title="really liked it" class="star off">4 of 5 stars</a><a ref="" href="#" title="it was amazing" class="star off">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+  <div data-book-id="1683623" class="asyncPreviewButtonContainer">
+      
+
+<a href="#" data-book-id="1683623" id="js-kcrPreviewButton" class="gr-button kcrPreviewButton asyncPreviewButton">Open Preview</a>
+
+<div style="display: none;" class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook1683623">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>Team Bush</cite> by Donald F. Kettl.
+      </div>
+      <form method="post" data-remote="true" accept-charset="UTF-8" action="/kindle_book_mapping_flags" id="new_kindle_book_mapping_flag" class="new_kindle_book_mapping_flag"><input type="hidden" value="?" name="utf8" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br />
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" />
+        </div>
+        <input type="hidden" id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" value="1683623" />
+        <input type="submit" class="gr-button" value="Report Problem" name="commit" />
+         
+        <button class="buttonAsActionLinkSecondary" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+        Cancel and return to book page
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div style="display:none;" class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation">
+  <p>Thanks for telling us about the problem.</p>
+  <button id="js-wrongBookKindlePreviewScreenConfirmationDismiss" class="gr-button" type="button">
+    Return to Book Page
+  </button>
+</div>
+<div style="display: none;" class="kindleCloudReader" id="kindleCloudReaderBook1683623">
+  <div class="topBanner">
+    <a href="#" data-book-id="1683623" class="js-wrongBookKindlePreview" id="wrongBookLink">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>Team Bush</cite>
+        by Donald F. Kettl
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    &lt;iframe id="wrongBookKindlePreviewScreen"&gt;</iframe>
+  
+</div>
+
+  </div>
+
+
+</div>
+
+<div class="last col" id="metacol">
+<h1 itemprop="name" class="bookTitle" id="bookTitle">
+      Team Bush
+</h1>
+
+<div class="stacked" id="bookAuthors">
+  <span class="by smallText">by</span>
+<span itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+<a href="http://www.goodreads.com/author/show/18748.Donald_F_Kettl" itemprop="url" class="authorName"><span itemprop="name">Donald F. Kettl</span></a>
+</span>
+
+</div>
+
+<div itemtype="http://schema.org/AggregateRating" itemscope="" style="position: relative" class="uitext stacked hreview-aggregate" id="bookMeta">
+  <span style="display:none" class="item"><span class="fn">Team Bush</span></span>
+  <span class="stars staticStars"><span class="staticStar p10" size="12x12"></span><span class="staticStar p10" size="12x12"></span><span class="staticStar p10" size="12x12"></span><span class="staticStar p3" size="12x12"></span><span class="staticStar p0" size="12x12"></span></span>
+  <span class="value rating"><span itemprop="ratingValue" class="average">3.33</span></span>
+  <span class="greyText"> · </span>
+  <a onclick="return false" href="#" style="cursor: pointer; " class="actionLinkLite" id="rating_details"><span class="rating_graph" id="rating_graph">
+    <span style="display: inline-block;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="15"><g transform="translate(0,0)"><rect cursor="" x="0" y="0" width="8" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/><rect cursor="" x="0" y="3" width="4" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/><rect cursor="" x="0" y="6" width="16" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/><rect cursor="" x="0" y="9" width="8" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/></g></svg></span><script type="text/javascript+protovis">
+      renderRatingGraph([2, 1, 4, 2]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>Rating Details</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('rating_details'), "\n      &lt;div id=\"moreBookData\" class=\"bookMeta\" &gt;\n  \n\n  \n\n&lt;table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\"&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;5&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 50%;\" title=\"2 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          22% (2)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;4&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 25%;\" title=\"1 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          11% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;3&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 100%;\" title=\"4 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          44% (4)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;2&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 50%;\" title=\"2 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          22% (2)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;1&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n\n&lt;\/table&gt;\n\n\n    &lt;span class=\"value\"&gt;78&lt;\/span&gt;% of people liked it\n\n  &lt;table&gt;\n    &lt;tr&gt;\n      &lt;td&gt;&lt;strong&gt;All editions:&lt;\/strong&gt;&lt;\/td&gt;\n      &lt;td&gt;\n        &lt;span class=\"value\"&gt;3.33&lt;\/span&gt; average rating,\n        &lt;span class=\"value\"&gt;9&lt;\/span&gt; ratings,\n        &lt;span class=\"value\"&gt;2&lt;\/span&gt; reviews,\n        added by &lt;span class=\"value\"&gt;20&lt;\/span&gt; people,\n        &lt;span class=\"value\"&gt;3&lt;\/span&gt; to-reads\n      &lt;\/td&gt;\n    &lt;\/tr&gt;\n\n      &lt;tr&gt;\n        &lt;td&gt;&lt;strong&gt;This edition:&lt;\/strong&gt;&lt;\/td&gt;\n        &lt;td&gt;\n          &lt;span class=\"value\"&gt;3.43&lt;\/span&gt; average rating,\n          &lt;span class=\"value\"&gt;7&lt;\/span&gt; ratings,\n          &lt;span class=\"value\"&gt;2&lt;\/span&gt; reviews,\n          added by &lt;span class=\"value\"&gt;18&lt;\/span&gt; people\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n  &lt;\/table&gt;\n&lt;\/div&gt;\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating Details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>  <span class="greyText"> · </span>
+  <a href="#other_reviews" class="actionLinkLite votes">
+      <span itemprop="ratingCount" title="9" class="value-title">9 Ratings</span>
+</a>  <span class="greyText"> · </span>
+  <a href="#other_reviews" class="actionLinkLite">
+      <span class="count"><span title="2" class="value-title">2</span></span>
+      Reviews
+</a></div>
+
+<div id="descriptionContainer">
+      <div style="right:0" class="readable stacked" id="description">
+        
+<span id="freeTextContainer6520530037797101657">LEADERSHIP STRATEGIES BEHIND ONE OF THE MOST POPULAR PRESIDENTS IN HISTORYHow the Commander-in-Chief commands<br /><br />George W. Bush has surprised even his harshest critics with his leadership talents and discipline. As this country's first MBA president, Bush formed his unique leadership style managing businesses, not government offices. "Team Bush "is the first book to explore th</span>
+  <span style="display:none" id="freeText6520530037797101657">LEADERSHIP STRATEGIES BEHIND ONE OF THE MOST POPULAR PRESIDENTS IN HISTORYHow the Commander-in-Chief commands<br /><br />George W. Bush has surprised even his harshest critics with his leadership talents and discipline. As this country's first MBA president, Bush formed his unique leadership style managing businesses, not government offices. "Team Bush "is the first book to explore these unique methods and tactics he has employed to become one of the nation's most popular commanders in chief in recent history.<br /><br />From "hiring" the most diverse and effective cabinets in history, to dealing with the crisis and war sparked by the events of September 11th, this compelling leadership book takes readers into the mind and methods of America's 43rd president, and shows managers how these methods can be used to boost productivity in their own organizations.<br /><br />This fast-paced book pulls no punches as it showcases President Bush's successes and strengths while detailing his mistakes and weaknesses. Focusing on the actual events and outcomes of Bush's first two years in office, it discusses: The strategy behind Bush's coup in the mid-term election Lessons learned from his managing of the September 11th crisis How Bush recognizes and learns from his very public mistakes</span>
+  <a onclick="swapContent($(this));; return false;" href="#" data-text-id="6520530037797101657">...more</a>
+
+      </div>
+</div>
+
+<div class="uitext stacked darkGreyText" id="details">
+      <div class="row"><span itemprop="bookFormatType">Hardcover</span>, <span itemprop="numberOfPages">224 pages</span></div>
+
+      <div class="row">
+            Published
+        February 19th 2003
+         by McGraw-Hill Companies
+
+            <nobr class="greyText">
+              (first published December 30th 1899)
+            </nobr>
+      </div>
+
+  <div class="buttons">
+    <a onclick="$j('#bookDataBoxShow').hide(); $j('#bookDataBoxHide').show(); $j('#bookDataBox').show();
+                         ; return false;" href="#" class="left inter actionLinkLite" id="bookDataBoxShow">More Details...</a>
+
+        <div style="display: none; margin: 10px 0" class="uitext" id="bookDataBox">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Original Title</div>
+                <div class="infoBoxRowItem">Team Bush : Leadership Lessons from the Bush White House</div>
+              </div>
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ISBN</div>
+                <div class="infoBoxRowItem">
+                  0071416331
+                      <span class="greyText">(ISBN13: <span itemprop="isbn">9780071416337</span>)</span>
+                </div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div itemprop="inLanguage" class="infoBoxRowItem">English</div>
+              </div>
+
+
+
+
+
+
+          <div class="clear"></div>
+
+          <div class="infoBoxRowTitle otherEditions">
+<div class="otherEditionsLink">
+<a href="/work/editions/1680225-team-bush-leadership-lessons-from-the-bush-white-house">Other Editions (5)</a>
+</div>
+</div>
+<div class="infoBoxRowItem">
+<div class="otherEditionsRow">
+<div class="otherEditionCovers">
+<ul>
+<li>
+<div id="edition_6401626" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/6401626-team-bush"><img src="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1239858007i/6401626._UY200_.jpg" alt="Team Bush : Pelajaran Kepemimpinan dari Gedung Putih Semasa Bush" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_6401626'), "&lt;div class=\'editionTitle\'&gt;\nTeam Bush : Pelajaran Kepemimpinan dari Gedung Putih Semasa Bush (Paperback) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: Paperback\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\n2003\nby BIP\n&lt;\/div&gt;\n&lt;div class=\'enlargeCover\' id=\'edition_6401626_enlarge\'&gt;\n&lt;a&gt;\nEnlarge cover\n&lt;\/a&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionCover\' id=\'edition_6401626_enlarge_cover\' style=\'display: none;\'&gt;\n&lt;img src=\"http://d.gr-assets.com/books/1239858007l/6401626.jpg\" alt=\"6401626\" /&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'3_book_6401626\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"OH21cbU3e0oYY0zzDO46vok9LQuTNI22QFzF2PcK/HVdqYqiR+VvsJS7OEhyj9wMwMruEtrpyhwqVcBKO58KMA==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"6401626\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_6401626\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"uA+AojmOobbv1DepnCQGmHmlaQzn/2VJ9HM4R78MWJLd279xy1y1TGMMQxLiReAqMFKqFa4iIuOeej3Vc5mu1w==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_6401626\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"6401626\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"6401626\" data-user-id=\"0\" data-submit-url=\"/review/rate/6401626?stars_click=true&amp;wtr_button_id=3_book_6401626\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_6401626').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_6401626').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_6401626').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_6401626').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+<li>
+<div id="edition_19700325" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/19700325-team-bush"><img src="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1387763043i/19700325._UY200_.jpg" alt="Team Bush" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_19700325'), "&lt;div class=\'editionTitle\'&gt;\nTeam Bush (Kindle Edition) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nasin: B000P2A3NW\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: Kindle Edition\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\nDecember 30th 1899\nby McGraw-Hill\n&lt;\/div&gt;\n&lt;div class=\'enlargeCover\' id=\'edition_19700325_enlarge\'&gt;\n&lt;a&gt;\nEnlarge cover\n&lt;\/a&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionCover\' id=\'edition_19700325_enlarge_cover\' style=\'display: none;\'&gt;\n&lt;img src=\"http://d.gr-assets.com/books/1387763043l/19700325.jpg\" alt=\"19700325\" /&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'4_book_19700325\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"Kg8ftrBpIvSvdYhhnmBFbCAkRVjOyM3kMmapzssff+RP2yBlQrs2DiOt/NrgAaPeadOGQYcVik5Yb6xcB4qJoQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"19700325\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"4_book_19700325\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"ztHR/jxfoJP4mSqvix/bZJ7U5544f28qyhMHpckJ3XarBe4tzo20aXRBXhT1fj3W1yMkh3GiKICgGgI3BZwrMw==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"4_book_19700325\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"19700325\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"19700325\" data-user-id=\"0\" data-submit-url=\"/review/rate/19700325?stars_click=true&amp;wtr_button_id=4_book_19700325\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_19700325').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_19700325').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_19700325').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_19700325').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+<li>
+<div id="edition_16764394" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/16764394-team-bush"><img alt="111x148" src="http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_16764394'), "&lt;div class=\'editionTitle\'&gt;\nTeam Bush: Leadership Lessons from the Bush White House (ebook) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn: 1280303719\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn13: 9781280303715\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: ebook\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\nFebruary 19th 2003\nby McGraw-Hill Companies\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'5_book_16764394\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"dEPf35rSqcB9aCPcv8H5bVa9KhAFqUKE7UwtUdheXisRl+AMaAC9OvGwV2fBoB/fH0rpCUx0BS6HRSjDFMuobg==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"16764394\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"5_book_16764394\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"aneNlj3Dlv3uUATTeWkuphFZjmhw7A3E+m76IzvYHeMPo7JFzxGCB2KIcGgHCMgUWK5NcTkxSm6QZ/+x903rpg==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"5_book_16764394\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"16764394\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"16764394\" data-user-id=\"0\" data-submit-url=\"/review/rate/16764394?stars_click=true&amp;wtr_button_id=5_book_16764394\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_16764394').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_16764394').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_16764394').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_16764394').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+<li>
+<div id="edition_16402595" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/16402595-team-bush"><img alt="111x148" src="http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_16402595'), "&lt;div class=\'editionTitle\'&gt;\nTeam Bush (ebook) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn: 5551246868\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: ebook\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\nMarch 24th 2003\nby McGraw-Hill\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'6_book_16402595\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"n0/71PW7MwKcjuhdbT4S7ROoFWXsDOvUTXvXwrm8n4D6m8QHB2kn+BBWnOYTX/RfWl/WfKXRrH4nctJQdSlpxQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"16402595\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"6_book_16402595\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"PywvqbGI+Och63oqPlF6+T6Hpk1RYDkuhDa6bjdA9Bla+BB6Q1rsHa0zDpFAMJxLd3BlVBi9foTuP7/8+9UCXA==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"6_book_16402595\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"16402595\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"16402595\" data-user-id=\"0\" data-submit-url=\"/review/rate/16402595?stars_click=true&amp;wtr_button_id=6_book_16402595\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_16402595').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_16402595').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_16402595').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_16402595').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+<li>
+<div id="edition_10777975" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/10777975-team-bush"><img src="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1349064370i/10777975._UY200_.jpg" alt="Team Bush" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_10777975'), "&lt;div class=\'editionTitle\'&gt;\nTeam Bush (Paperback) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn: 0071589740\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn13: 9780071589741\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: Paperback\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\nFebruary 19th 2003\nby McGraw-Hill\n&lt;\/div&gt;\n&lt;div class=\'enlargeCover\' id=\'edition_10777975_enlarge\'&gt;\n&lt;a&gt;\nEnlarge cover\n&lt;\/a&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionCover\' id=\'edition_10777975_enlarge_cover\' style=\'display: none;\'&gt;\n&lt;img src=\"http://d.gr-assets.com/books/1349064370l/10777975.jpg\" alt=\"10777975\" /&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'7_book_10777975\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"mUqLQWm1/bYcT4K+s3AUHJCXd0cr+Xo7WPSuL78yTDP8nrSSm2fpTJCX9gXNEfKu2WC0XmIkPZEy/au9c6e6dg==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"10777975\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"7_book_10777975\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"I6zxwHh6ebUrj2iVNyJhDFYocthn07eRmHqnf4ibQthGeM4TiqhtT6dXHC5JQ4e+H9+xwS4O8Dvyc6LtRA60nQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"7_book_10777975\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"10777975\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"10777975\" data-user-id=\"0\" data-submit-url=\"/review/rate/10777975?stars_click=true&amp;wtr_button_id=7_book_10777975\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_10777975').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_10777975').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_10777975').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_10777975').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="otherEditionsActions">
+<a href="/work/editions/1680225-team-bush-leadership-lessons-from-the-bush-white-house" class="actionLinkLite">All Editions</a>
+<span class="greyText">
+ | 
+</span>
+<a href="/book/new?author%5Bname%5D=Donald+F.+Kettl&amp;book%5Btitle%5D=Team+Bush&amp;work%5Bid%5D=1680225" rel="nofollow" class="actionLinkLite">Add a New Edition</a>
+<span class="secondaryCopy">
+ | 
+</span>
+<a href="/book/combine/18748" class="actionLinkLite" rel="nofollow">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a onclick="$j('#bookDataBoxShow').show(); $j('#bookDataBoxHide').hide(); $j('#bookDataBox').hide();
+                              ; return false;" href="#" style="display:none" class="left inter actionLinkLite" id="bookDataBoxHide">...Less Detail</a>
+
+    <a href="/book/edit/1683623.Team_Bush" rel="nofollow" class="inter uitext greyText right">edit details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+    <div data-book-id="1683623" class="uitext buttons" id="asyncBuyButtonContainer">
+      <span class="buttonBarText"><b>Get a copy:</b></span><ul class="buyButtonBar left"><li class="firstBuyButton"><a href="javascript:void(0)" class="glideButton asyncGlideButton buttonBar " data-ref-tag="null" data-ku-eligible="null" data-url="http://www.goodreads.com/book/show/1683623.Team_Bush" data-asin="null">Kindle eBook </a></li><li class="secondBuyButton"><a href="/buy_buttons/18/follow?book_id=1683623&amp;ref=x_gr_w_visstd_sout_t1_control_bb&amp;tag=x_gr_w_visstd_sout_t1_control_bb-20" id="buyButton" rel="no_follow" target="_blank" class="buttonBar buttonBar-font-control">Amazon ES</a></li><li><div onmouseout="$(this).down('.floatingBox').hide()" onmouseover="$(this).down('.floatingBox').show()" class=" dropButton" id="buyDropButtonStores"><a href="/book/1683623/get_a_copy" url="/book/1683623/get_a_copy" class="buttonBar buttonBar-font-control">Online Stores ?</a><div style="display:none" class="floatingBox buyBox"><a href="/book_link/follow/1?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Amazon</a><br /><a href="/book_link/follow/3?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Barnes &amp; Noble</a><br /><a href="/book_link/follow/10?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Audible</a><br /><a href="/book_link/follow/4?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Abebooks</a><br /><a href="/book_link/follow/882?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Book Depository</a><br /><a href="/book_link/follow/1027?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Kobo</a><br /><a href="/book_link/follow/9?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Indigo</a><br /><a href="/book_link/follow/2?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Half.com</a><br /><a href="/book_link/follow/5?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Alibris</a><br /><a href="/book_link/follow/2102?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">iBooks</a><br /><a href="/book_link/follow/107?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Better World Books</a><br /><a href="/book_link/follow/8036?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Google Play</a><br /><a href="/book_link/follow/7?book_id=1683623&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">IndieBound</a></div></div></li><li class="lastBuyButton"><a href="/book_link/follow/8?book_id=1683623" class="buttonBar buttonBar-font-control" rel="nofollow" target="_blank">Libraries</a></li></ul><div class="clear"></div>
+<a href="javascript:void(0)" class="asyncKindleUnlimitedBuyText glideButton " data-ref-tag="null" data-ku-eligible="null" data-url="http://www.goodreads.com/book/show/1683623.Team_Bush" data-asin="null">Or buy for </a>
+
+    </div>
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+    <div id="self_serve_ads"><div style="width: 600px" class="selfServeAds selfServeAds600">
+  <h3 class="clear">
+    <a href="/advertisers/list" style="color:#aaa;">sponsored books</a>
+  </h3>
+  <br class="clear" />
+  
+<div class="selfServeAd">
+    <div class="adImage">
+      <a href="http://ads.goodreads.com:80/c/74123?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=1" rel="nofollow"><img src="https://d.gr-assets.com/books/1439546913s/26033875.jpg" alt="Darwin's Blind Spot: The Role of Living " /></a>
+    </div>
+  <div class="adDetails">
+    <div class="adTitle">
+      <a href="http://ads.goodreads.com:80/c/74123?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=1" rel="nofollow">Darwin's Blind Spot: The Role of Living </a>
+    </div>
+    <div class="adDescription">
+      "It takes the mind and experience of a physician to understand the consequences of evolutionary biology." James Lovelock, FRS author of Gaia
+    </div>
+    <div class="adUrl">
+      www.goodreads.com
+    </div>
+    <div class="adEngagement">
+    </div>
+  </div>
+  <br class="clear" />
+</div>
+
+<div class="selfServeAd">
+    <div class="adImage">
+      <a href="http://ads.goodreads.com:80/c/65356?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=1" rel="nofollow"><img src="https://d.gr-assets.com/books/1394433135s/21411132.jpg" alt="Oscar and the Zoo" /></a>
+    </div>
+  <div class="adDetails">
+    <div class="adTitle">
+      <a href="http://ads.goodreads.com:80/c/65356?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=1" rel="nofollow">Oscar and the Zoo</a>
+    </div>
+    <div class="adDescription">
+      This story introduces children to healthy foods and exercise and therefore may help them gain knowledge on their importance.
+    </div>
+    <div class="adUrl">
+      www.goodreads.com
+    </div>
+    <div class="adEngagement">
+    </div>
+  </div>
+  <br class="clear" />
+</div>
+
+
+  <a href="/advertisers/list" class="yourAdHere">more books...</a>
+  <br class="clear" />
+</div>
+</div>
+
+<div id="lazy_loadable_view">
+      
+<a name="friends_reviews"></a>
+<div class=" clearFloats bigBox" id="friendReviews"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"></div>Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class="mediumText">
+To see what your friends thought of this book,
+<a href="/user/new" rel="nofollow" class="actionLink">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="communityQASignedOutMessage mediumText">
+To ask other readers questions about
+<a href="/book/show/1683623.Team_Bush" class="bookLink">Team Bush</a>,
+<a href="/user/new" rel="nofollow" class="actionLink">please sign up</a>.
+</div>
+
+<div class="noQuestionsMessage">
+<p>
+Be the first to ask a question about Team Bush
+</p>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/1683623">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="mediumText">
+This book is not yet featured on Listopia.
+<a href="/list" class="actionLink">Add this book to your favorite list »
+</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox" id="other_reviews"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id="reviews">
+<div class="right bookMeta darkGreyText">
+    <span class="smallText">
+(showing
+1-20
+of
+20)
+</span>
+
+</div>
+
+<div data-book-reviews-page="1" id="bookReviewControls">
+  <a onclick="return false" href="#" style="cursor: pointer; " id="span_class_actionlink_filter_span_tip_186" class="uitext"><span class="actionLink">filter</span></a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('span_class_actionlink_filter_span_tip_186'), "\n      &lt;div class=\"greyText smallText\" style=\"white-space:nowrap\"&gt;\n\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?rating=\"&gt;all &lt;span class=\"greyText\"&gt;(20)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/1683623.Team_Bush?rating=5\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;5 stars &lt;span class=\"greyText\"&gt;(2)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/1683623.Team_Bush?rating=4\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;4 stars &lt;span class=\"greyText\"&gt;(1)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/1683623.Team_Bush?rating=3\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;3 stars &lt;span class=\"greyText\"&gt;(4)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/1683623.Team_Bush?rating=2\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;2 stars &lt;span class=\"greyText\"&gt;(2)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/1683623.Team_Bush?rating=1\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;1 star &lt;span class=\"greyText\"&gt;(0)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/div&gt;\n\n      &lt;div class=\"bookMeta\"&gt;\n        editions:\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?edition_reviews=false\"&gt;all&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?edition_reviews=true\"&gt;this edition&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &amp;nbsp;\n        content:\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?text_only=false\"&gt;any&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?text_only=true\"&gt;text-only&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_actionlink_filter_span_tip_186').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_actionlink_filter_span_tip_186').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <span class="greyText"> | </span>
+
+  <a onclick="return false" href="#" style="cursor: pointer; " id="span_class_actionlink_sort_span_default_tip_501" class="uitext"><span class="actionLink">sort</span>: default</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('span_class_actionlink_sort_span_default_tip_501'), "\n      &lt;nobr&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?sort=default\"&gt;default&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?sort=newest\"&gt;newest&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/1683623.Team_Bush?sort=oldest\"&gt;oldest&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/nobr&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_actionlink_sort_span_default_tip_501').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_actionlink_sort_span_default_tip_501').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <a onclick="return false" href="#" style="cursor: pointer; " id="_tip_559" class="bookMeta">(?)</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('_tip_559'), "\n      &lt;div style=\"width: 500px\"&gt;\n        The default sorting algorithm on Goodreads uses a variety of factors to\n        determine the most interesting reviews. The recipe for our special sauce\n        is a closely guarded trade secret, but the ingredients are: length of\n        the review, number of people who liked it, recency of the review,\n        popularity of the reviewer (i.e., number of people who have liked reviews\n        by that person across all books).\n      &lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, hideOthers: true, title: 'about sorting' });
+      $('_tip_559').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('_tip_559').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <span class="greyText"> | </span>
+  <a onclick="return false" href="#" style="cursor: pointer; " class="actionLink" id="rating_details_tip">Rating Details</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n      &lt;div id=\"moreBookData\" class=\"bookMeta\" &gt;\n  \n\n  \n\n&lt;table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\"&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;5&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 50%;\" title=\"2 ratings\" href=\"/book/show/1683623.Team_Bush?rating=5\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          22% (2)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;4&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 25%;\" title=\"1 ratings\" href=\"/book/show/1683623.Team_Bush?rating=4\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          11% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;3&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 100%;\" title=\"4 ratings\" href=\"/book/show/1683623.Team_Bush?rating=3\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          44% (4)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;2&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 50%;\" title=\"2 ratings\" href=\"/book/show/1683623.Team_Bush?rating=2\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          22% (2)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;1&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" href=\"/book/show/1683623.Team_Bush?rating=1\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n\n&lt;\/table&gt;\n\n\n    &lt;span class=\"value\"&gt;78&lt;\/span&gt;% of people liked it\n\n  &lt;table&gt;\n    &lt;tr&gt;\n      &lt;td&gt;&lt;strong&gt;All editions:&lt;\/strong&gt;&lt;\/td&gt;\n      &lt;td&gt;\n        &lt;span class=\"value\"&gt;3.33&lt;\/span&gt; average rating,\n        &lt;span class=\"value\"&gt;9&lt;\/span&gt; ratings,\n        &lt;span class=\"value\"&gt;2&lt;\/span&gt; reviews,\n        added by &lt;span class=\"value\"&gt;20&lt;\/span&gt; people,\n        &lt;span class=\"value\"&gt;3&lt;\/span&gt; to-reads\n      &lt;\/td&gt;\n    &lt;\/tr&gt;\n\n      &lt;tr&gt;\n        &lt;td&gt;&lt;strong&gt;This edition:&lt;\/strong&gt;&lt;\/td&gt;\n        &lt;td&gt;\n          &lt;span class=\"value\"&gt;3.43&lt;\/span&gt; average rating,\n          &lt;span class=\"value\"&gt;7&lt;\/span&gt; ratings,\n          &lt;span class=\"value\"&gt;2&lt;\/span&gt; reviews,\n          added by &lt;span class=\"value\"&gt;18&lt;\/span&gt; people\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n  &lt;\/table&gt;\n&lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>  <script type="text/javascript">
+  //&lt;![CDATA[
+      var $ratingGraph = $j('#rating_graph');
+      var $copy;
+      if ($ratingGraph.length &gt; 0) {
+          $copy = $ratingGraph.clone();
+          $j('#rating_details_tip_graph').remove();
+          $copy.attr('id', 'rating_details_tip_graph');
+          $copy.find('script').remove();
+          $j('#rating_details_tip').prepend($copy);
+      }
+  //]]&gt;
+  </script>
+</div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section firstReview">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review" id="review_1088563193">
+  <link href="http://www.goodreads.com/review/show/1088563193" itemprop="url" />
+  <a href="/user/show/308912-tucker" class="left imgcol" title="Tucker"><img src="http://d.gr-assets.com/users/1364744102p2/308912.jpg" alt="Tucker" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/1088563193?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Oct 24, 2014</a>
+
+      <a href="/user/show/308912-tucker" class="user" title="Tucker">Tucker</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+
+
+
+        
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a href="/review/list/308912-tucker?shelf=finished" class="actionLinkLite">finished</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer1088563193">
+            
+<span id="freeTextContainer2148248472270300937">This is an apparently non-partisan book assessing George W. Bush's leadership style. "As his close friend Roland W. Betts recalled, while other students [at Harvard Business School] were still adjusting to freshman life, ‘George was the person who in three months knew the name of everybody and actually knew 50 percent of the class,’" the author writes.<br /><br />Published in 2003, about halfway through Bush's first term, the book could not capture the issues that would define his presidency. For example, t</span>
+  <span style="display:none" id="freeText2148248472270300937">This is an apparently non-partisan book assessing George W. Bush's leadership style. "As his close friend Roland W. Betts recalled, while other students [at Harvard Business School] were still adjusting to freshman life, ‘George was the person who in three months knew the name of everybody and actually knew 50 percent of the class,’" the author writes.<br /><br />Published in 2003, about halfway through Bush's first term, the book could not capture the issues that would define his presidency. For example, the author writes: "Part of Bush’s success came from choosing fights he could win—and avoiding being entangled in those (like the California energy crisis and the Middle East conflict) where he wasn’t sure he could succeed." One of a long list of indicators that the 2003 invasion of Iraq was <em>not</em> a success is that a recent Reason/Rupe poll found that only 14 percent of Americans today believe it made the U.S. safer. (cited in <em>The Week</em> Magazine, 10/24/2014)<br /><br />The book also reports: "Several highly publicized arrests of corporate executives helped defuse the scandals issue. Agents hauled away executives from Tyco International and ImClone systems in televised ‘perp walks.’ They handcuffed and hauled away the founder of Adelphia Communications, along with his sons, on charges that hey had used the company’s finances as their ‘personal piggybank.’" This is an interesting reminder because people generally do not think "corporate accountability" when they think about the financial crisis at the end of Bush's second term and the beginning of Obama's presidency.<br /><br />Donald F. Kettl. <em>Team Bush: Leadership Lessons from the Bush White House.</em> New York: McGraw-Hill, 2003. (pp. 15, 76, 93-94.)</span>
+  <a onclick="swapContent($(this));; return false;" href="#" data-text-id="2148248472270300937">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=1088563193&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F1683623.Team_Bush" title="Flag this review as inappropriate." id="flag_link1088563193" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_1088563193" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F1683623.Team_Bush" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/1088563193?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_1088563193">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review" id="review_27171334">
+  <link href="http://www.goodreads.com/review/show/27171334" itemprop="url" />
+  <a href="/user/show/1326008-sasha" class="left imgcol" title="Sasha"><img src="http://d.gr-assets.com/users/1216012897p2/1326008.jpg" alt="Sasha" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/27171334?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Jul 13, 2008</a>
+
+      <a href="/user/show/1326008-sasha" class="user" title="Sasha">Sasha</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was amazing">it was amazing</span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span></span>
+
+
+          <div><span class="uitext greyText">Recommends it for: </span>
+           <span class="uitext reviewText">True Americans</span></div>
+
+          <div>
+    <span class="greyText">Recommended to Sasha by: </span>
+      Jeebus
+  </div>
+
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a href="/review/list/1326008-sasha?shelf=smartypants" class="actionLinkLite">smartypants</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer27171334">
+            
+<span id="freeTextContainer17666573390353031148">An instant classic. Learn the secrets of the greatest President ever to head our beloved Nation.</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=27171334&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F1683623.Team_Bush" title="Flag this review as inappropriate." id="flag_link27171334" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_27171334" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F1683623.Team_Bush" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/27171334?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_27171334">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1397068752">
+  <link href="http://www.goodreads.com/review/show/1397068752" itemprop="url" />
+  <a href="/user/show/16392858-richard-marteeny" class="left imgcol" title="Richard Marteeny"><img src="http://d.gr-assets.com/users/1359582723p2/16392858.jpg" alt="Richard Marteeny" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/16392858-richard-marteeny" class="user" title="Richard Marteeny">Richard Marteeny</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1397068752?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Sep 20, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1037995235">
+  <link href="http://www.goodreads.com/review/show/1037995235" itemprop="url" />
+  <a href="/user/show/18093964-ali" class="left imgcol" title="Ali"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Ali" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/18093964-ali" class="user" title="Ali">Ali</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was amazing">it was amazing</span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span></span>
+        <br />
+        <a href="/review/show/1037995235?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Aug 27, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1027185961">
+  <link href="http://www.goodreads.com/review/show/1027185961" itemprop="url" />
+  <a href="/user/show/33980947-peter" class="left imgcol" title="Peter"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Peter" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/33980947-peter" class="user" title="Peter">Peter</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1027185961?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Aug 15, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_802201095">
+  <link href="http://www.goodreads.com/review/show/802201095" itemprop="url" />
+  <a href="/user/show/27040171-tom" class="left imgcol" title="Tom"><img src="http://d.gr-assets.com/users/1423421100p2/27040171.jpg" alt="Tom" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/27040171-tom" class="user" title="Tom">Tom</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was ok">it was ok</span><span class="staticStar p10" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span></span>
+        <br />
+        <a href="/review/show/802201095?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 27, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_692634369">
+  <link href="http://www.goodreads.com/review/show/692634369" itemprop="url" />
+  <a href="/user/show/10792173-anton-klink" class="left imgcol" title="Anton Klink"><img src="http://d.gr-assets.com/users/1341791912p2/10792173.jpg" alt="Anton Klink" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/10792173-anton-klink" class="user" title="Anton Klink">Anton Klink</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/692634369?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Aug 12, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_640632647">
+  <link href="http://www.goodreads.com/review/show/640632647" itemprop="url" />
+  <a href="/user/show/20847372-christine" class="left imgcol" title="Christine"><img src="http://d.gr-assets.com/users/1369915916p2/20847372.jpg" alt="Christine" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/20847372-christine" class="user" title="Christine">Christine</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/640632647?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jun 13, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_493554181">
+  <link href="http://www.goodreads.com/review/show/493554181" itemprop="url" />
+  <a href="/user/show/15559865-mai-chi" class="left imgcol" title="Mai Chi"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Mai Chi" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/15559865-mai-chi" class="user" title="Mai Chi">Mai Chi</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/493554181?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 03, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_464272063">
+  <link href="http://www.goodreads.com/review/show/464272063" itemprop="url" />
+  <a href="/user/show/14940769-daniel" class="left imgcol" title="Daniel"><img src="http://d.gr-assets.com/users/1353985718p2/14940769.jpg" alt="Daniel" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/14940769-daniel" class="user" title="Daniel">Daniel</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+        <br />
+        <a href="/review/show/464272063?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Nov 26, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_399255693">
+  <link href="http://www.goodreads.com/review/show/399255693" itemprop="url" />
+  <a href="/user/show/11573456-muhammad-ihsan" class="left imgcol" title="Muhammad Ihsan"><img src="http://d.gr-assets.com/users/1344132700p2/11573456.jpg" alt="Muhammad Ihsan" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/11573456-muhammad-ihsan" class="user" title="Muhammad Ihsan">Muhammad Ihsan</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="really liked it">really liked it</span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p0" size="15x15" title="really liked it"></span></span>
+        <br />
+        <a href="/review/show/399255693?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Aug 24, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_325537288">
+  <link href="http://www.goodreads.com/review/show/325537288" itemprop="url" />
+  <a href="/user/show/9123904-rob" class="left imgcol" title="Rob"><img src="http://d.gr-assets.com/users/1451530657p2/9123904.jpg" alt="Rob" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/9123904-rob" class="user" title="Rob">Rob</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was ok">it was ok</span><span class="staticStar p10" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span></span>
+        <br />
+        <a href="/review/show/325537288?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">May 07, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_321672034">
+  <link href="http://www.goodreads.com/review/show/321672034" itemprop="url" />
+  <a href="/user/show/8607569-abdelkader-badawi" class="left imgcol" title="Abdelkader Badawi"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Abdelkader Badawi" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/8607569-abdelkader-badawi" class="user" title="Abdelkader Badawi">Abdelkader Badawi</a>
+
+          is currently reading it
+
+        <br />
+        <a href="/review/show/321672034?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Apr 30, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_269342502">
+  <link href="http://www.goodreads.com/review/show/269342502" itemprop="url" />
+  <a href="/user/show/7024007-brians" class="left imgcol" title="Brians"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Brians" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/7024007-brians" class="user" title="Brians">Brians</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/269342502?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 29, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_253328833">
+  <link href="http://www.goodreads.com/review/show/253328833" itemprop="url" />
+  <a href="/user/show/2801349-ludwigpeene" class="left imgcol" title="Ludwigpeene"><img src="http://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" alt="Ludwigpeene" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/2801349-ludwigpeene" class="user" title="Ludwigpeene">Ludwigpeene</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/253328833?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 30, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_146858006">
+  <link href="http://www.goodreads.com/review/show/146858006" itemprop="url" />
+  <a href="/user/show/4693628-nick" class="left imgcol" title="Nick"><img src="http://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" alt="Nick" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/4693628-nick" class="user" title="Nick">Nick</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/146858006?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Feb 08, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_144064587">
+  <link href="http://www.goodreads.com/review/show/144064587" itemprop="url" />
+  <a href="/user/show/4699937-benjamin" class="left imgcol" title="Benjamin"><img src="http://d.gr-assets.com/users/1296158566p2/4699937.jpg" alt="Benjamin" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/4699937-benjamin" class="user" title="Benjamin">Benjamin</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+        <br />
+        <a href="/review/show/144064587?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 27, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_87321256">
+  <link href="http://www.goodreads.com/review/show/87321256" itemprop="url" />
+  <a href="/user/show/272829-nathan-hepler" class="left imgcol" title="Nathan Hepler"><img src="http://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" alt="Nathan Hepler" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/272829-nathan-hepler" class="user" title="Nathan Hepler">Nathan Hepler</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/87321256?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 29, 2010</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_53610635">
+  <link href="http://www.goodreads.com/review/show/53610635" itemprop="url" />
+  <a href="/user/show/760917-eugene" class="left imgcol" title="Eugene"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Eugene" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/760917-eugene" class="user" title="Eugene">Eugene</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/53610635?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Apr 22, 2009</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_52862852">
+  <link href="http://www.goodreads.com/review/show/52862852" itemprop="url" />
+  <a href="/user/show/1731272-truly" class="left imgcol" title="Truly"><img src="http://d.gr-assets.com/users/1318605656p2/1731272.jpg" alt="Truly" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/1731272-truly" class="user" title="Truly">Truly</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+        <br />
+        <a href="/review/show/52862852?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Apr 15, 2009</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div style="float: right; margin-top: 10px" class="uitext">
+  
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a href="/topic/new?context_id=1683623&amp;context_type=Book" rel="nofollow" class="actionLinkLite">new topic</a></div><a href="/topic/list_book/1683623.Team_Bush">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="mediumText">
+There are no discussion topics on this book yet.
+<a href="/topic/new?context_id=1683623&amp;context_type=Book" rel="nofollow" class="actionLink">Be the first to start one »</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+</div>
+
+<div class="rightContainer">
+
+<div class="textRight stacked actionLinkLite">
+      <a href="/book/recommend/1683623.Team_Bush" rel="nofollow">Recommend It</a>
+  <span class="greyText"> | </span>
+    <a href="/book/stats?id=1683623.Team_Bush" rel="nofollow">Stats</a>
+    <span class="greyText"> | </span>
+  <a href="/user_status/book/1683623.Team_Bush" rel="nofollow">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+  <div class="doubleStacked">
+    <div style="width: 300px; height: 250px; margin-top: 9px; margin-bottom: 9px;" id="div-gpt-ad-ec26191a43">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-ec26191a43");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-ec26191a43").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.top.out.300x250_0__container__" style="border: 0pt none;"><iframe width="300" height="250" frameborder="0" id="google_ads_iframe_/4215/goodr.book.top.out.300x250_0" name="google_ads_iframe_/4215/goodr.book.top.out.300x250_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+  </div>
+
+      
+
+
+  
+
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/list/18748.Donald_F_Kettl">Books by Donald F. Kettl</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div data-current-user-id="false" data-use-wtr-tooltip="true" class="js-dataTooltip">
+        <div data-placement="bottom-left" data-resource-id="710356" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/710356.System_Under_Stress"><img width="50" src="http://d.gr-assets.com/books/1347956582m/710356.jpg" id="more_book_710356" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="6192158" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/6192158-the-politics-of-the-administrative-process"><img width="50" src="http://d.gr-assets.com/books/1348437000m/6192158.jpg" id="more_book_6192158" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="3485808" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/3485808-the-next-government-of-the-united-states"><img width="50" src="http://d.gr-assets.com/books/1347479941m/3485808.jpg" id="more_book_3485808" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="1728817" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/1728817.The_Transformation_of_Governance"><img width="50" src="http://d.gr-assets.com/books/1347353729m/1728817.jpg" id="more_book_1728817" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="1374305" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/1374305.The_Global_Public_Management_Revolution"><img width="50" src="http://d.gr-assets.com/books/1348980638m/1374305.jpg" id="more_book_1374305" /></a>
+        </div>
+    </div>
+    <div class="moreLink">
+      <a href="/author/list/18748.Donald_F_Kettl" class="actionLink">More…</a>
+    </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  <div id="cobrandSlot">
+<div style="width: 300px; height: 140px; display: none;" id="div-gpt-ad-dcdef79161">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-dcdef79161");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-dcdef79161").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.cb.300x140_0__container__" style="border: 0pt none;"><iframe width="300" height="140" frameborder="0" id="google_ads_iframe_/4215/goodr.book.cb.300x140_0" name="google_ads_iframe_/4215/goodr.book.cb.300x140_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+</div>
+
+
+
+
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Share This Book</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+  <div class="socialMedia">
+    <div class="shareButton">
+      
+<div data-show-faces="false" data-width="90" data-layout="button_count" data-send="false" data-href="http://www.goodreads.com/book/show/1683623.Team_Bush" class="fb-like fb_iframe_widget" fb-xfbml-state="parsed" fb-iframe-plugin-query="app_id=2415071772&amp;container_width=0&amp;href=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1683623.Team_Bush&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=90"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe width="90px" height="1000px" frameborder="0" name="f311b66ac95008c" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" style="border: medium none; visibility: hidden;" src="http://www.facebook.com/v2.0/plugins/like.php?app_id=2415071772&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df348947a6359e1c%26domain%3Dwww.goodreads.com%26origin%3Dhttp%253A%252F%252Fwww.goodreads.com%252Ffe9b9e30bf747a%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1683623.Team_Bush&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=90"></iframe></span></div>
+
+    </div>
+
+    <div data-gr-tracker-id="book_page_tweet" class="shareButton" id="twitter">
+      <iframe frameborder="0" id="twitter-widget-0" scrolling="no" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 61px; height: 20px;" title="Twitter Tweet Button" src="http://platform.twitter.com/widgets/tweet_button.c633b87376883931e7436b93bb46a699.en.html#_=1452558242791&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1683623.Team_Bush&amp;size=m&amp;text=Team%20Bush%20by%20Donald%20F.%20Kettl%20%E2%80%94%20Reviews%2C%20Discussion%2C%20Bookclubs%2C%20Lists&amp;type=share&amp;url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1683623.Team_Bush"></iframe>
+    </div>
+
+    <div class="shareButton">
+      <div data-size="medium" class="g-plusone shareButton"></div>
+    </div>
+
+    <div class="shareButton" id="pinterest">
+      <a data-pin-do="buttonPin" href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1683623.Team_Bush&amp;media=http%3A%2F%2Fd.gr-assets.com%2Fbooks%2F1186843961l%2F1683623.jpg&amp;description=Team+Bush" data-pin-config="beside">
+      <img alt="pin it button" src="//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+      </a>
+    </div>
+
+    <div class="shareButton" id="personalSite">
+      <div style="display:none;" id="blogBook1683623">
+        <h2>Share on your website</h2>
+        <br />
+        <table border="0">
+  <tbody><tr>
+    <td valign="top" class="nobreak">title link</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;Team Bush&lt;/a&gt;" size="25" onclick="this.select();" id="titleLink1683623" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span><br />
+      <a href="http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;utm_source=blog_book">Team Bush</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">avg rating</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;script src=&quot;http://www.goodreads.com/book/avg_rating_widget/1683623&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span><br />
+      <a href="http://www.goodreads.com/book/show/1683623?utm_medium=api&amp;utm_source=book_widget" style="float: left; padding-right: 10px" title="Team Bush"><img border="0" src="http://d.gr-assets.com/books/1186843961s/1683623.jpg" alt="Team Bush" /></a><div><a href="http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;utm_source=book_widget">Team Bush</a><br />Goodreads rating: 3.33 (9 ratings)</div>
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">small image</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;&lt;img alt=&quot;Team Bush&quot; src=&quot;http://d.gr-assets.com/books/1186843961s/1683623.jpg&quot; /&gt;&lt;/a&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span>
+      <a onclick="$('smallImagePreview').toggle(); return false;" href="#">click here</a>
+      <div style="display: none; width: auto;" class="floatingBox" id="smallImagePreview">
+  			<a onclick="$('smallImagePreview').hide(); return false;; return false;" href="#" class="closeLink">[close]</a>
+        <a href="http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;utm_source=blog_book"><img src="http://d.gr-assets.com/books/1186843961s/1683623.jpg" alt="Team Bush" /></a>
+  		</div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">med image</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;&lt;img alt=&quot;Team Bush&quot; src=&quot;http://d.gr-assets.com/books/1186843961m/1683623.jpg&quot; /&gt;&lt;/a&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span>
+      <a onclick="$('mediumImagePreview').toggle(); return false;" href="#">click here</a>
+      <div style="display: none; width: auto;" class="floatingBox" id="mediumImagePreview">
+  			<a onclick="$('mediumImagePreview').hide(); return false;; return false;" href="#" class="closeLink">[close]</a>
+        <a href="http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;utm_source=blog_book"><img src="http://d.gr-assets.com/books/1186843961m/1683623.jpg" alt="Team Bush" /></a>
+  		</div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">BBCode</td>
+    <td style="padding: 0 0 20px 10px">
+      <textarea onclick="this.select()" columns="25" rows="2">[url=http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;utm_source=blog_book][img]http://d.gr-assets.com/books/1186843961l/1683623.jpg[/img][/url]
+      [url=http://www.goodreads.com/book/show/1683623.Team_Bush?utm_medium=api&amp;utm_source=blog_book]Team Bush by Donald F. Kettl[/url]</textarea>
+    </td>
+  </tr>
+</tbody></table>
+      </div>
+      +
+      <a onclick="Lightbox.showBoxByID('blogBook1683623');; return false;" href="#" rel="nofollow" id="personalSite" class="mediumText">Share on your website</a>
+    </div>
+  </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><br /><br />
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/1680225-team-bush-leadership-lessons-from-the-bush-white-house">Trivia About Team Bush</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+				<p class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/1680225-team-bush-leadership-lessons-from-the-bush-white-house">Add some now »</a></p>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+  <div style="width: 300px; height: 250px; margin-top: 9px; margin-bottom: 9px;" id="div-gpt-ad-2e356bb6c9">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-2e356bb6c9");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-2e356bb6c9").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0__container__" style="border: 0pt none;"><iframe width="300" height="250" frameborder="0" id="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0" name="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+
+</div>
+
+  
+
+
+
+<script>
+//&lt;![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i &lt; n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]&gt;
+</script>
+
+<!-- Ethnio Activation Code -->
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+©
+2016
+Goodreads Inc
+</div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a href="/about/us" class="first" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index" rel="nofollow">our blog</a>
+</li>
+<li>
+<a href="/authors-advertisers" rel="nofollow">authors &amp; advertisers blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a href="/help" class="last" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?rel=nofollow&amp;switch_to=mobile">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div onclick="Lightbox.hideBox()" style="display:none" id="overlay"></div>
+<div style="display:none" id="box">
+	<div title="Close this window" onclick="Lightbox.hideBox()" class="xBackground js-closeModalIcon" id="close"></div>
+	<div id="boxContents"></div>
+	<div style="display:none" id="boxContentsLeftovers"></div>
+	<div class="clear"></div>
+</div>
+
+<div style="display:none;" id="fbSigninNotification">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" />
+</div>
+
+  <script src="http://ads.goodreads.com/ad?p=book_page_signed_out&amp;s=600x150&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=1" type="text/javascript">
+  </script><iframe src="http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html" style="visibility: hidden; display: none;"></iframe>
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe frameborder="0" name="fb_xdm_frame_http" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=fe9b9e30bf747a&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe><iframe frameborder="0" name="fb_xdm_frame_https" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=fe9b9e30bf747a&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe frameborder="0" name="f1e855ac8bbbc4e" allowtransparency="true" allowfullscreen="true" scrolling="no" style="display: none;" src="https://www.facebook.com/connect/ping?client_id=2415071772&amp;domain=www.goodreads.com&amp;origin=1&amp;redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df29388fbc799fb2%26domain%3Dwww.goodreads.com%26origin%3Dhttp%253A%252F%252Fwww.goodreads.com%252Ffe9b9e30bf747a%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey"></iframe></div></div></div>
+<script type="text/javascript">
+//&lt;![CDATA[  
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+//]]&gt;
+</script>
+
+
+<script>
+  //&lt;![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]&gt;
+</script>
+<noscript>
+&lt;img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'&gt;
+</noscript>
+
+<script>
+  //&lt;![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]&gt;
+</script>
+<noscript>
+&lt;img style="display: none" width="0" height="0" alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;amp;c2=6035830&amp;amp;amp;c3=&amp;amp;amp;c4=&amp;amp;amp;c5=&amp;amp;amp;c6=&amp;amp;amp;c15=&amp;amp;amp;cv=2.0&amp;amp;amp;cj=1" /&gt;
+</noscript>
+
+
+
+
+</body></html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>Goodreads - unexpected error</title>
+  <link type="text/css" rel="Stylesheet" media="screen" href="https://s.gr-assets.com/assets/goodreads.css" />
+  <link type="text/css" rel="Stylesheet" media="screen" href="https://s.gr-assets.com/assets/main.css" />
+    <!--[if lt IE 8]>
+    <link href="https://s.gr-assets.com/assets/common_images_ie.css" media="screen" rel="Stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if gte IE 8]><!-->
+    <link type="text/css" rel="Stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images.css" />
+    <!--<![endif]-->
+
+    <script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-968618-1']);
+        _gaq.push(['_trackPageview', '/500_unexpected']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+</head>
+<body id="home">
+  <div class="headerContainer">
+      <div class="header">
+
+	  <div class="branding">
+	        <a href="/"><img width="200" height="41" border="0" class="logo" alt="goodreads" src="https://s.gr-assets.com/assets/layout/goodreads_logo.gif" /></a>
+		  </div>
+	  </div>
+      </div>
+
+  <!-- BEGIN: mainContent -->
+  <div class="mainContentContainer">
+    <div class="mainContent">
+      <div class="mainContentFloat">
+
+	<div class="leftContainer mediumText">
+
+	    <h1>page unavailable</h1>
+	      <br />
+	      An unexpected error occurred. We will investigate this problem as soon as possible — please check back soon!
+
+	      </div>
+	</div>
+      </div>
+    </div>
+  <!-- END: mainContent -->
+
+
+</body></html>

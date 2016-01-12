@@ -1,0 +1,2358 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="desktop js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms no-csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#"><style type="text/css"></style>
+  <meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification" />
+  <title>
+
+For the Love of Beau (Delta Justice #9) by Margaret St. George — Reviews, Discussion, Bookclubs, Lists
+</title>
+
+    <meta content="For the Love of Beau (Delta Justice #9)" property="og:title" />
+  <meta content="good_reads:book" property="og:type" />
+  <meta content="http://www.goodreads.com/work/best_book/303881-for-the-love-of-beau" property="og:url" />
+  <meta content="Goodreads" property="og:site_name" />
+  <meta content="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1173669988i/312981._UY475_SS475_.jpg" property="og:image" />
+  <meta content="2415071772" property="fb:app_id" />
+  <meta content="The surest way to get Holly Gibson to do something was to forbid itDr. Holly Gibson had a professional dream, and a stubborn aversion to ..." property="og:description" />
+  <meta content="0373825692" property="good_reads:isbn" />
+  <meta content="249" property="good_reads:page_num" />
+  <meta content="http://www.goodreads.com/author/show/80837.Margaret_St_George" property="good_reads:author" />
+  <meta content="com.goodreads.https://book/show/312981" property="al:ios:url" />
+  <meta content="355833469" property="al:ios:app_store_id" />
+  <meta content="Goodreads" property="al:ios:app_name" />
+
+  <link href="android-app://com.goodreads/http/www.goodreads.com/book/show/312981.For_the_Love_of_Beau" rel="alternate" />
+
+
+    <meta content="For the Love of Beau has 5 ratings and 1 review. The surest way to get Holly Gibson to do something was to forbid itDr. Holly Gibson had a professional d..." name="description" />
+
+  <meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1" />
+  <meta content="app-id=355833469" name="apple-itunes-app" />
+
+
+          <script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script src="http://pixel.quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<link rel="stylesheet" href="http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css" media="all" /><script>
+//&lt;![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]&gt;
+</script>
+
+  <link href="http://s.gr-assets.com/assets/goodreads-3c9b9a966816a4aac5c3d68c79fb1280.css" media="all" rel="stylesheet" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="all" href="http://s.gr-assets.com/assets/goodreads_split2-83b1af1f3e876bbcccdf21d7600cad4a.css" />
+<![endif]-->
+  <script src="http://s.gr-assets.com/assets/application-a06f3da8ffeb1807014f7bd704106ffd.js"></script><script src="/assets/prototip/styles.js" type="text/javascript"></script>
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="E1wOnlVttNoj2/INjxy7wIqujeabRmXES7vHeMVQN8d2iDFNp7+gIK8DhrbxfV1yw1lO/9KbIm4hssLqCcXBgg==" name="csrf-token" />
+
+  <meta content="0XAV5P5R7B2R4CMJHZJT" name="request-id" />
+
+      <link href="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau" rel="canonical" />
+
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/ie-243e73b5c2539766a7d02b37fdf277f8.css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/common_images_ie-ff1f4db02ef61385ef51f103d00c6211.css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-1f5f358465cda19b462df17cb7cab8f7.css" media="screen" rel="stylesheet" />
+  <!--<![endif]-->
+
+  <script>
+  //&lt;![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("grsession", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("shelf", ["toread","readg","mystery","contemporary"]);
+    googletag.pubads().setTargeting("gtargeting", "70jz1hxd");
+    googletag.pubads().setTargeting("resource", "Work_303881");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]&gt;
+</script>
+
+  
+
+
+      <link href="http://s.gr-assets.com/assets/book/show-4f5a7a0bb0741cb3c8e17daf13dd08e2.css" media="screen" rel="stylesheet" />
+
+    <!--[if lte IE 7]>
+    <style type="text/css" media="screen">
+        #imagecol { overflow: hidden; }
+    </style>
+    <![endif]-->
+
+    <script src="http://s.gr-assets.com/assets/book/show-3e4b15b467bc4087a739b6c57cbb0454.js"></script>
+  <script>
+  //&lt;![CDATA[
+    !function(d,s,id)
+      {var js, fjs = d.getElementsByTagName(s)[0];
+        if(!d.getElementById(id))
+          {js=d.createElement(s);
+          js.id=id;
+          js.src='https://platform.twitter.com/widgets.js';
+          fjs.parentNode.insertBefore(js,fjs);
+        }}(document,'script','twitter-wjs');
+  //]]&gt;
+  </script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.left.out.160x600", [160, 600], "div-gpt-ad-275fb5a261")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-275fb5a261") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-275fb5a261", attrs);
+    
+            if (true &amp;&amp; document.getElementById("div-gpt-ad-275fb5a261").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.right.out.160x600", [160, 600], "div-gpt-ad-2ad70278d2")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-2ad70278d2") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-2ad70278d2", attrs);
+    
+            if (true &amp;&amp; document.getElementById("div-gpt-ad-2ad70278d2").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.top.out.300x250", [300, 250], "div-gpt-ad-2e7c486b70")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-2e7c486b70") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-2e7c486b70", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-2e7c486b70").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.cb.300x140", [300, 140], "div-gpt-ad-5681756e24")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-5681756e24") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-5681756e24", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-5681756e24").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.bottom.out.300x250", [300, 250], "div-gpt-ad-4ca06c5181")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-4ca06c5181") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-4ca06c5181", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-4ca06c5181").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.top.out.970x66", [970, 66], "div-gpt-ad-3bd5b0e7d6")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-3bd5b0e7d6") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-3bd5b0e7d6", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-3bd5b0e7d6").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+
+  
+  
+  
+  <link title="Goodreads" href="/opensearch.xml" type="application/opensearchdescription+xml" rel="search" />
+
+
+  <script>
+  //&lt;![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("&lt;li/&gt;").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]&gt;
+</script>
+
+
+<script src="http://partner.googleadservices.com/gpt/pubads_impl_78.js" async=""></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.57b265f4a957883c0d94631f668764c9.js"></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/osd.js"></script></head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <div id="siteheader" class="uitext">
+<div class="mainContent">
+<ul id="usernav" class="nav">
+<li>
+<strong>
+<a href="/user/new" rel="nofollow" class="navlink">register</a>
+</strong>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau" rel="nofollow" class="navlink">sign in</a>
+</li>
+</ul>
+<div id="logo">
+<a href="/"></a>
+<a href="/"><img width="140" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" alt="Goodreads: Book reviews, recommendations, and discussion" /></a>
+</div>
+<div id="sitesearch">
+<form method="get" accept-charset="UTF-8" action="/search" id="headerSearchForm"><input type="hidden" value="?" name="utf8" /><div class="auto_complete_field_wrapper">
+<input type="text" placeholder="Title / Author / ISBN" id="sitesearch_field" name="query" />
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading trans" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="loading" id="sitesearch_field_loading" style="display: none" />
+</div>
+<a onclick="$j('#headerSearchForm').submit(); return false;" href="#" class="submitLink"><img width="16" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" alt="search" title="Title / Author / ISBN" /></a>
+</form>
+</div>
+
+<ul id="sitenav" class="nav">
+<li>
+<a href="/" class="navlink">Home</a>
+</li>
+<li>
+<a href="/review/list" rel="nofollow" class="navlink">My Books</a>
+</li>
+<li>
+<a href="/friend" rel="nofollow" class="navlink">Friends</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a href="/book" class="navlink" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2015" title="2015 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2016/1" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Quotes</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Creative Writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">People</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a href="/book" class="dropDownOpener subnavlink"></a>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+      <div id="landingAdLeft" class="genericLandingAdRail">
+    <div style="width: 160px; height: 600px; right: 0px; position: absolute; display: none;" id="div-gpt-ad-275fb5a261">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-275fb5a261");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-275fb5a261").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__container__" style="border: 0pt none;"><iframe width="160" height="600" frameborder="0" id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0" name="google_ads_iframe_/4215/goodr.book.left.out.160x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div><iframe width="0" height="0" frameborder="0" id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__hidden__" name="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__hidden__" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom; visibility: hidden; display: none;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div>
+
+  </div>
+  <div id="landingAdRight" class="genericLandingAdRail">
+    <div style="width: 160px; height: 600px; left: 0px; position: absolute; display: none;" id="div-gpt-ad-2ad70278d2">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-2ad70278d2");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-2ad70278d2").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.right.out.160x600_0__container__" style="border: 0pt none;"><iframe width="160" height="600" frameborder="0" id="google_ads_iframe_/4215/goodr.book.right.out.160x600_0" name="google_ads_iframe_/4215/goodr.book.right.out.160x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+  </div>
+
+    <div class="mainContent">
+          <div id="premiumAdTop">
+      <div style="width: 970px; height: 66px; display: none;" id="div-gpt-ad-3bd5b0e7d6">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-3bd5b0e7d6");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-3bd5b0e7d6").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.top.out.970x66_0__container__" style="border: 0pt none;"><iframe width="970" height="66" frameborder="0" id="google_ads_iframe_/4215/goodr.book.top.out.970x66_0" name="google_ads_iframe_/4215/goodr.book.top.out.970x66_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+    </div>
+
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  <div class="ctaBannerShown">
+<div class="ctaHeader">
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “For the Love of Beau (Delta Justice #9)” as Want to Read:
+</div>
+<div class="ctaButton">
+<div id="1_book_312981" class="wtrButtonContainer wtrSignedOut">
+<div class="wtrUp wtrLeft">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="E1wOnlVttNoj2/INjxy7wIqujeabRmXES7vHeMVQN8d2iDFNp7+gIK8DhrbxfV1yw1lO/9KbIm4hssLqCcXBgg==" name="authenticity_token" />
+<input type="hidden" value="312981" id="book_id" name="book_id" />
+<input type="hidden" value="to-read" id="name" name="name" />
+<input type="hidden" value="1_book_312981" id="unique_id" name="unique_id" />
+<input type="hidden" value="true" id="wtr_new" name="wtr_new" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" class="wtrLeftUpRef" value="" id="ref" name="ref" />
+<input type="hidden" class="wtrExisting" value="false" id="existing_review" name="existing_review" />
+<input type="hidden" id="page_url" name="page_url" />
+<button type="submit" class="wtrToRead">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class="wtrRight wtrUp">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="E1wOnlVttNoj2/INjxy7wIqujeabRmXES7vHeMVQN8d2iDFNp7+gIK8DhrbxfV1yw1lO/9KbIm4hssLqCcXBgg==" name="authenticity_token" />
+<input type="hidden" value="1_book_312981" id="unique_id" name="unique_id" />
+<input type="hidden" value="312981" id="book_id" name="book_id" />
+<input type="hidden" id="a" name="a" />
+<input type="hidden" id="name" name="name" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" id="page_url" name="page_url" />
+</form>
+
+<button class="wtrShelfButton"></button>
+<div class="wtrShelfMenu">
+<ul class="wtrExclusiveShelves">
+<li><button value="to-read" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Want to Read</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+<li><button value="currently-reading" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Currently Reading</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+<li><button value="read" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Read</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="ctaBannerTriangle"></div>
+
+
+<div itemtype="http://schema.org/Book" itemscope="" class="leftContainer">
+<div class="last col stacked" id="topcol">
+
+
+<div class="col" id="imagecol">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a href="/book/photo/312981.For_the_Love_of_Beau" itemprop="image" rel="nofollow"><img src="http://d.gr-assets.com/books/1173669988l/312981.jpg" alt="For the Love of Beau (Delta Justice #9)" id="coverImage" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="http://www.goodreads.com/work/editions/303881-for-the-love-of-beau">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div id="edition_312981_enlarge" class="coverButton enlargeCover">
+            Enlarge cover
+          </div>
+          <div style="display: none;" id="edition_312981_enlarge_cover" class="editionCover">
+            <img alt="312981" src="http://d.gr-assets.com/books/1173669988l/312981.jpg" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+    <div id="2_book_312981" class="wtrButtonContainer wtrSignedOut">
+<div class="wtrUp wtrLeft">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="E1wOnlVttNoj2/INjxy7wIqujeabRmXES7vHeMVQN8d2iDFNp7+gIK8DhrbxfV1yw1lO/9KbIm4hssLqCcXBgg==" name="authenticity_token" />
+<input type="hidden" value="312981" id="book_id" name="book_id" />
+<input type="hidden" value="to-read" id="name" name="name" />
+<input type="hidden" value="2_book_312981" id="unique_id" name="unique_id" />
+<input type="hidden" value="true" id="wtr_new" name="wtr_new" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" class="wtrLeftUpRef" value="" id="ref" name="ref" />
+<input type="hidden" class="wtrExisting" value="false" id="existing_review" name="existing_review" />
+<input type="hidden" value="/book/show/312981.For_the_Love_of_Beau" id="page_url" name="page_url" />
+<button type="submit" class="wtrToRead">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class="wtrRight wtrUp">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="E1wOnlVttNoj2/INjxy7wIqujeabRmXES7vHeMVQN8d2iDFNp7+gIK8DhrbxfV1yw1lO/9KbIm4hssLqCcXBgg==" name="authenticity_token" />
+<input type="hidden" value="2_book_312981" id="unique_id" name="unique_id" />
+<input type="hidden" value="312981" id="book_id" name="book_id" />
+<input type="hidden" id="a" name="a" />
+<input type="hidden" id="name" name="name" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" value="/book/show/312981.For_the_Love_of_Beau" id="page_url" name="page_url" />
+</form>
+
+<button class="wtrShelfButton"></button>
+</div>
+
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div data-rating="0" data-submit-url="/review/rate/312981?page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;stars_click=true&amp;wtr_button_id=2_book_312981" data-user-id="0" data-resource-id="312981" class="stars"><a ref="" href="#" title="did not like it" class="star off">1 of 5 stars</a><a ref="" href="#" title="it was ok" class="star off">2 of 5 stars</a><a ref="" href="#" title="liked it" class="star off">3 of 5 stars</a><a ref="" href="#" title="really liked it" class="star off">4 of 5 stars</a><a ref="" href="#" title="it was amazing" class="star off">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+  <div data-book-id="312981" class="asyncPreviewButtonContainer">
+      
+
+<a href="#" data-book-id="312981" id="js-kcrPreviewButton" class="gr-button kcrPreviewButton asyncPreviewButton">Open Preview</a>
+
+<div style="display: none;" class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook312981">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>For the Love of Beau</cite> by Margaret St. George.
+      </div>
+      <form method="post" data-remote="true" accept-charset="UTF-8" action="/kindle_book_mapping_flags" id="new_kindle_book_mapping_flag" class="new_kindle_book_mapping_flag"><input type="hidden" value="?" name="utf8" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br />
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" />
+        </div>
+        <input type="hidden" id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" value="312981" />
+        <input type="submit" class="gr-button" value="Report Problem" name="commit" />
+         
+        <button class="buttonAsActionLinkSecondary" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+        Cancel and return to book page
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div style="display:none;" class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation">
+  <p>Thanks for telling us about the problem.</p>
+  <button id="js-wrongBookKindlePreviewScreenConfirmationDismiss" class="gr-button" type="button">
+    Return to Book Page
+  </button>
+</div>
+<div style="display: none;" class="kindleCloudReader" id="kindleCloudReaderBook312981">
+  <div class="topBanner">
+    <a href="#" data-book-id="312981" class="js-wrongBookKindlePreview" id="wrongBookLink">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>For the Love of Beau</cite>
+        by Margaret St. George
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    &lt;iframe id="wrongBookKindlePreviewScreen"&gt;</iframe>
+  
+</div>
+
+  </div>
+
+
+</div>
+
+<div class="last col" id="metacol">
+<h1 itemprop="name" class="bookTitle" id="bookTitle">
+      For the Love of Beau
+      <a href="/series/132213-delta-justice" class="greyText">
+          (Delta Justice #9)
+</a></h1>
+
+<div class="stacked" id="bookAuthors">
+  <span class="by smallText">by</span>
+<span itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+<a href="http://www.goodreads.com/author/show/80837.Margaret_St_George" itemprop="url" class="authorName"><span itemprop="name">Margaret St. George</span></a>
+</span>
+
+</div>
+
+<div itemtype="http://schema.org/AggregateRating" itemscope="" style="position: relative" class="uitext stacked hreview-aggregate" id="bookMeta">
+  <span style="display:none" class="item"><span class="fn">For the Love of Beau (Delta Justice #9)</span></span>
+  <span class="stars staticStars"><span class="staticStar p10" size="12x12"></span><span class="staticStar p10" size="12x12"></span><span class="staticStar p10" size="12x12"></span><span class="staticStar p3" size="12x12"></span><span class="staticStar p0" size="12x12"></span></span>
+  <span class="value rating"><span itemprop="ratingValue" class="average">3.40</span></span>
+  <span class="greyText"> · </span>
+  <a onclick="return false" href="#" style="cursor: pointer; " class="actionLinkLite" id="rating_details">Rating Details</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('rating_details'), "\n      &lt;div id=\"moreBookData\" class=\"bookMeta\" &gt;\n  \n\n  \n\n&lt;table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\"&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;5&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 50%;\" title=\"1 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;4&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 50%;\" title=\"1 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;3&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 100%;\" title=\"2 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          40% (2)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;2&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 50%;\" title=\"1 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;1&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n\n&lt;\/table&gt;\n\n\n    &lt;span class=\"value\"&gt;80&lt;\/span&gt;% of people liked it\n\n  &lt;table&gt;\n    &lt;tr&gt;\n      &lt;td&gt;&lt;strong&gt;All editions:&lt;\/strong&gt;&lt;\/td&gt;\n      &lt;td&gt;\n        &lt;span class=\"value\"&gt;3.40&lt;\/span&gt; average rating,\n        &lt;span class=\"value\"&gt;5&lt;\/span&gt; ratings,\n        &lt;span class=\"value\"&gt;1&lt;\/span&gt; review,\n        added by &lt;span class=\"value\"&gt;11&lt;\/span&gt; people,\n        &lt;span class=\"value\"&gt;5&lt;\/span&gt; to-reads\n      &lt;\/td&gt;\n    &lt;\/tr&gt;\n\n  &lt;\/table&gt;\n&lt;\/div&gt;\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating Details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>  <span class="greyText"> · </span>
+  <a href="#other_reviews" class="actionLinkLite votes">
+      <span itemprop="ratingCount" title="5" class="value-title">5 Ratings</span>
+</a>  <span class="greyText"> · </span>
+  <a href="#other_reviews" class="actionLinkLite">
+      <span class="count"><span title="1" class="value-title">1</span></span>
+      Review
+</a></div>
+
+<div id="descriptionContainer">
+      <div style="right:0" class="readable stacked" id="description">
+        
+<span id="freeTextContainer3739648267551701875"><em>The surest way to get Holly Gibson to do something was to forbid it</em><p>Dr. Holly Gibson had a professional dream, and a stubborn aversion to taking orders from men.</p><p>Beau Delacroix, too, had a dream: he'd spend every waking hour pursuing his goal to have a Delacroix horse win the Kentucky Derby. And until then, he had no intention of pursuing a serious romantic relationship. And</p></span>
+  <span style="display:none" id="freeText3739648267551701875"><em>The surest way to get Holly Gibson to do something was to forbid it</em><p>Dr. Holly Gibson had a professional dream, and a stubborn aversion to taking orders from men.</p><p>Beau Delacroix, too, had a dream: he'd spend every waking hour pursuing his goal to have a Delacroix horse win the Kentucky Derby. And until then, he had no intention of pursuing a serious romantic relationship. And yet, from the moment the two met, Holly and Beau sensed a connection to each other the like of which they'd never before experienced.</p><p>Holly could support Beau's ambitions, but Beau was profoundly opposed to hers. Mysterious threats to his horses aside, the spark they felt was in danger of bursting into uncontrollable flame.</p></span>
+  <a onclick="swapContent($(this));; return false;" href="#" data-text-id="3739648267551701875">...more</a>
+
+      </div>
+</div>
+
+<div class="uitext stacked darkGreyText" id="details">
+      <div class="row"><span itemprop="bookFormatType">Mass Market Paperback</span>, <span itemprop="numberOfPages">249 pages</span></div>
+
+      <div class="row">
+            Published
+        May 1st 1998
+         by Harlequin
+
+      </div>
+
+  <div class="buttons">
+    <a onclick="$j('#bookDataBoxShow').hide(); $j('#bookDataBoxHide').show(); $j('#bookDataBox').show();
+                         ; return false;" href="#" class="left inter actionLinkLite" id="bookDataBoxShow">More Details...</a>
+
+        <div style="display: none; margin: 10px 0" class="uitext" id="bookDataBox">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Original Title</div>
+                <div class="infoBoxRowItem">For the Love of Beau</div>
+              </div>
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ISBN</div>
+                <div class="infoBoxRowItem">
+                  0373825692
+                      <span class="greyText">(ISBN13: <span itemprop="isbn">9780373825691</span>)</span>
+                </div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div itemprop="inLanguage" class="infoBoxRowItem">English</div>
+              </div>
+
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Series</div>
+                <div class="infoBoxRowItem">
+                  <a href="/series/132213-delta-justice">Delta Justice #9</a>                                  </div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Characters</div>
+                <div class="infoBoxRowItem">
+                  <a href="/characters/115653-holly-gibson">Holly Gibson</a>, <a href="/characters/115654-beau-delacroix">Beau Delacroix</a>
+                </div>
+              </div>
+
+
+
+          <div class="clear"></div>
+
+          <div class="infoBoxRowTitle otherEditions">
+Other Editions
+</div>
+<div class="infoBoxRowItem">
+<div class="darkGreyText noEditionsText uitext">
+None found
+</div>
+<div class="otherEditionsActions">
+<a href="/work/editions/303881-for-the-love-of-beau" class="actionLinkLite">All Editions</a>
+<span class="greyText">
+ | 
+</span>
+<a href="/book/new?author%5Bname%5D=Margaret+St.+George&amp;book%5Btitle%5D=For+the+Love+of+Beau+%28Delta+Justice+%239%29&amp;work%5Bid%5D=303881" rel="nofollow" class="actionLinkLite">Add a New Edition</a>
+<span class="secondaryCopy">
+ | 
+</span>
+<a href="/book/combine/80837" class="actionLinkLite" rel="nofollow">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a onclick="$j('#bookDataBoxShow').show(); $j('#bookDataBoxHide').hide(); $j('#bookDataBox').hide();
+                              ; return false;" href="#" style="display:none" class="left inter actionLinkLite" id="bookDataBoxHide">...Less Detail</a>
+
+    <a href="/book/edit/312981.For_the_Love_of_Beau" rel="nofollow" class="inter uitext greyText right">edit details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+    <div data-book-id="312981" class="uitext buttons" id="asyncBuyButtonContainer">
+      <span class="buttonBarText"><b>Get a copy:</b></span><ul class="buyButtonBar left"><li class="firstBuyButton"><a href="javascript:void(0)" class="glideButton asyncGlideButton buttonBar " data-ref-tag="null" data-ku-eligible="null" data-url="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau" data-asin="null">Kindle eBook </a></li><li class="secondBuyButton"><a href="/buy_buttons/18/follow?book_id=312981&amp;ref=x_gr_w_visstd_sout_t1_control_bb&amp;tag=x_gr_w_visstd_sout_t1_control_bb-20" id="buyButton" rel="no_follow" target="_blank" class="buttonBar buttonBar-font-control">Amazon ES</a></li><li><div onmouseout="$(this).down('.floatingBox').hide()" onmouseover="$(this).down('.floatingBox').show()" class=" dropButton" id="buyDropButtonStores"><a href="/book/312981/get_a_copy" url="/book/312981/get_a_copy" class="buttonBar buttonBar-font-control">Online Stores ?</a><div style="display:none" class="floatingBox buyBox"><a href="/book_link/follow/1?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Amazon</a><br /><a href="/book_link/follow/3?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Barnes &amp; Noble</a><br /><a href="/book_link/follow/10?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Audible</a><br /><a href="/book_link/follow/4?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Abebooks</a><br /><a href="/book_link/follow/882?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Book Depository</a><br /><a href="/book_link/follow/1027?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Kobo</a><br /><a href="/book_link/follow/9?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Indigo</a><br /><a href="/book_link/follow/2?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Half.com</a><br /><a href="/book_link/follow/5?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Alibris</a><br /><a href="/book_link/follow/2102?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">iBooks</a><br /><a href="/book_link/follow/107?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Better World Books</a><br /><a href="/book_link/follow/8036?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Google Play</a><br /><a href="/book_link/follow/7?book_id=312981&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">IndieBound</a></div></div></li><li class="lastBuyButton"><a href="/book_link/follow/8?book_id=312981" class="buttonBar buttonBar-font-control" rel="nofollow" target="_blank">Libraries</a></li></ul><div class="clear"></div>
+<a href="javascript:void(0)" class="asyncKindleUnlimitedBuyText glideButton " data-ref-tag="null" data-ku-eligible="null" data-url="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau" data-asin="null">Or buy for </a>
+
+    </div>
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+    <div id="self_serve_ads"><div style="width: 600px" class="selfServeAds selfServeAds600">
+  <h3 class="clear">
+    <a href="/advertisers/list" style="color:#aaa;">sponsored books</a>
+  </h3>
+  <br class="clear" />
+  
+<div class="selfServeAd">
+    <div class="adImage">
+      <a href="http://ads.goodreads.com:80/c/74793?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=549756862465" rel="nofollow"><img src="https://d.gr-assets.com/books/1440621870s/26170970.jpg" alt="Basement Dwellers" /></a>
+    </div>
+  <div class="adDetails">
+    <div class="adTitle">
+      <a href="http://ads.goodreads.com:80/c/74793?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=549756862465" rel="nofollow">Basement Dwellers</a>
+    </div>
+    <div class="adDescription">
+      A viral outbreak at a hospital leaves a mortician, sheriff, and coroner fighting for their lives against a horde of undead and the CDC.
+    </div>
+    <div class="adUrl">
+      www.goodreads.com
+    </div>
+    <div class="adEngagement">
+    </div>
+  </div>
+  <br class="clear" />
+</div>
+
+<div class="selfServeAd">
+    <div class="adImage">
+      <a href="http://ads.goodreads.com:80/c/57469?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=549756862465" rel="nofollow"><img src="https://d.gr-assets.com/books/1413386350s/23365025.jpg" alt="WWIV - Kids at War" /></a>
+    </div>
+  <div class="adDetails">
+    <div class="adTitle">
+      <a href="http://ads.goodreads.com:80/c/57469?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=549756862465" rel="nofollow">WWIV - Kids at War</a>
+    </div>
+    <div class="adDescription">
+      Almost six years since an unknown event plunged the world into darkness, our world continues to crumble each day. Can humanity survive?
+    </div>
+    <div class="adUrl">
+      www.goodreads.com
+    </div>
+    <div class="adEngagement">
+    </div>
+  </div>
+  <br class="clear" />
+</div>
+
+
+  <a href="/advertisers/list" class="yourAdHere">more books...</a>
+  <br class="clear" />
+</div>
+</div>
+
+<div id="lazy_loadable_view">
+      
+<a name="friends_reviews"></a>
+<div class=" clearFloats bigBox" id="friendReviews"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"></div>Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class="mediumText">
+To see what your friends thought of this book,
+<a href="/user/new" rel="nofollow" class="actionLink">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="communityQASignedOutMessage mediumText">
+To ask other readers questions about
+<a href="/book/show/312981.For_the_Love_of_Beau" class="bookLink">For the Love of Beau</a>,
+<a href="/user/new" rel="nofollow" class="actionLink">please sign up</a>.
+</div>
+
+<div class="noQuestionsMessage">
+<p>
+Be the first to ask a question about For the Love of Beau
+</p>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/312981">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="mediumText">
+This book is not yet featured on Listopia.
+<a href="/list" class="actionLink">Add this book to your favorite list »
+</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox" id="other_reviews"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id="reviews">
+<div class="right bookMeta darkGreyText">
+    <span class="smallText">
+(showing
+1-11
+of
+11)
+</span>
+
+</div>
+
+<div data-book-reviews-page="1" id="bookReviewControls">
+  <a onclick="return false" href="#" style="cursor: pointer; " id="span_class_actionlink_filter_span_tip_441" class="uitext"><span class="actionLink">filter</span></a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('span_class_actionlink_filter_span_tip_441'), "\n      &lt;div class=\"greyText smallText\" style=\"white-space:nowrap\"&gt;\n\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?rating=\"&gt;all &lt;span class=\"greyText\"&gt;(11)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/312981.For_the_Love_of_Beau?rating=5\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;5 stars &lt;span class=\"greyText\"&gt;(1)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/312981.For_the_Love_of_Beau?rating=4\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;4 stars &lt;span class=\"greyText\"&gt;(1)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/312981.For_the_Love_of_Beau?rating=3\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;3 stars &lt;span class=\"greyText\"&gt;(2)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/312981.For_the_Love_of_Beau?rating=2\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;2 stars &lt;span class=\"greyText\"&gt;(1)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/312981.For_the_Love_of_Beau?rating=1\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;1 star &lt;span class=\"greyText\"&gt;(0)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/div&gt;\n\n      &lt;div class=\"bookMeta\"&gt;\n        editions:\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?edition_reviews=false\"&gt;all&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?edition_reviews=true\"&gt;this edition&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &amp;nbsp;\n        content:\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?text_only=false\"&gt;any&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?text_only=true\"&gt;text-only&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_actionlink_filter_span_tip_441').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_actionlink_filter_span_tip_441').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <span class="greyText"> | </span>
+
+  <a onclick="return false" href="#" style="cursor: pointer; " id="span_class_actionlink_sort_span_default_tip_499" class="uitext"><span class="actionLink">sort</span>: default</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('span_class_actionlink_sort_span_default_tip_499'), "\n      &lt;nobr&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?sort=default\"&gt;default&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?sort=newest\"&gt;newest&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/312981.For_the_Love_of_Beau?sort=oldest\"&gt;oldest&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/nobr&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_actionlink_sort_span_default_tip_499').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_actionlink_sort_span_default_tip_499').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <a onclick="return false" href="#" style="cursor: pointer; " id="_tip_635" class="bookMeta">(?)</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('_tip_635'), "\n      &lt;div style=\"width: 500px\"&gt;\n        The default sorting algorithm on Goodreads uses a variety of factors to\n        determine the most interesting reviews. The recipe for our special sauce\n        is a closely guarded trade secret, but the ingredients are: length of\n        the review, number of people who liked it, recency of the review,\n        popularity of the reviewer (i.e., number of people who have liked reviews\n        by that person across all books).\n      &lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, hideOthers: true, title: 'about sorting' });
+      $('_tip_635').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('_tip_635').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <span class="greyText"> | </span>
+  <a onclick="return false" href="#" style="cursor: pointer; " class="actionLink" id="rating_details_tip">Rating Details</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n      &lt;div id=\"moreBookData\" class=\"bookMeta\" &gt;\n  \n\n  \n\n&lt;table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\"&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;5&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 50%;\" title=\"1 ratings\" href=\"/book/show/312981.For_the_Love_of_Beau?rating=5\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;4&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 50%;\" title=\"1 ratings\" href=\"/book/show/312981.For_the_Love_of_Beau?rating=4\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;3&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 100%;\" title=\"2 ratings\" href=\"/book/show/312981.For_the_Love_of_Beau?rating=3\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          40% (2)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;2&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 50%;\" title=\"1 ratings\" href=\"/book/show/312981.For_the_Love_of_Beau?rating=2\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (1)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;1&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" href=\"/book/show/312981.For_the_Love_of_Beau?rating=1\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n\n&lt;\/table&gt;\n\n\n    &lt;span class=\"value\"&gt;80&lt;\/span&gt;% of people liked it\n\n  &lt;table&gt;\n    &lt;tr&gt;\n      &lt;td&gt;&lt;strong&gt;All editions:&lt;\/strong&gt;&lt;\/td&gt;\n      &lt;td&gt;\n        &lt;span class=\"value\"&gt;3.40&lt;\/span&gt; average rating,\n        &lt;span class=\"value\"&gt;5&lt;\/span&gt; ratings,\n        &lt;span class=\"value\"&gt;1&lt;\/span&gt; review,\n        added by &lt;span class=\"value\"&gt;11&lt;\/span&gt; people,\n        &lt;span class=\"value\"&gt;5&lt;\/span&gt; to-reads\n      &lt;\/td&gt;\n    &lt;\/tr&gt;\n\n  &lt;\/table&gt;\n&lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>  <script type="text/javascript">
+  //&lt;![CDATA[
+      var $ratingGraph = $j('#rating_graph');
+      var $copy;
+      if ($ratingGraph.length &gt; 0) {
+          $copy = $ratingGraph.clone();
+          $j('#rating_details_tip_graph').remove();
+          $copy.attr('id', 'rating_details_tip_graph');
+          $copy.find('script').remove();
+          $j('#rating_details_tip').prepend($copy);
+      }
+  //]]&gt;
+  </script>
+</div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section firstReview">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review" id="review_109646755">
+  <link href="http://www.goodreads.com/review/show/109646755" itemprop="url" />
+  <a href="/user/show/3951919-carly" class="left imgcol" title="Carly"><img src="http://d.gr-assets.com/users/1278023053p2/3951919.jpg" alt="Carly" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/109646755?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Jul 01, 2010</a>
+
+      <a href="/user/show/3951919-carly" class="user" title="Carly">Carly</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was amazing">it was amazing</span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span></span>
+
+
+
+        
+
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer109646755">
+            
+<span id="freeTextContainer6795316043433608370">My first romance novel! I totally fell in love with them after this! </span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=109646755&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau" title="Flag this review as inappropriate." id="flag_link109646755" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_109646755" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/109646755?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_109646755">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1417286846">
+  <link href="http://www.goodreads.com/review/show/1417286846" itemprop="url" />
+  <a href="/user/show/42317311-j" class="left imgcol" title="J"><img src="http://d.gr-assets.com/users/1449167104p2/42317311.jpg" alt="J" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/42317311-j" class="user" title="J">J</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1417286846?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Oct 15, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1396407529">
+  <link href="http://www.goodreads.com/review/show/1396407529" itemprop="url" />
+  <a href="/user/show/42807947-vicki-keller" class="left imgcol" title="Vicki Keller"><img src="http://d.gr-assets.com/users/1430864163p2/42807947.jpg" alt="Vicki Keller" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/42807947-vicki-keller" class="user" title="Vicki Keller">Vicki Keller</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1396407529?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Sep 19, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_958801520">
+  <link href="http://www.goodreads.com/review/show/958801520" itemprop="url" />
+  <a href="/user/show/5874694-johanna" class="left imgcol" title="Johanna"><img src="http://d.gr-assets.com/users/1312632883p2/5874694.jpg" alt="Johanna" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/5874694-johanna" class="user" title="Johanna">Johanna</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was ok">it was ok</span><span class="staticStar p10" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span><span class="staticStar p0" size="15x15" title="it was ok"></span></span>
+        <br />
+        <a href="/review/show/958801520?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jun 06, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_868454548">
+  <link href="http://www.goodreads.com/review/show/868454548" itemprop="url" />
+  <a href="/user/show/6583487-toni" class="left imgcol" title="Toni"><img src="http://d.gr-assets.com/users/1388876867p2/6583487.jpg" alt="Toni" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/6583487-toni" class="user" title="Toni">Toni</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+        <br />
+        <a href="/review/show/868454548?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Oct 22, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_814192205">
+  <link href="http://www.goodreads.com/review/show/814192205" itemprop="url" />
+  <a href="/user/show/27347689-holly-wood" class="left imgcol" title="Holly Wood"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Holly Wood" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/27347689-holly-wood" class="user" title="Holly Wood">Holly Wood</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/814192205?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 06, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_507628793">
+  <link href="http://www.goodreads.com/review/show/507628793" itemprop="url" />
+  <a href="/user/show/15139334-bernadette" class="left imgcol" title="Bernadette"><img src="http://d.gr-assets.com/users/1354560648p2/15139334.jpg" alt="Bernadette" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/15139334-bernadette" class="user" title="Bernadette">Bernadette</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+        <br />
+        <a href="/review/show/507628793?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 15, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_231782820">
+  <link href="http://www.goodreads.com/review/show/231782820" itemprop="url" />
+  <a href="/user/show/6771354-urszula" class="left imgcol" title="Urszula"><img src="http://d.gr-assets.com/users/1319766771p2/6771354.jpg" alt="Urszula" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/6771354-urszula" class="user" title="Urszula">Urszula</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="really liked it">really liked it</span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p0" size="15x15" title="really liked it"></span></span>
+        <br />
+        <a href="/review/show/231782820?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Nov 05, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_148013929">
+  <link href="http://www.goodreads.com/review/show/148013929" itemprop="url" />
+  <a href="/user/show/4518329-gj" class="left imgcol" title="GJ"><img src="http://d.gr-assets.com/users/1387419945p2/4518329.jpg" alt="GJ" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/4518329-gj" class="user" title="GJ">GJ</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/148013929?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Nov 29, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_145639007">
+  <link href="http://www.goodreads.com/review/show/145639007" itemprop="url" />
+  <a href="/user/show/4900389-sandy" class="left imgcol" title="Sandy"><img src="http://d.gr-assets.com/users/1428242325p2/4900389.jpg" alt="Sandy" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/4900389-sandy" class="user" title="Sandy">Sandy</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/145639007?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Feb 03, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_109647849">
+  <link href="http://www.goodreads.com/review/show/109647849" itemprop="url" />
+  <a href="/user/show/3283951-rachel-cutitta" class="left imgcol" title="Rachel Cutitta"><img src="http://d.gr-assets.com/users/1277256315p2/3283951.jpg" alt="Rachel Cutitta" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/3283951-rachel-cutitta" class="user" title="Rachel Cutitta">Rachel Cutitta</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/109647849?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jul 01, 2010</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div style="float: right; margin-top: 10px" class="uitext">
+  
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a href="/topic/new?context_id=312981&amp;context_type=Book" rel="nofollow" class="actionLinkLite">new topic</a></div><a href="/topic/list_book/312981.For_the_Love_of_Beau">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="mediumText">
+There are no discussion topics on this book yet.
+<a href="/topic/new?context_id=312981&amp;context_type=Book" rel="nofollow" class="actionLink">Be the first to start one »</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+</div>
+
+<div class="rightContainer">
+
+<div class="textRight stacked actionLinkLite">
+      <a href="/book/recommend/312981.For_the_Love_of_Beau" rel="nofollow">Recommend It</a>
+  <span class="greyText"> | </span>
+    <a href="/book/stats?id=312981.For_the_Love_of_Beau" rel="nofollow">Stats</a>
+    <span class="greyText"> | </span>
+  <a href="/user_status/book/312981.For_the_Love_of_Beau" rel="nofollow">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+  <div class="doubleStacked">
+    <div style="width: 300px; height: 250px; margin-top: 9px; margin-bottom: 9px;" id="div-gpt-ad-2e7c486b70">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-2e7c486b70");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-2e7c486b70").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.top.out.300x250_0__container__" style="border: 0pt none;"><iframe width="300" height="250" frameborder="0" id="google_ads_iframe_/4215/goodr.book.top.out.300x250_0" name="google_ads_iframe_/4215/goodr.book.top.out.300x250_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+  </div>
+
+      
+
+
+  
+
+    <div class="seriesList">
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Other Books in the Series</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class="actionLink">
+<a href="/series/132213">Delta Justice</a>
+</span>
+(1 - 10 of 12 books)
+<div class="bookCarousel">
+<div style="width: 1500px;" class="carouselRow">
+<ul>
+<li id="bookCover_2932198" class="cover">
+<a href="http://www.goodreads.com/book/show/2932198-contract"><img src="http://d.gr-assets.com/books/1331421816s/2932198.jpg" style="height: 75px;" alt="Contract: Paternity (Delta Justice #1)" />
+</a>
+
+  
+<script charset="utf-8" type="text/javascript">
+//&lt;![CDATA[  
+
+  function submitShelfLink(unique_id, book_id, shelf_id, shelf_name, submit_form, exclusive) {
+    var checkbox_id = 'shelf_name_' + unique_id + '_' + shelf_id;
+    var element = document.getElementById(checkbox_id)
+
+    var checked = element.checked
+    if (checked &amp;&amp; exclusive) {
+      // can't uncheck a radio by clicking it!
+      return
+    }
+    if(document.getElementById("savingMessage")){
+      Element.show('savingMessage')
+    }
+    var element_id = 'shelfInDropdownName_' + unique_id + '_' + shelf_id;
+    Element.update(element_id, "saving...");
+    if (submit_form) {
+      Element.hide('shelfDropdown_' + unique_id)
+      var form = document.getElementById('addBookForm' + book_id)
+      if (form) {
+        form.shelf.value = shelf_name
+        form.onsubmit()
+      }
+    }
+    else {
+      var action = checked ? 'remove' : ''
+      element.checked = !element.checked
+      new Ajax.Request('/shelf/add_to_shelf', {asynchronous:true, evalScripts:true, onSuccess:function(request){shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name)}, parameters:'book_id=' + book_id + '&amp;name=' + shelf_name + '&amp;a=' + action + '&amp;authenticity_token=' + encodeURIComponent('mKEkBWmmQkucEIL5MFyv+Uh2qQNUV1T4jR7pKZWFJ6r9dRvWm3RWsRDI9kJOPUlLAYFqGh2KE1LnF+y7WRDR7w==')})
+    }
+  }
+
+  function shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name) {
+    Element.update('shelfListfalse_' + book_id, request.responseText)
+    afterShelfSave(checkbox_id, element_id, unique_id, shelf_name.escapeHTML())
+  }
+
+  function refreshGroupBox(group_id, book_id) {
+    new Ajax.Updater('addGroupBooks' + book_id + '', '/group/add_book_box', {asynchronous:true, evalScripts:true, onSuccess:function(request){refreshGroupBoxComplete(request, book_id);}, parameters:'id=' + group_id + '&amp;book_id=' + book_id + '&amp;refresh=true' + '&amp;authenticity_token=' + encodeURIComponent('IXd6FV6tqsIXkAbJ+oXV0YQqpjyN0pJeiwLI8jO7ad5Eo0XGrH++OJtIcnKE5DNjzd1lJcQP1fThC81g/y6fmw==')})
+  }
+//]]&gt;
+</script>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_2932198'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/2932198-contract?from_choice=false&amp;amp;from_home_module=false\"&gt;Contract: Paternity (Delta Justice #1)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/104950.Jasmine_Cresswell?origin=series_works\"&gt;Jasmine Cresswell&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p3\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.40 avg rating &amp;mdash; 5 ratings&lt;\/span&gt;            &amp;mdash; published 1997\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer1729665850562652255\"&gt;In the Sultry Louisiana heat, A Family Dynasty of Law and Order is Shattered by a Mysterious Crime of PassionToni Delacroix was a lady who could sing the blues, but she was planning to put her career on hold in favor of motherhood. Then, suddenly, he&lt;\/span&gt;\n  &lt;span id=\"freeText1729665850562652255\" style=\"display:none\"&gt;In the Sultry Louisiana heat, A Family Dynasty of Law and Order is Shattered by a Mysterious Crime of PassionToni Delacroix was a lady who could sing the blues, but she was planning to put her career on hold in favor of motherhood. Then, suddenly, her baby lust had to take a back seat to thwarting a blackmail attempt on her lawyer brother.Brody Wagner was sharp, tough and easy on the eyes - the perfect candidate to father her child. Added bonus: it seemed he knew a thing or two about maneuvering around threatened blackmail. Two major roadblocks, though. One, he was a lawyer. Two he considered her ideas about single parenting criminally irresponsible.&lt;\/span&gt;\n  &lt;a data-text-id=\"1729665850562652255\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'3_book_2932198\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"L+/kcveD0oHh6s4gftzs0p5bArq6pOHHdjVCR9mkd69KO9uhBVHGe20yupsAvQpg16zBo/N5pm0cPEfVFTGB6g==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"2932198\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_2932198\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"5Z7Q1ilL4AIOYONjzURaUSJs+eYQ1yHXeXAB1VP0rp2ASu8F25n0+IK4l9izJbzja5s6/1kKZn0TeQRHn2FY2A==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_2932198\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"2932198\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"2932198\" data-user-id=\"0\" data-submit-url=\"/review/rate/2932198?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=3_book_2932198\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_2932198').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_2932198').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_2932198').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_2932198').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_1764936" class="cover">
+<a href="http://www.goodreads.com/book/show/1764936.Letters_Lies_Alibis"><img src="http://d.gr-assets.com/books/1378628176s/1764936.jpg" style="height: 75px;" alt="Letters, Lies &amp; Alibis (Delta Justice #2)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_1764936'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/1764936.Letters_Lies_Alibis?from_choice=false&amp;amp;from_home_module=false\"&gt;Letters, Lies &amp;amp; Alibis (Delta Justice #2)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/150827.Sandy_Steen?origin=series_works\"&gt;Sandy Steen&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span title=\"really liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;really liked it&lt;\/span&gt;&lt;span title=\"really liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span title=\"really liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span title=\"really liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span title=\"really liked it\" size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 4.00 avg rating &amp;mdash; 5 ratings&lt;\/span&gt;            &amp;mdash; published 1997\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer5521196538541244753\"&gt;Revenge is sweet...or is it?Rancher Travis Hardin is determined to right a sixty-year wrong and wreak vengeance on the Delacroix. But he hadn\'t intended to fall in love doing it. Is his desire for Shelby greater than his need to destroy her family?La&lt;\/span&gt;\n  &lt;span id=\"freeText5521196538541244753\" style=\"display:none\"&gt;Revenge is sweet...or is it?Rancher Travis Hardin is determined to right a sixty-year wrong and wreak vengeance on the Delacroix. But he hadn\'t intended to fall in love doing it. Is his desire for Shelby greater than his need to destroy her family?Lawyer Shelby Delacroix never does anything halfway. She\'s passionate about life, her work...and Travis. Lost in a romantic haze, Shelby encourages him to join her in unearthing the Delacroix family secrets. Little does she suspect that Travis is keeping a few secrets of his own....&lt;\/span&gt;\n  &lt;a data-text-id=\"5521196538541244753\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'4_book_1764936\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"A0pegwIkNeJr/acYHNFsdsdtl+jT4xofF1XZaZcdR0JmnmFQ8PYhGOcl06NisIrEjppU8Zo+XbV9XNz7W4ixBw==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"1764936\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"4_book_1764936\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"XmmtPwvZJcgZZw1tmcyasli+vleTgkSEnrl2u25xbPU7vZLs+QsxMpW/edbnrXwAEUl9TtpfAy70sHMpouSasA==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"4_book_1764936\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"1764936\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"1764936\" data-user-id=\"0\" data-submit-url=\"/review/rate/1764936?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=4_book_1764936\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_1764936').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_1764936').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_1764936').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_1764936').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_3551022" class="cover">
+<a href="http://www.goodreads.com/book/show/3551022-finding-kendall"><img src="http://d.gr-assets.com/books/1331341702s/3551022.jpg" style="height: 75px;" alt="Finding Kendall (Delta Justice #3)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_3551022'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/3551022-finding-kendall?from_choice=false&amp;amp;from_home_module=false\"&gt;Finding Kendall (Delta Justice #3)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/297568.Anne_Logan?origin=series_works\"&gt;Anne Logan&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p6\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.50 avg rating &amp;mdash; 2 ratings&lt;\/span&gt;            &amp;mdash; published 1997\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer6206841554398299190\"&gt;He Saved Her Life, Only to Discover She was Working with the EnemyEx-cop Remy Delacroix had opted out of so-called civilization to live and work in the Louisiana swamp. But his sanctuary was being invaded, and he was feeling very uncivilized when he&lt;\/span&gt;\n  &lt;span id=\"freeText6206841554398299190\" style=\"display:none\"&gt;He Saved Her Life, Only to Discover She was Working with the EnemyEx-cop Remy Delacroix had opted out of so-called civilization to live and work in the Louisiana swamp. But his sanctuary was being invaded, and he was feeling very uncivilized when he came across a woman he decided needed rescuing.She barely knew who she was, much less why she\'d come into Remy\'s life. Kendall sensed there was something sinister afoot, something involving Remy\'s uncle. The sinister part was a given - she\'d been left for dead in the bayou. But by whom? As for the villain of the piece, how could she even guess?&lt;\/span&gt;\n  &lt;a data-text-id=\"6206841554398299190\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'5_book_3551022\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"upjUBRPTNLKVFcs1w700oX5c5biNUhNdtsI9u3M0wAbfTOvW4QEgSBnNv4693NITN6smocSPVPfcyzgpv6E2Qw==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551022\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"5_book_3551022\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"8acieuh4AClKyIfqSmIDKIt90W39VyhvuPw8cbyuzZuUcx2pGqoU08YQ81E0A+WawooSdLSKb8XS9TnjcDs73g==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"5_book_3551022\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551022\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"3551022\" data-user-id=\"0\" data-submit-url=\"/review/rate/3551022?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=5_book_3551022\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_3551022').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_3551022').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_3551022').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_3551022').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_3551106" class="cover">
+<a href="http://www.goodreads.com/book/show/3551106-in-the-bride-s-defense"><img src="http://d.gr-assets.com/books/1404693810s/3551106.jpg" style="height: 75px;" alt="In the Bride's Defense (Delta Justice #4)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_3551106'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/3551106-in-the-bride-s-defense?from_choice=false&amp;amp;from_home_module=false\"&gt;In the Bride&amp;#39;s Defense (Delta Justice #4)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/202964.Kelsey_Roberts?origin=series_works\"&gt;Kelsey Roberts&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p6\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.67 avg rating &amp;mdash; 3 ratings&lt;\/span&gt;            &amp;mdash; published 1997\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer7750896672204958753\"&gt;She needed this marriage to prove her innocence...and this love to save her life.Lucas Henderson is a man with a mission. He\'ll stop at nothing to solve a friend\'s mysterious death by poisoning - even when his investigation leads him straight into th&lt;\/span&gt;\n  &lt;span id=\"freeText7750896672204958753\" style=\"display:none\"&gt;She needed this marriage to prove her innocence...and this love to save her life.Lucas Henderson is a man with a mission. He\'ll stop at nothing to solve a friend\'s mysterious death by poisoning - even when his investigation leads him straight into the arms of a beautiful woman.Marie Delacroix is used to being unconventional. She\'d dropped out of medical school to become an aromatherapist. Now, accused of murder, with dangers threatening everyone she loves and trusts, she\'ll do the most unorthodox thing of all: live a lie to find the truth. She\'ll do anything to prove her innocence - including marry Lucas.&lt;\/span&gt;\n  &lt;a data-text-id=\"7750896672204958753\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'6_book_3551106\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"qJNhw8Ok9ztgWNBARcTQlbunEPQoRvMQmJ5HmYE0NVDNR14QMXbjweyApPs7pTYn8lDT7WGbtLryl0ILTaHDFQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551106\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"6_book_3551106\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"EWEBOxiPiErt1CLHk0OjZ9OVbsl8oUXP2a6xOZ09upB0tT7o6l2csGEMVnztIkXVmmKt0DV8AmWzp7SrUahM1Q==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"6_book_3551106\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551106\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"3551106\" data-user-id=\"0\" data-submit-url=\"/review/rate/3551106?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=6_book_3551106\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_3551106').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_3551106').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_3551106').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_3551106').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_3551044" class="cover">
+<a href="http://www.goodreads.com/book/show/3551044-every-kid-needs-a-hero"><img src="http://d.gr-assets.com/books/1331341364s/3551044.jpg" style="height: 75px;" alt="Every Kid Needs a Hero (Delta Justice #5)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_3551044'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/3551044-every-kid-needs-a-hero?from_choice=false&amp;amp;from_home_module=false\"&gt;Every Kid Needs a Hero (Delta Justice #5)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/239127.Candace_Schuler?origin=series_works\"&gt;Candace Schuler&lt;\/a&gt;&lt;span title=\"Goodreads Author!\"&gt;*&lt;\/span&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p3\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.33 avg rating &amp;mdash; 3 ratings&lt;\/span&gt;            &amp;mdash; published 1998\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer3260483599935853741\"&gt;She was a Delacroix; she was bred to win...Widower Matt Taggart, the local vet, had a couple of kids to raise and not a lot of time for headstrong, jet-set women like Jax Delacroix.Jacqueline Delacroix had succeeded beautifully doing a man\'s job in a&lt;\/span&gt;\n  &lt;span id=\"freeText3260483599935853741\" style=\"display:none\"&gt;She was a Delacroix; she was bred to win...Widower Matt Taggart, the local vet, had a couple of kids to raise and not a lot of time for headstrong, jet-set women like Jax Delacroix.Jacqueline Delacroix had succeeded beautifully doing a man\'s job in a man\'s world. She had no desire to be the perfect wife and mother. But back home in Bayou Beltane, Jax was running into the same old Southern family expectations. This time, though, they were coming from little Amy Taggart...and her irresistible dad.&lt;\/span&gt;\n  &lt;a data-text-id=\"3260483599935853741\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'7_book_3551044\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"y7/Li8Kr8kSCuQoUPxY3PGCA/r011508tf+r9yZ4CDWua/RYMHnmvg5hfq9Bd9GOKXc9pHwK2pbf9q5l6u3+cA==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551044\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"7_book_3551044\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"XhNAnjt+6VUoy+RfYpybKi+h7agbE7/OZJwAXg1evD47x39Nyaz9r6QTkOQc/X2YZlYusVLO+GQOlQXMwctKew==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"7_book_3551044\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551044\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"3551044\" data-user-id=\"0\" data-submit-url=\"/review/rate/3551044?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=7_book_3551044\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_3551044').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_3551044').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_3551044').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_3551044').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_3551196" class="cover">
+<a href="http://www.goodreads.com/book/show/3551196-son-of-the-sheriff"><img src="http://d.gr-assets.com/books/1331167758s/3551196.jpg" style="height: 75px;" alt="Son of the Sheriff (Delta Justice #6)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_3551196'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/3551196-son-of-the-sheriff?from_choice=false&amp;amp;from_home_module=false\"&gt;Son of the Sheriff (Delta Justice #6)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/150827.Sandy_Steen?origin=series_works\"&gt;Sandy Steen&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span title=\"liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;liked it&lt;\/span&gt;&lt;span title=\"liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span title=\"liked it\" size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span title=\"liked it\" size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;span title=\"liked it\" size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.00 avg rating &amp;mdash; 3 ratings&lt;\/span&gt;            &amp;mdash; published 1998\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer10443257240478778635\"&gt;He\'d Never Stopped Loving Her...But He Didn\'t Dare Trust Her.After sixteen years Annabelle Delacroix has finally come home. After a disastrous marriage arranged by her father, Philip Delacroix, she\'s ready to start over. But when she\'s pulled over by&lt;\/span&gt;\n  &lt;span id=\"freeText10443257240478778635\" style=\"display:none\"&gt;He\'d Never Stopped Loving Her...But He Didn\'t Dare Trust Her.After sixteen years Annabelle Delacroix has finally come home. After a disastrous marriage arranged by her father, Philip Delacroix, she\'s ready to start over. But when she\'s pulled over by Sheriff Jake Trahan, the past comes rushing back - memories of first love and youthful passion.Jake Trahan can\'t believe Annabelle\'s back. And despite her past betrayal, he still wants her. But it isn\'t until he meets Annabelle\'s son, Cade, that he realizes the true extent of Annabelle\'s disloyalty.Because Cade is his son, too...&lt;\/span&gt;\n  &lt;a data-text-id=\"10443257240478778635\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'8_book_3551196\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"TF7kPHf4L3VlzbxMALBpqwRQSH0ec56uZXSIyBbHX+8pitvvhSo7j+kVyPd+0Y8ZTaeLZFeu2QQPfY1a2lKpqg==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551196\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"8_book_3551196\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"t9chmBXvZbbMmv5cqCiG5PkhWKYDyN44vedgLxuRuDTSAx5L5z1xTEBCiufWSWBWsNabv0oVmZLX7mW91wROcQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"8_book_3551196\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3551196\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"3551196\" data-user-id=\"0\" data-submit-url=\"/review/rate/3551196?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=8_book_3551196\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_3551196').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_3551196').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_3551196').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_3551196').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_1781509" class="cover">
+<a href="http://www.goodreads.com/book/show/1781509.Overruled_by_Love"><img src="http://d.gr-assets.com/books/1188248086s/1781509.jpg" style="height: 75px;" alt="Overruled by Love (Delta Justice #7)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_1781509'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/1781509.Overruled_by_Love?from_choice=false&amp;amp;from_home_module=false\"&gt;Overruled by Love (Delta Justice #7)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/259798.M_J_Rodgers?origin=series_works\"&gt;M.J. Rodgers&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p3\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.25 avg rating &amp;mdash; 4 ratings&lt;\/span&gt;            &amp;mdash; published 1998\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer5040874765297419026\"&gt;She needed a hero. She found a man.Joanna Delacroix Gideon needed a hero. Her husband was dead. Her idolized father wasn\'t the man of honor he pretended to be. And now her only child stood accused of murder.Logan Weston was the man. He\'d never lost a&lt;\/span&gt;\n  &lt;span id=\"freeText5040874765297419026\" style=\"display:none\"&gt;She needed a hero. She found a man.Joanna Delacroix Gideon needed a hero. Her husband was dead. Her idolized father wasn\'t the man of honor he pretended to be. And now her only child stood accused of murder.Logan Weston was the man. He\'d never lost a case. And he\'d never gotten involved with a client. But his rules might have to change because the enemies of the Delacroix family were determined - and deadly. With Logan\'s heart - and the life of Joanna\'s daughter - on the line, would his luck hold out this time?&lt;\/span&gt;\n  &lt;a data-text-id=\"5040874765297419026\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'9_book_1781509\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"qSTuLdMd73dwxYqjTjWOJAevxBBEd3siUunZzahveWTM8NH+Ic/7jfwd/hgwVGiWTlgHCQ2qPIg44NxfZPqPIQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"1781509\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"9_book_1781509\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"av0HkQR8skevo8EpVn5lmQuPwxmT9/ZEML60PEUeD14PKThC9q6mvSN7tZIoH4MrQngAANoqse5at7GuiYv5Gw==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"9_book_1781509\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"1781509\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"1781509\" data-user-id=\"0\" data-submit-url=\"/review/rate/1781509?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=9_book_1781509\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_1781509').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_1781509').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_1781509').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_1781509').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_353948" class="cover">
+<a href="http://www.goodreads.com/book/show/353948.Someone_to_Watch_Over_Her"><img src="http://d.gr-assets.com/books/1404620285s/353948.jpg" style="height: 75px;" alt="Someone to Watch Over Her (Delta Justice #8)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_353948'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/353948.Someone_to_Watch_Over_Her?from_choice=false&amp;amp;from_home_module=false\"&gt;Someone to Watch Over Her (Delta Justice #8)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/202964.Kelsey_Roberts?origin=series_works\"&gt;Kelsey Roberts&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p6\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.75 avg rating &amp;mdash; 4 ratings&lt;\/span&gt;            &amp;mdash; published 1998\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer5449703573021662202\"&gt;He was supposed to guard her body...not steal her heartCharly Delacroix didn\'t agree that she needed a keeper. So her father, Justin Delacroix, swore that handsome, protective Marshall Avery was only a personal trainer and his presence had nothing to&lt;\/span&gt;\n  &lt;span id=\"freeText5449703573021662202\" style=\"display:none\"&gt;He was supposed to guard her body...not steal her heartCharly Delacroix didn\'t agree that she needed a keeper. So her father, Justin Delacroix, swore that handsome, protective Marshall Avery was only a personal trainer and his presence had nothing to do with the injury that had taken her out of active duty with the police. Or the whispered threats she kept receiving by phone...Charly wanted to believe Marshall was just there to work out with her. But his cobalt blue eyes showed his interest to be far too personal...and far, far too tempting.&lt;\/span&gt;\n  &lt;a data-text-id=\"5449703573021662202\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'10_book_353948\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"Tb0TlIkNTotTsGTyA/Z2hilscXzdqf0FZ+FVt8gCBlcoaSxHe99acd9oEEl9l5A0YJuyZZR0uq8N6FAlBJfwEg==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"353948\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"10_book_353948\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"slso746MiEyb/14uRnKO4WH4q3YoQXz/QbIrQElHQmzXjxc8fF6cthcnKpU4E2hTKA9ob2GcO1Uruy7ShdK0KQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"10_book_353948\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"353948\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"353948\" data-user-id=\"0\" data-submit-url=\"/review/rate/353948?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=10_book_353948\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_353948').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_353948').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_353948').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_353948').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_2561612" class="cover">
+<a href="http://www.goodreads.com/book/show/2561612.French_Twist"><img src="http://d.gr-assets.com/books/1331166181s/2561612.jpg" style="height: 75px;" alt="French Twist (Delta Justice #10)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_2561612'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/2561612.French_Twist?from_choice=false&amp;amp;from_home_module=false\"&gt;French Twist (Delta Justice #10)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/212098.Margot_Dalton?origin=series_works\"&gt;Margot Dalton&lt;\/a&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p6\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.50 avg rating &amp;mdash; 4 ratings&lt;\/span&gt;            &amp;mdash; published 1998\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer17023342428464233810\"&gt;Out of Sight, Out of Mind?Ten years ago, Madeline Belanger made the painful decision to leave Bayou Beltane and start a new life. But now, somebody was threatening her family. And Madeline had come back to find out who. If only she could avoid Justin&lt;\/span&gt;\n  &lt;span id=\"freeText17023342428464233810\" style=\"display:none\"&gt;Out of Sight, Out of Mind?Ten years ago, Madeline Belanger made the painful decision to leave Bayou Beltane and start a new life. But now, somebody was threatening her family. And Madeline had come back to find out who. If only she could avoid Justin, her ex-husband, her first love, the man she couldn\'t seem to forget...Newly appointed judge Justin Delacroix had finally gained the success he\'d so determinedly worked for. But he\'d paid too high a price - he\'d lost the only woman he\'d ever loved. When he learned Madeline was back in town, he suddenly realized he\'d been given a second chance. He\'d vowed he\'d do whatever it took to win his wife back. But after ten years, was he still the man she wanted?&lt;\/span&gt;\n  &lt;a data-text-id=\"17023342428464233810\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'11_book_2561612\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"0MpwLOv7dP+I39Vwv60Yad6tg8uWcIPZNrPpvotDHv+1Hk//GSlgBQQHocvBzP7bl1pA0t+txHNcuuwsR9boug==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"2561612\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"11_book_2561612\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"gyvP/jf5XUOTdj4T2RP26uC/swijkQtv+50rQ5YBnwbm//AtxStJuR+uSqinchBYqUhwEepMTMWRlC7RWpRpQw==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"11_book_2561612\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"2561612\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"2561612\" data-user-id=\"0\" data-submit-url=\"/review/rate/2561612?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=11_book_2561612\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_2561612').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_2561612').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_2561612').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_2561612').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+<li id="bookCover_2138860" class="cover">
+<a href="http://www.goodreads.com/book/show/2138860.Legacy_of_Secrets"><img src="http://d.gr-assets.com/books/1266575386s/2138860.jpg" style="height: 75px;" alt="Legacy of Secrets (Delta Justice #11)" />
+</a>
+
+
+<script>
+//&lt;![CDATA[
+      var newTip = new Tip($('bookCover_2138860'), "\n\n  &lt;h2&gt;&lt;a class=\"readable bookTitle\" href=\"http://www.goodreads.com/book/show/2138860.Legacy_of_Secrets?from_choice=false&amp;amp;from_home_module=false\"&gt;Legacy of Secrets (Delta Justice #11)&lt;\/a&gt;&lt;\/h2&gt;\n\n      &lt;div&gt;\n        by &lt;a class=\"authorName\" href=\"/author/show/36638.Judith_Arnold?origin=series_works\"&gt;Judith Arnold&lt;\/a&gt;&lt;span title=\"Goodreads Author!\"&gt;*&lt;\/span&gt;\n      &lt;\/div&gt;\n\n          &lt;div class=\"smallText uitext darkGreyText\"&gt;\n            &lt;span class=\"minirating\"&gt;&lt;span class=\"stars staticStars\"&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p10\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p6\"&gt;&lt;\/span&gt;&lt;span size=\"12x12\" class=\"staticStar p0\"&gt;&lt;\/span&gt;&lt;\/span&gt; 3.67 avg rating &amp;mdash; 6 ratings&lt;\/span&gt;            &amp;mdash; published 1998\n          &lt;\/div&gt;\n\n    &lt;div class=\"addBookTipDescription\"&gt;\n      \n&lt;span id=\"freeTextContainer6157389532337706640\"&gt;The Delacroix held the key to her past...and her futureAdoptee Katherine Beaufort was a woman with a mission. Where had she come from? What were her roots? And why did Philip Delacroix\'s name keep appearing in her great aunt\'s diary?Drew Delacroix th&lt;\/span&gt;\n  &lt;span id=\"freeText6157389532337706640\" style=\"display:none\"&gt;The Delacroix held the key to her past...and her futureAdoptee Katherine Beaufort was a woman with a mission. Where had she come from? What were her roots? And why did Philip Delacroix\'s name keep appearing in her great aunt\'s diary?Drew Delacroix thought she was manipulating Philip. So when she turned to Drew after someone threatened her life and her quest, Drew was torn between the woman he\'d fallen hopelessly in love with and his own father.&lt;\/span&gt;\n  &lt;a data-text-id=\"6157389532337706640\" href=\"#\" onclick=\"swapContent($(this));; return false;\"&gt;...more&lt;\/a&gt;\n\n    &lt;\/div&gt;\n\n      &lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'12_book_2138860\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"L9b0A8sY+TkWqTFrrDC7pVC1m7w++Y+flRP0g4j6LEZKAsvQOcrtw5pxRdDSUV0XGUJYpXckyDX/GvERRG/aAw==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"2138860\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"12_book_2138860\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"DKePu3d4k7qb+HMY8kH5T0qugA9g2GTTAsPTix0rBLxpc7BohaqHQBcgB6OMIB/9A1lDFikFI3loytYZ0b7y+Q==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"12_book_2138860\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"2138860\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/312981.For_the_Love_of_Beau\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"2138860\" data-user-id=\"0\" data-submit-url=\"/review/rate/2138860?book_origin=series_works&amp;page_url=%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;rate_books_page=false&amp;stars_click=false&amp;wtr_button_id=12_book_2138860\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_2138860').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_2138860').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_2138860').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_2138860').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+</li>
+</ul>
+</div>
+<div class="navButton navButtonPrev initiallyHidden">
+<div class="navButtonArrow sliderArrowPrev"></div>
+</div>
+<div class="navButton navButtonNext">
+<div class="navButtonArrow sliderArrowNext"></div>
+</div>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div></div>
+
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/list/80837.Margaret_St_George">Books by Margaret St. George</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div data-current-user-id="false" data-use-wtr-tooltip="true" class="js-dataTooltip">
+        <div data-placement="bottom-left" data-resource-id="139790" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/139790.Love_Bites"><img width="50" src="http://d.gr-assets.com/books/1172113424m/139790.jpg" id="more_book_139790" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="6728397" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/6728397-a-wish-and-a-kiss"><img width="50" src="http://d.gr-assets.com/books/1299237680m/6728397.jpg" id="more_book_6728397" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="2139940" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/2139940.The_Pirate_And_His_Lady"><img width="50" src="http://d.gr-assets.com/books/1214601638m/2139940.jpg" id="more_book_2139940" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="3407192" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/3407192-the-renegade"><img width="50" src="http://d.gr-assets.com/books/1338091947m/3407192.jpg" id="more_book_3407192" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="2139935" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/2139935.Family_Secrets"><img width="50" src="http://d.gr-assets.com/books/1266576249m/2139935.jpg" id="more_book_2139935" /></a>
+        </div>
+    </div>
+    <div class="moreLink">
+      <a href="/author/list/80837.Margaret_St_George" class="actionLink">More…</a>
+    </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  <div id="cobrandSlot">
+<div style="width: 300px; height: 140px; display: none;" id="div-gpt-ad-5681756e24">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-5681756e24");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-5681756e24").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.cb.300x140_0__container__" style="border: 0pt none;"><iframe width="300" height="140" frameborder="0" id="google_ads_iframe_/4215/goodr.book.cb.300x140_0" name="google_ads_iframe_/4215/goodr.book.cb.300x140_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+</div>
+
+
+
+
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Share This Book</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+  <div class="socialMedia">
+    <div class="shareButton">
+      
+<div data-show-faces="false" data-width="90" data-layout="button_count" data-send="false" data-href="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau" class="fb-like">
+</div>
+
+    </div>
+
+    <div data-gr-tracker-id="book_page_tweet" class="shareButton" id="twitter">
+      <iframe frameborder="0" id="twitter-widget-0" scrolling="no" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered" style="position: absolute; visibility: hidden; width: 0px; height: 0px;" title="Twitter Tweet Button" src="http://platform.twitter.com/widgets/tweet_button.c633b87376883931e7436b93bb46a699.en.html#_=1452560240694&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;size=m&amp;text=For%20the%20Love%20of%20Beau%20%28Delta%20Justice%20%239%29%20by%20Margaret%20St.%20George%20%E2%80%94%20Reviews%2C%20Discussion%2C%20Bookclubs%2C%20Lists&amp;type=share&amp;url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau"></iframe><a data-lang="en" class="twitter-share-button" href="https://twitter.com/share" data-twitter-extracted-i1452560239888292626="true">
+        Tweet
+      </a>
+    </div>
+
+    <div class="shareButton">
+      <div data-size="medium" class="g-plusone shareButton"></div>
+    </div>
+
+    <div class="shareButton" id="pinterest">
+      <a data-pin-do="buttonPin" href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F312981.For_the_Love_of_Beau&amp;media=http%3A%2F%2Fd.gr-assets.com%2Fbooks%2F1173669988l%2F312981.jpg&amp;description=For+the+Love+of+Beau" data-pin-config="beside">
+      <img alt="pin it button" src="//assets.pinterest.com/images/pidgets/pin_it_button.png" />
+      </a>
+    </div>
+
+    <div class="shareButton" id="personalSite">
+      <div style="display:none;" id="blogBook312981">
+        <h2>Share on your website</h2>
+        <br />
+        <table border="0">
+  <tbody><tr>
+    <td valign="top" class="nobreak">title link</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;For the Love of Beau&lt;/a&gt;" size="25" onclick="this.select();" id="titleLink312981" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span><br />
+      <a href="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;utm_source=blog_book">For the Love of Beau</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">avg rating</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;script src=&quot;http://www.goodreads.com/book/avg_rating_widget/312981&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span><br />
+      <a href="http://www.goodreads.com/book/show/312981?utm_medium=api&amp;utm_source=book_widget" style="float: left; padding-right: 10px" title="For the Love of Beau (Delta Justice #9)"><img border="0" src="http://d.gr-assets.com/books/1173669988s/312981.jpg" alt="For the Love of Beau (Delta Justice #9)" /></a><div><a href="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;utm_source=book_widget">For the Love of Beau</a><br />Goodreads rating: 3.40 (5 ratings)</div>
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">small image</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;&lt;img alt=&quot;For the Love of Beau (Delta Justice #9)&quot; src=&quot;http://d.gr-assets.com/books/1173669988s/312981.jpg&quot; /&gt;&lt;/a&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span>
+      <a onclick="$('smallImagePreview').toggle(); return false;" href="#">click here</a>
+      <div style="display: none; width: auto;" class="floatingBox" id="smallImagePreview">
+  			<a onclick="$('smallImagePreview').hide(); return false;; return false;" href="#" class="closeLink">[close]</a>
+        <a href="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;utm_source=blog_book"><img src="http://d.gr-assets.com/books/1173669988s/312981.jpg" alt="For the Love of Beau (Delta Justice #9)" /></a>
+  		</div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">med image</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;&lt;img alt=&quot;For the Love of Beau (Delta Justice #9)&quot; src=&quot;http://d.gr-assets.com/books/1173669988m/312981.jpg&quot; /&gt;&lt;/a&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span>
+      <a onclick="$('mediumImagePreview').toggle(); return false;" href="#">click here</a>
+      <div style="display: none; width: auto;" class="floatingBox" id="mediumImagePreview">
+  			<a onclick="$('mediumImagePreview').hide(); return false;; return false;" href="#" class="closeLink">[close]</a>
+        <a href="http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;utm_source=blog_book"><img src="http://d.gr-assets.com/books/1173669988m/312981.jpg" alt="For the Love of Beau (Delta Justice #9)" /></a>
+  		</div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">BBCode</td>
+    <td style="padding: 0 0 20px 10px">
+      <textarea onclick="this.select()" columns="25" rows="2">[url=http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;utm_source=blog_book][img]http://d.gr-assets.com/books/1173669988l/312981.jpg[/img][/url]
+      [url=http://www.goodreads.com/book/show/312981.For_the_Love_of_Beau?utm_medium=api&amp;utm_source=blog_book]For the Love of Beau by Margaret St. George[/url]</textarea>
+    </td>
+  </tr>
+</tbody></table>
+      </div>
+      +
+      <a onclick="Lightbox.showBoxByID('blogBook312981');; return false;" href="#" rel="nofollow" id="personalSite" class="mediumText">Share on your website</a>
+    </div>
+  </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><br /><br />
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/303881-for-the-love-of-beau">Trivia About For the Love of Beau</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+				<p class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/303881-for-the-love-of-beau">Add some now »</a></p>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+  <div style="width: 300px; height: 250px; margin-top: 9px; margin-bottom: 9px;" id="div-gpt-ad-4ca06c5181">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-4ca06c5181");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-4ca06c5181").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0__container__" style="border: 0pt none;"><iframe width="300" height="250" frameborder="0" id="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0" name="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+
+</div>
+
+  <span class="rating_graph" id="rating_graph">
+    <script type="text/javascript+protovis">
+      renderRatingGraph([1, 1, 2, 1]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>
+
+
+
+<script>
+//&lt;![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i &lt; n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]&gt;
+</script>
+
+<!-- Ethnio Activation Code -->
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+©
+2016
+Goodreads Inc
+</div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a href="/about/us" class="first" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index" rel="nofollow">our blog</a>
+</li>
+<li>
+<a href="/authors-advertisers" rel="nofollow">authors &amp; advertisers blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a href="/help" class="last" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?rel=nofollow&amp;switch_to=mobile">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div onclick="Lightbox.hideBox()" style="display:none" id="overlay"></div>
+<div style="display:none" id="box">
+	<div title="Close this window" onclick="Lightbox.hideBox()" class="xBackground js-closeModalIcon" id="close"></div>
+	<div id="boxContents"></div>
+	<div style="display:none" id="boxContentsLeftovers"></div>
+	<div class="clear"></div>
+</div>
+
+<div style="display:none;" id="fbSigninNotification">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" />
+</div>
+
+  <script src="http://ads.goodreads.com/ad?p=book_page_signed_out&amp;s=600x150&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=70jz1hxd" type="text/javascript">
+  </script><iframe src="http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html" style="visibility: hidden; display: none;"></iframe>
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe frameborder="0" name="fb_xdm_frame_http" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f78a0af0e41f72&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe><iframe frameborder="0" name="fb_xdm_frame_https" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f78a0af0e41f72&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe></div></div></div>
+<script type="text/javascript">
+//&lt;![CDATA[  
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+//]]&gt;
+</script>
+
+
+<script>
+  //&lt;![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]&gt;
+</script>
+<noscript>
+&lt;img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'&gt;
+</noscript>
+
+<script>
+  //&lt;![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]&gt;
+</script>
+<noscript>
+&lt;img style="display: none" width="0" height="0" alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;amp;c2=6035830&amp;amp;amp;c3=&amp;amp;amp;c4=&amp;amp;amp;c5=&amp;amp;amp;c6=&amp;amp;amp;c15=&amp;amp;amp;cv=2.0&amp;amp;amp;cj=1" /&gt;
+</noscript>
+
+
+
+
+</body></html>

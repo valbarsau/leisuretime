@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="desktop js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms no-csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><style type="text/css"></style>
+  <meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification" />
+  <title>
+
+Search results for "0245542957" (showing 1-0 of 0 books)
+</title>
+
+  
+    <meta content="Search for books by title, author, ISBN, or genre." name="description" />
+
+  <meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1" />
+  <meta content="app-id=355833469" name="apple-itunes-app" />
+
+
+          <script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script src="http://pixel.quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<link rel="stylesheet" href="http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css" media="all" /><script>
+//&lt;![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]&gt;
+</script>
+
+  <link href="http://s.gr-assets.com/assets/goodreads-3c9b9a966816a4aac5c3d68c79fb1280.css" media="all" rel="stylesheet" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="all" href="http://s.gr-assets.com/assets/goodreads_split2-83b1af1f3e876bbcccdf21d7600cad4a.css" />
+<![endif]-->
+  <script src="http://s.gr-assets.com/assets/application-a06f3da8ffeb1807014f7bd704106ffd.js"></script><script src="/assets/prototip/styles.js" type="text/javascript"></script>
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="bxN/Uoyo9d4Glt6v6qaWGcyr3cGWzEEZySNmi4hO6PsKx0CBfnrhJIpOqhSUx3CrhVwe2N8RBrOjKmMZRNsevg==" name="csrf-token" />
+
+  <meta content="0QV1D0VQEXFQ6127VQWR" name="request-id" />
+
+      <meta content="noindex" name="robots" />
+
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/ie-243e73b5c2539766a7d02b37fdf277f8.css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/common_images_ie-ff1f4db02ef61385ef51f103d00c6211.css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-1f5f358465cda19b462df17cb7cab8f7.css" media="screen" rel="stylesheet" />
+  <!--<![endif]-->
+
+  <script>
+  //&lt;![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("grsession", "94ab2464935eced8b2144e9a8a5cab70");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]&gt;
+</script>
+
+  
+
+
+  
+  
+  
+  
+  
+  <link title="Goodreads" href="/opensearch.xml" type="application/opensearchdescription+xml" rel="search" />
+
+
+  <script>
+  //&lt;![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("&lt;li/&gt;").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]&gt;
+</script>
+
+
+<script src="http://partner.googleadservices.com/gpt/pubads_impl_78.js" async=""></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow-x:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <div id="siteheader" class="uitext">
+<div class="mainContent">
+<ul id="usernav" class="nav">
+<li>
+<strong>
+<a href="/user/new" rel="nofollow" class="navlink">register</a>
+</strong>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fsearch%3Fquery%3D0245542957" rel="nofollow" class="navlink">sign in</a>
+</li>
+</ul>
+<div id="logo">
+<a href="/"></a>
+<a href="/"><img width="140" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" alt="Goodreads: Book reviews, recommendations, and discussion" /></a>
+</div>
+<div id="sitesearch">
+<form method="get" accept-charset="UTF-8" action="/search" id="headerSearchForm"><input type="hidden" value="?" name="utf8" /><div class="auto_complete_field_wrapper">
+<input type="text" placeholder="Title / Author / ISBN" id="sitesearch_field" name="query" />
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading trans" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="loading" id="sitesearch_field_loading" style="display: none" />
+</div>
+<a onclick="$j('#headerSearchForm').submit(); return false;" href="#" class="submitLink"><img width="16" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" alt="search" title="Title / Author / ISBN" /></a>
+</form>
+</div>
+
+<ul id="sitenav" class="nav">
+<li>
+<a href="/" class="navlink">Home</a>
+</li>
+<li>
+<a href="/review/list" rel="nofollow" class="navlink">My Books</a>
+</li>
+<li>
+<a href="/friend" rel="nofollow" class="navlink">Friends</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a href="/book" class="navlink" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2015" title="2015 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2016/1" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Quotes</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Creative Writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">People</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a href="/book" class="dropDownOpener subnavlink"></a>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+    
+    <div class="mainContent">
+      
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+
+
+
+</div>
+
+        
+<div class="leftContainer">
+  <h1>
+    Search
+  </h1>
+<form method="get" accept-charset="UTF-8" action="/search" class="stacked greyBox searchBox searchBox--large" name="searchForm"><input type="hidden" value="?" name="utf8" />
+  
+
+   <div style="padding-bottom: 10px" class="greyText">
+   <input type="text" placeholder="Search by Book Title, Author, or ISBN" class="searchBox__input searchBox--large__input" id="search_query_main" value="0245542957" size="55" name="q" />
+   <input type="hidden" value="books" name="search_type" />
+   <input type="submit" style="margin-top: 2px" class="searchBox__button searchBox--large__button" value="Search" />
+</div>
+
+<div class="clear"></div>
+
+</form>
+<script type="text/javascript">
+  document.searchForm.search_query_main.focus();
+</script>
+
+<div class="stacked">
+  <div class="tabs mediumTabs">
+          <span class=" selectedTab" id="booksLink" url="{:q=&gt;&quot;0245542957&quot;, :search_type=&gt;&quot;books&quot;, :&quot;search[source]&quot;=&gt;&quot;goodreads&quot;, :&quot;search[field]&quot;=&gt;nil, :tab=&gt;&quot;books&quot;}">Books</span>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=groups&amp;tab=groups" class=" tab" id="groupsLink">Groups</a>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=quotes&amp;tab=quotes" class=" tab" id="quotesLink">Quotes</a>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=events&amp;tab=events" class=" tab" id="eventsLink">Events</a>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=stories&amp;tab=stories" class=" tab" id="storiesLink">Stories</a>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=people&amp;tab=people" class=" tab" id="peopleLink">People</a>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=lists&amp;tab=lists" class=" tab" id="listsLink">Listopia</a>
+          <a href="/search?q=0245542957&amp;search%5Bsource%5D=goodreads&amp;search_type=trivia&amp;tab=trivia" class=" tab" id="triviaLink">Trivia</a>
+<div class="clear"> </div></div><script charset="utf-8" type="text/javascript">
+//&lt;![CDATA[
+
+  current_tabs[14973880] = 'books';
+
+  Event.observe(window, 'load', function(e) {
+    // Switch to an anchored tab if specified in the URL
+    if (location.href.include('#')) {
+      var tabID = location.href.split('#')[1];
+      if (tabID != '' &amp;&amp; $(tabID)) {
+        changeTab(tabID)
+      }
+    }
+  })
+//]]&gt;
+</script>
+</div>
+
+
+
+
+  <h3 class="searchSubNavContainer"></h3>
+
+
+
+  <div class="notice mediumText">
+    <br />
+  </div>
+
+    <div style="color: #000" class="mediumText">Looking for a book?</div>
+    <ul class="mediumText" style="margin-left: 30px;">
+      <li>Search by both title and author, and double-check the spelling.</li>
+      <li>Try searching by ISBN.</li>
+    </ul>
+    <p>
+      <a href="/book/new?book%5Btitle%5D=0245542957" rel="nofollow" class="gr-button">Still can't find the book? Add a new record »</a>
+    </p>
+
+<br /><br />
+</div>
+
+<div class="rightContainer">
+  <br />
+
+  <a href="/book/new?book%5Btitle%5D=0245542957" rel="nofollow" class="actionLinkLite">Manually add a book</a>
+  <br />
+  <a href="/review/import" rel="nofollow" class="actionLinkLite">Import books</a>
+  <br />
+
+
+</div>
+
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+©
+2016
+Goodreads Inc
+</div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a href="/about/us" class="first" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index" rel="nofollow">our blog</a>
+</li>
+<li>
+<a href="/authors-advertisers" rel="nofollow">authors &amp; advertisers blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a href="/help" class="last" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?rel=nofollow&amp;switch_to=mobile">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div onclick="Lightbox.hideBox()" style="display:none" id="overlay"></div>
+<div style="display:none" id="box">
+	<div title="Close this window" onclick="Lightbox.hideBox()" class="xBackground js-closeModalIcon" id="close"></div>
+	<div id="boxContents"></div>
+	<div style="display:none" id="boxContentsLeftovers"></div>
+	<div class="clear"></div>
+</div>
+
+<div style="display:none;" id="fbSigninNotification">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" />
+</div>
+
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe frameborder="0" name="fb_xdm_frame_http" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f2b97d41c0fc1fc&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe><iframe frameborder="0" name="fb_xdm_frame_https" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f2b97d41c0fc1fc&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe frameborder="0" name="f2a7b55e0d298d2" allowtransparency="true" allowfullscreen="true" scrolling="no" style="display: none;" src="https://www.facebook.com/connect/ping?client_id=2415071772&amp;domain=www.goodreads.com&amp;origin=1&amp;redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Dff4a1bc9f4d5c2%26domain%3Dwww.goodreads.com%26origin%3Dhttp%253A%252F%252Fwww.goodreads.com%252Ff2b97d41c0fc1fc%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey"></iframe></div></div></div>
+<script type="text/javascript">
+//&lt;![CDATA[  
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+//]]&gt;
+</script>
+
+
+<script>
+  //&lt;![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]&gt;
+</script>
+<noscript>
+&lt;img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'&gt;
+</noscript>
+
+<script>
+  //&lt;![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]&gt;
+</script><iframe src="http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html" style="visibility: hidden; display: none;"></iframe>
+<noscript>
+&lt;img style="display: none" width="0" height="0" alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;amp;c2=6035830&amp;amp;amp;c3=&amp;amp;amp;c4=&amp;amp;amp;c5=&amp;amp;amp;c6=&amp;amp;amp;c15=&amp;amp;amp;cv=2.0&amp;amp;amp;cj=1" /&gt;
+</noscript>
+
+
+
+
+</body></html>

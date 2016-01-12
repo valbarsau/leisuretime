@@ -1,0 +1,2979 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="desktop js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms no-csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#"><style type="text/css"></style>
+  <meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification" />
+  <title>
+
+Heroes of Their Own Lives: The Politics and History of Family Violence by Linda Gordon — Reviews, Discussion, Bookclubs, Lists
+</title>
+
+    <meta content="Heroes of Their Own Lives" property="og:title" />
+  <meta content="good_reads:book" property="og:type" />
+  <meta content="http://www.goodreads.com/work/best_book/1169687-heroes-of-their-own-lives-the-politics-and-history-of-family-violence--" property="og:url" />
+  <meta content="Goodreads" property="og:site_name" />
+  <meta content="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1266982494i/2633061._UY157_SS157_.jpg" property="og:image" />
+  <meta content="2415071772" property="fb:app_id" />
+  <meta content="A brilliant history of family violence that reveals the reasons for society'sfailure to control it. &quot;Feminist scholarship at its best&quot;--T..." property="og:description" />
+  <meta content="0140104682" property="good_reads:isbn" />
+  <meta content="416" property="good_reads:page_num" />
+  <meta content="http://www.goodreads.com/author/show/98901.Linda_Gordon" property="good_reads:author" />
+  <meta content="com.goodreads.https://book/show/2633061" property="al:ios:url" />
+  <meta content="355833469" property="al:ios:app_store_id" />
+  <meta content="Goodreads" property="al:ios:app_name" />
+
+  <link href="android-app://com.goodreads/http/www.goodreads.com/book/show/2633061-heroes-of-their-own-lives" rel="alternate" />
+
+
+    <meta content="Heroes of Their Own Lives has 30 ratings and 6 reviews. Mels said: Such a biased book. It is clear that the author is a historian since she went to all t..." name="description" />
+
+  <meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1" />
+  <meta content="app-id=355833469" name="apple-itunes-app" />
+
+
+          <script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.OWlIx9v1iaM.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AGLTcCPvZHP7wTNKPCOVTI6wz-lDqOTp7A/t=zcms/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.OWlIx9v1iaM.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AGLTcCPvZHP7wTNKPCOVTI6wz-lDqOTp7A/t=zcms/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit_main.js"></script><script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script src="http://pixel.quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js" gapi_processed="true"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<link rel="stylesheet" href="http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css" media="all" /><script>
+//&lt;![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["http://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]&gt;
+</script>
+
+  <link href="http://s.gr-assets.com/assets/goodreads-3c9b9a966816a4aac5c3d68c79fb1280.css" media="all" rel="stylesheet" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="all" href="http://s.gr-assets.com/assets/goodreads_split2-83b1af1f3e876bbcccdf21d7600cad4a.css" />
+<![endif]-->
+  <script src="http://s.gr-assets.com/assets/application-a06f3da8ffeb1807014f7bd704106ffd.js"></script><script src="/assets/prototip/styles.js" type="text/javascript"></script>
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="37riA7OpmffNFUhl3dpyjvbg7N+F8Rfvk3PtRN/l7lC6bt3QQXuNDUHNPN6ju5Q8vxcvxswsUEX5eujWE3AYFQ==" name="csrf-token" />
+
+  <meta content="1VWC35AM351E3Y5AGGRB" name="request-id" />
+
+      <link href="http://www.goodreads.com/book/show/1181782.Heroes_of_Their_Own_Lives" rel="canonical" />
+
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/ie-243e73b5c2539766a7d02b37fdf277f8.css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" media="screen" href="http://s.gr-assets.com/assets/common_images_ie-ff1f4db02ef61385ef51f103d00c6211.css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-1f5f358465cda19b462df17cb7cab8f7.css" media="screen" rel="stylesheet" />
+  <!--<![endif]-->
+
+  <script>
+  //&lt;![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("grsession", "94ab2464935eced8b2144e9a8a5cab70");
+    googletag.pubads().setTargeting("shelf", ["history"]);
+    googletag.pubads().setTargeting("gtargeting", "27wr29");
+    googletag.pubads().setTargeting("resource", "Work_1169687");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]&gt;
+</script>
+
+  
+
+
+      <link href="http://s.gr-assets.com/assets/book/show-4f5a7a0bb0741cb3c8e17daf13dd08e2.css" media="screen" rel="stylesheet" />
+
+    <!--[if lte IE 7]>
+    <style type="text/css" media="screen">
+        #imagecol { overflow: hidden; }
+    </style>
+    <![endif]-->
+
+    <script src="http://s.gr-assets.com/assets/book/show-3e4b15b467bc4087a739b6c57cbb0454.js"></script>
+  <script>
+  //&lt;![CDATA[
+    !function(d,s,id)
+      {var js, fjs = d.getElementsByTagName(s)[0];
+        if(!d.getElementById(id))
+          {js=d.createElement(s);
+          js.id=id;
+          js.src='https://platform.twitter.com/widgets.js';
+          fjs.parentNode.insertBefore(js,fjs);
+        }}(document,'script','twitter-wjs');
+  //]]&gt;
+  </script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.left.out.160x600", [160, 600], "div-gpt-ad-0f79939f81")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-0f79939f81") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-0f79939f81", attrs);
+    
+            if (true &amp;&amp; document.getElementById("div-gpt-ad-0f79939f81").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.right.out.160x600", [160, 600], "div-gpt-ad-31c40b662d")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-31c40b662d") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-31c40b662d", attrs);
+    
+            if (true &amp;&amp; document.getElementById("div-gpt-ad-31c40b662d").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.top.out.300x250", [300, 250], "div-gpt-ad-def36064a3")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-def36064a3") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-def36064a3", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-def36064a3").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.cb.300x140", [300, 140], "div-gpt-ad-b4ff1e5b96")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-b4ff1e5b96") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-b4ff1e5b96", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-b4ff1e5b96").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.bottom.out.300x250", [300, 250], "div-gpt-ad-58916f9e83")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-58916f9e83") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-58916f9e83", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-58916f9e83").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.defineSlot("/4215/goodr.book.top.out.970x66", [970, 66], "div-gpt-ad-5e7e5c3313")
+                 .addService(googletag.pubads()).setCollapseEmptyDiv(true);
+    
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if (event.slot.getSlotId().getDomId() == "div-gpt-ad-5e7e5c3313") {
+            var attrs = $gr.shared.dfpAd.imageAdAttrs();
+            attrs.dfpEvent = event;
+            attrs.adDeviceType = "desktop";
+            attrs.pmetImpressionTrackUrl = "http://www.goodreads.com/dfp/impression";
+            attrs.pmetClickTrackUrl = "http://www.goodreads.com/dfp/click";
+            $gr.shared.dfpAd.attachTo("#div-gpt-ad-5e7e5c3313", attrs);
+    
+            if (false &amp;&amp; document.getElementById("div-gpt-ad-5e7e5c3313").style.display != "none") {
+              var css = document.createElement("link");
+              css.rel  = 'stylesheet';
+              css.type = 'text/css';
+              css.href = '/assets/ad_skins.css';
+              css.media = 'all';
+              document.getElementsByTagName('head')[0].appendChild(css);
+            }
+          }
+        });
+      });
+    }
+  //]]&gt;
+</script>
+
+  
+  
+  
+  <link title="Goodreads" href="/opensearch.xml" type="application/opensearchdescription+xml" rel="search" />
+
+
+  <script>
+  //&lt;![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("&lt;li/&gt;").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]&gt;
+</script>
+
+
+<script src="http://partner.googleadservices.com/gpt/pubads_impl_78.js" async=""></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.57b265f4a957883c0d94631f668764c9.js"></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/osd.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow-x:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style><style type="text/css">a.PIN_1452558256945_pin_it_button_20 { cursor: pointer!important; background-repeat: none!important; background-size: 40px 60px!important; height: 20px!important; padding: 0!important; vertical-align: baseline!important; text-decoration: none!important; width: 40px!important; background-position: 0 -20px }
+a.PIN_1452558256945_pin_it_button_20:hover { background-position: 0 0px }
+a.PIN_1452558256945_pin_it_button_20:active, a.PIN_1452558256945_pin_it_button_20.PIN_1452558256945_hazClick { background-position: 0 -40px }
+a.PIN_1452558256945_pin_it_button_inline_20 { cursor: pointer!important; position: relative!important; display: inline-block!important; }
+a.PIN_1452558256945_pin_it_button_floating_20 { cursor: pointer!important; position: absolute!important; }
+a.PIN_1452558256945_pin_it_button_en_20_red { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_red_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_en_20_white { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_white_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_en_20_gray { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_gray_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_ja_20_red { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_red_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_ja_20_white { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_white_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_ja_20_gray { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_gray_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_above_20 span.PIN_1452558256945_pin_it_button_count { background: transparent url(https://s-passets.pinimg.com/images/pidgets/count_north_white_rect_20_1.png) 0 0 no-repeat!important; background-size: 40px 29px!important; position: absolute!important; bottom: 21px!important; left: 0px!important; height: 29px!important; width: 40px!important; font: 12px Arial, Helvetica, sans-serif!important; line-height: 24px!important; text-indent: 0!important;}
+a.PIN_1452558256945_pin_it_button_20 span.PIN_1452558256945_pin_it_button_count { position: absolute!important; color: #777!important; text-align: center!important; text-indent: 0!important; }
+a.PIN_1452558256945_pin_it_beside_20 span.PIN_1452558256945_pin_it_button_count, a.PIN_1452558256945_pin_it_beside_20 span.PIN_1452558256945_pin_it_button_count i { background-color: transparent!important; background-repeat: no-repeat!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/count_east_white_rect_20_1.png)!important; }
+a.PIN_1452558256945_pin_it_beside_20 span.PIN_1452558256945_pin_it_button_count { padding: 0 3px 0 10px!important; background-size: 45px 20px!important; background-position: 0 0!important; position: absolute!important; top: 0!important; left: 41px!important; height: 20px!important; font: 10px Arial, Helvetica, sans-serif!important; line-height: 20px!important; }
+a.PIN_1452558256945_pin_it_beside_20.PIN_1452558256945_pin_it_button_count_full span.PIN_1452558256945_pin_it_button_count { width: 25px!important; }
+a.PIN_1452558256945_pin_it_beside_20 span.PIN_1452558256945_pin_it_button_count i { background-position: 100% 0!important; position: absolute!important; top: 0!important; right: -2px!important; height: 20px!important; width: 2px!important; }
+a.PIN_1452558256945_pin_it_button_20.PIN_1452558256945_pin_it_above { margin-top: 20px!important; }
+a.PIN_1452558256945_pin_it_above_20_pad { margin-top: 30px!important; }
+a.PIN_1452558256945_pin_it_beside_20_pad { margin-right: 40px!important; }
+a.PIN_1452558256945_pin_it_button_28 { cursor: pointer!important; background-repeat: none!important; background-size: 56px 84px!important; height: 28px!important; padding: 0!important; vertical-align: baseline!important; text-decoration: none!important; width: 56px!important; background-position: 0 -28px }
+a.PIN_1452558256945_pin_it_button_28:hover { background-position: 0 0px }
+a.PIN_1452558256945_pin_it_button_28:active, a.PIN_1452558256945_pin_it_button_28.PIN_1452558256945_hazClick { background-position: 0 -56px }
+a.PIN_1452558256945_pin_it_button_inline_28 { cursor: pointer!important; position: relative!important; display: inline-block!important; }
+a.PIN_1452558256945_pin_it_button_floating_28 { cursor: pointer!important; position: absolute!important; }
+a.PIN_1452558256945_pin_it_above_28_pad { margin-top: 38px!important;}
+a.PIN_1452558256945_pin_it_beside_28_pad { margin-right: 50px!important;}
+a.PIN_1452558256945_pin_it_button_en_28_red { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_red_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_en_28_white { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_white_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_en_28_gray { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_gray_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_ja_28_red { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_red_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_ja_28_white { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_white_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_ja_28_gray { background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_gray_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_button_en_16_red_round, a.PIN_1452558256945_pin_it_button_en_32_red_round { cursor: pointer!important; background-repeat: none!important; margin: 0!important; padding: 0!important; vertical-align: baseline!important; text-decoration: none!important; }
+a.PIN_1452558256945_pin_it_button_en_16_red_round { height: 16px!important; width: 16px!important; background-size: 16px 16px!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_round_red_16_1.png)!important;}
+a.PIN_1452558256945_pin_it_button_en_32_red_round { height: 32px!important; width: 32px!important; background-size: 32px 32px!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_round_red_32_1.png)!important;}
+a.PIN_1452558256945_pin_it_button_inline_en_16_red_round, a.PIN_1452558256945_pin_it_button_inline_en_32_red_round { position: relative!important; display: inline-block!important; }
+a.PIN_1452558256945_pin_it_button_floating_en_16_red_round, a.PIN_1452558256945_pin_it_button_floating_en_32_red_round  { position: absolute!important; }
+a.PIN_1452558256945_pin_it_button_28 span.PIN_1452558256945_pin_it_button_count { position: absolute!important; color: #777!important; text-align: center!important; text-indent: 0!important; }
+a.PIN_1452558256945_pin_it_above_28 span.PIN_1452558256945_pin_it_button_count { background: transparent url(https://s-passets.pinimg.com/images/pidgets/count_north_white_rect_28_1.png) 0 0 no-repeat!important; background-size: 56px 37px!important; position: absolute!important; bottom: 29px!important; left: 0px!important; height: 37px!important; width: 56px!important; font: 15px Arial, Helvetica, sans-serif!important; line-height: 28px!important; text-indent: 0!important;}
+a.PIN_1452558256945_pin_it_beside_28 span.PIN_1452558256945_pin_it_button_count, a.PIN_1452558256945_pin_it_beside_28 span.PIN_1452558256945_pin_it_button_count i { background-color: transparent!important; background-repeat: no-repeat!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/count_east_white_rect_28_1.png)!important; }
+a.PIN_1452558256945_pin_it_beside_28 span.PIN_1452558256945_pin_it_button_count { padding: 0 3px 0 10px!important; background-size: 63px 28px!important; background-position: 0 0!important; position: absolute!important; top: 0!important; left: 57px!important; height: 28px!important; font: 12px Arial, Helvetica, sans-serif!important; line-height: 28px!important; }
+a.PIN_1452558256945_pin_it_beside_28.PIN_1452558256945_pin_it_button_count_full span.PIN_1452558256945_pin_it_button_count { width: 36px!important; }
+a.PIN_1452558256945_pin_it_beside_28 span.PIN_1452558256945_pin_it_button_count i { background-position: 100% 0!important; position: absolute!important; top: 0!important; right: -2px!important; height: 28px!important; width: 2px!important; }
+a.PIN_1452558256945_pin_it_button_28.PIN_1452558256945_pin_it_above { margin-top: 28px!important; }
+a.PIN_1452558256945_follow_me_button, a.PIN_1452558256945_follow_me_button i { background-size: 200px 60px!important; background: transparent url(https://s-passets.pinimg.com/images/pidgets/bfs1.png) 0 0 no-repeat }
+a.PIN_1452558256945_follow_me_button { cursor: pointer!important; color: #444!important; display: inline-block!important; font: bold normal normal 11px/20px "Helvetica Neue",helvetica,arial,san-serif!important; height: 20px!important; margin: 0!important; padding: 0!important; position: relative!important; text-decoration: none!important; text-indent: 19px!important; vertical-align: baseline!important;}
+a.PIN_1452558256945_follow_me_button:hover { background-position: 0 -20px}
+a.PIN_1452558256945_follow_me_button:active  { background-position: 0 -40px}
+a.PIN_1452558256945_follow_me_button b { position: absolute!important; top: 3px!important; left: 3px!important; height: 14px!important; width: 14px!important; background-size: 14px 14px!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/log1.png)!important; }
+a.PIN_1452558256945_follow_me_button i { position: absolute!important; top: 0!important; right: -4px!important; height: 20px!important; width: 4px!important; background-position: 100% 0px!important; }
+a.PIN_1452558256945_follow_me_button:hover i { background-position: 100% -20px!important;  }
+a.PIN_1452558256945_follow_me_button:active i { background-position: 100% -40px!important; }
+a.PIN_1452558256945_follow_me_button_28, a.PIN_1452558256945_follow_me_button_28 i { background-size: 400px 84px!important; background: transparent url(https://s-passets.pinimg.com/images/pidgets/bft1.png) 0 0 no-repeat }
+a.PIN_1452558256945_follow_me_button_28 { cursor: pointer!important; color: #444!important; display: inline-block!important; font: bold normal normal 13px/28px "Helvetica Neue",helvetica,arial,san-serif!important; height: 28px!important; margin: 0!important; padding: 0!important; position: relative!important; text-decoration: none!important; text-indent: 33px!important; vertical-align: baseline!important;}
+a.PIN_1452558256945_follow_me_button_28:hover { background-position: 0 -28px}
+a.PIN_1452558256945_follow_me_button_28:active  { background-position: 0 -56px}
+a.PIN_1452558256945_follow_me_button_28 b { position: absolute!important; top: 5px!important; left: 10px!important; height: 18px!important; width: 18px!important; background-size: 18px 18px!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/smt1.png)!important; }
+a.PIN_1452558256945_follow_me_button_28 i { position: absolute!important; top: 0!important; right: -10px!important; height: 28px!important; width: 10px!important; background-position: 100% 0px!important; }
+a.PIN_1452558256945_follow_me_button_28:hover i { background-position: 100% -28px!important;  }
+a.PIN_1452558256945_follow_me_button_28:active i { background-position: 100% -56px!important; }
+span.PIN_1452558256945_embed_pin { box-sizing: content-box!important; -webkit-font-smoothing: antialiased!important; font-family: "Helvetica Neue", arial, sans-serif!important; color: #363636!important; display: inline-block!important; text-align: center!important; overflow: hidden!important; vertical-align: top!important; background: #fff!important; box-shadow: 0 1px 3px rgba(0, 0, 0, .33)!important; border-radius: 3px!important; max-width: 237px!important; min-width: 160px!important; position: relative!important; }
+span.PIN_1452558256945_embed_pin img { border: 0!important; padding: 0!important; box-shadow: none!important; }
+span.PIN_1452558256945_embed_pin a { text-decoration: none!important; color: inherit!important; cursor: pointer!important; }
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_embed_pin_link { z-index: inherit!important; display: block!important;  margin: 0 auto!important; padding: 0!important; position: relative!important;  line-height: 0}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_link_iframe { display: block!important; position: relative!important; padding-top: 35px!important; height: 0!important; overflow:hidden!important;  }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_link_iframe iframe { position: absolute!important; top: 0!important; left: 0!important; height: 100%!important; width: 100%!important; }
+span.PIN_1452558256945_embed_pin img.PIN_1452558256945_embed_pin_link_img { border: 0!important; margin: 0!important; padding: 0!important; border-bottom: 1px solid rgba(0, 0, 0, .09)!important;}
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_embed_pin_link span.PIN_1452558256945_repin { z-index: inherit!important; position: absolute!important; left: 10px!important; top: 10px!important; cursor: pointer!important; height: 28px!important; width: 53px!important; background: transparent url(https://s-passets.pinimg.com/images/pidgets/repin_small_1.png)!important; background-size: cover!important; }
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_embed_pin_link span.PIN_1452558256945_repin_ja { z-index: inherit!important; position: absolute!important; left: 10px!important; top: 10px!important; cursor: pointer!important; height: 20px!important; width: 40px!important; background-size: 40px 60px!important; background: transparent url(https://s-passets.pinimg.com/images/pidgets/pinit_bg_ja_rect_red_20_1.png) }
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_embed_pin_link span.PIN_1452558256945_repin_ja:hover { background-position: 0 -20px!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_header { display: block!important; text-align: right!important; padding: 23px 0 24px!important; }
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_menu { position: absolute!important; right: 10px!important; top: 17px!important; height: 5px!important; width: 20px!important; background-color: transparent!important; background-size: cover!important; background-image: url(https://s-passets.pinimg.com/images/pidgets/menu_1.png) }
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_menu:hover { opacity: .7 }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_menu_dropdown { border-radius: 5px!important; box-shadow: 0 1px 3px rgba(0, 0, 0, .33)!important; font-weight: bolder!important; font-size: 14px!important; background-color: #fff!important; text-align: left!important; padding: 5px 5px 5px 5px!important; position: absolute!important; max-width: 195px!important; right: 10px!important; top: 39px!important; display: none}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_menu_dropdown:after { content: ""!important; position: absolute!important; top: -6px!important; right: 1px!important; border-bottom: 8px solid #fff!important; border-right: 8px solid transparent!important; border-left: 8px solid transparent!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_menu_dropdown:before { content: ""!important; position: absolute!important; top: -7px!important; right: 2px!important; border-bottom: 7px solid #e2e2e2!important; border-right: 7px solid transparent!important; border-left: 7px solid transparent!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_menu_dropdown a.PIN_1452558256945_menu_report { background: transparent!important; padding: 8px!important; display: block!important; word-break: break-word!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_menu_dropdown a:hover { opacity: .5 }
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_embed_pin_link i.PIN_1452558256945_play { display: block!important; width: 50px!important; white-space: pre!important; font-weight: bold!important; font-style: normal!important; font-size: 9px!important; line-height: 12px!important; margin: 0!important; position: absolute!important; bottom: 12px!important; left: 12px!important; text-decoration: none!important; background: rgba(0, 0, 0, .4)!important; color: rgba(255, 255, 255, 1)!important; border-radius: 13px!important; padding: 5px 0!important; box-shadow: 0 0 2px rgba(0, 0, 0, .2)!important; border: 2px solid rgba(255, 255, 255, .68)!important;}
+span.PIN_1452558256945_embed_pin a.PIN_1452558256945_embed_pin_link i.PIN_1452558256945_play:hover { background: rgba(0, 0, 0, .8)!important; color: #fff!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_meta { position: relative!important; border-bottom: 1px solid rgba(0, 0, 0, .09)!important; padding: 12px 10px 8px!important; text-align: left!important; display: block!important; line-height: 14px!important;}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_meta img.PIN_1452558256945_embed_pin_meta_icon { display: inline-block!important; border-radius: 0!important; width: 15px!important; margin-right: 10px!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_meta a.PIN_1452558256945_embed_pin_meta_name { background: transparent!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_meta a.PIN_1452558256945_embed_pin_meta_name span.PIN_1452558256945_embed_pin_meta_from { display: inline-block!important; overflow: hidden!important; max-width: 75%!important; text-overflow: ellipsis!important; white-space: nowrap!important; color: #b9b9b9!important; font-size: 12px!important; font-weight: bolder!important; vertical-align: top!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_desc { display: block!important; font-size: 14px!important; line-height: 17px!important; padding: 8px 12px 8px 12px!important; text-align: left!important; white-space: normal!important; border-bottom: 1px solid rgba(0, 0, 0, .09)!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_attrib { color: #a8a8a8!important; font-size: 11px!important; line-height: 18px!important; margin-top: 8px!important; font-weight: bold!important; display: block!important;}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_attrib img.PIN_1452558256945_embed_pin_attrib_icon { height: 16px!important; width: 16px!important; vertical-align: middle!important; padding: 0!important; margin: 0 5px 0 0!important; float: left!important;}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_attrib a { color: #a8a8a8!important; text-decoration: none!important;}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_stats { display: block!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_stats span.PIN_1452558256945_embed_pin_stats_repin_count, span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_stats span.PIN_1452558256945_embed_pin_stats_like_count { padding-left: 17px!important; padding-right: 10px!important; color: #a8a8a8!important; font-size: 11px!important; line-height: 12px!important; margin-top: 8px!important; font-weight: bold!important; display: inline-block}
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_stats span.PIN_1452558256945_embed_pin_stats_repin_count { background: url(data:image/png!important;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAAAAABq7uO+AAAASklEQVQI10WNMQrAMBRCvf/Z3pQcImPplsIPdqhNXOSJqLxVtnWQsuUO9IM3cHlV8dSSDZQHAOPH2YA2FU+qtH7MRhaVh/xt/PQCEW6N4EV+CPEAAAAASUVORK5CYII=) 0 0 no-repeat!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_stats span.PIN_1452558256945_embed_pin_stats_like_count { background: url(data:image/png!important;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAAAAAClR+AmAAAAUElEQVR4AT2HMQpFIQwEc/+zbXhFLBW8QUihIAT2E8Q/xe6M0Jv2zK7NKUcBzAlAjzjqtdZl4c8S2nOjMPS6BoWMr/wLVnAbYJs3mGMkXzx+OeRqUf5HHRoAAAAASUVORK5CYII=) 0 2px no-repeat!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_text { box-sizing: inherit!important; padding: 10px!important; position: relative!important; text-decoration: none!important; display: block!important; font-size: 12px!important; line-height: 16px!important; height: 30px!important; text-align: left!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_text span.PIN_1452558256945_embed_pin_text_container_pinner { font-weight: bold!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_text img.PIN_1452558256945_embed_pin_text_avatar { opacity: 1!important; border-radius: 15px!important; border: none!important; overflow: hidden!important; height: 30px!important; width: 30px!important; vertical-align: middle!important; margin: 0 8px 12px 0!important; position: absolute!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_text span.PIN_1452558256945_embed_pin_text_container_pinner, span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_text_container_board { display: block!important; width: auto!important; white-space: nowrap!important; overflow: hidden!important; text-overflow: ellipsis!important; cursor: pointer!important; padding-left: 40px!important; }
+span.PIN_1452558256945_embed_pin span.PIN_1452558256945_embed_pin_tentpole { height: 1px!important; line-height: 1px!important; color: #fff!important; display: block!important; text-align: left!important; overflow: hidden!important; margin-top: -1px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_medium { max-width: 345px!important; min-width: 237px!important; width: auto!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_medium a.PIN_1452558256945_embed_pin_link span.PIN_1452558256945_repin { height: 32px!important; width: 60px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large { max-width: 536px!important; min-width: 280px!important; width: auto!important; padding: 0 32px 20px!important;}
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large a.PIN_1452558256945_embed_pin_link span.PIN_1452558256945_repin { left: 0!important; top: -50px!important; width: 67px!important; height: 36px!important; background: transparent url(https://s-passets.pinimg.com/images/pidgets/repin_medium_1.png)!important; background-size: cover!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large a.PIN_1452558256945_embed_pin_link span.PIN_1452558256945_repin_ja { left: 0!important; top: -40px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large img { border-radius: 8px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_meta { padding: 15px 10px 15px!important; line-height: 16px!important;}
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_meta a.PIN_1452558256945_embed_pin_meta_name span.PIN_1452558256945_embed_pin_meta_from { font-size: 14px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large a.PIN_1452558256945_menu { top: 21px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large a.PIN_1452558256945_menu, span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_menu_dropdown { right: 0!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_desc { border-bottom: none!important; padding: 10px 10px 0px!important; font-size: 16px!important; line-height: 20px!important;}
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_text img.PIN_1452558256945_embed_pin_text_avatar { height: 40px!important; width: 40px!important; border-radius: 20px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_text { font-size: 16px!important; line-height: 20px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_text span.PIN_1452558256945_embed_pin_text_container_pinner, span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_embed_pin_text_container_board { padding-left: 50px!important; }
+span.PIN_1452558256945_embed_pin.PIN_1452558256945_large span.PIN_1452558256945_menu_dropdown { top: 49px!important; }
+span.PIN_1452558256945_embed_grid { display: inline-block!important; margin: 0!important; padding:10px 0!important; position: relative!important; background: #fff!important; box-shadow: 0 1px 3px rgba(0, 0, 0, .33)!important; border-radius: 3px!important; text-align: center}
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd { display: block!important; margin: 0 10px!important; padding: 0!important; height: 45px!important; position: relative!important;}
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a.PIN_1452558256945_avatar { position: absolute!important; top: 0!important; left: 0!important; height: 36px!important; width: 36px!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a.PIN_1452558256945_avatar img { position: relative!important; height: 36px!important; width: 36px!important; min-height: 36px!important; min-width: 36px!important; margin: 0!important; padding: 0!important; border-radius: 3px!important; border: none!important;}
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a { text-decoration: none!important; border: none!important; background: transparent!important; cursor: pointer!important; white-space: nowrap!important; position: absolute!important; left: 44px!important; text-align: left!important; overflow: hidden!important; text-overflow: ellipsis!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a:hover { text-decoration: none!important; background: inherit!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a:active { text-decoration: none!important; background: inherit!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a.PIN_1452558256945_embed_grid_first { top: 2px!important; font-family: helvetica, sans-serif!important; font-weight: bold!important; color:#333!important; font-size: 14px!important; line-height: 16px!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a.PIN_1452558256945_embed_grid_second { bottom: 11px!important; font-family: helvetica, sans-serif!important; color:#8e8e8e!important; font-size: 12px!important; line-height: 14px!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_hd a.PIN_1452558256945_embed_grid_mid { top: 12px!important; font-family: helvetica, sans-serif!important; font-weight: bold!important; color:#333!important; font-size: 14px!important; line-height: 16px!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_bd { display:block!important; margin: 0 10px!important; border-radius: 2px!important; position: relative!important; overflow: hidden }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_scrolling_okay { overflow: auto!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_bd span.PIN_1452558256945_embed_grid_ct { display:block!important; position: relative!important; overflow: hidden!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_bd a.PIN_1452558256945_embed_grid_th { cursor: pointer!important; display: inline-block!important; position: absolute!important; overflow: hidden!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_bd a.PIN_1452558256945_embed_grid_th::before { position: absolute!important; content:""!important; z-index: 2!important; top: 0!important; left: 0!important; right: 0!important; bottom: 0!important; box-shadow: inset 0 0 2px #888!important; }
+span.PIN_1452558256945_embed_grid span.PIN_1452558256945_embed_grid_bd a.PIN_1452558256945_embed_grid_th img.PIN_1452558256945_embed_grid_img { border: none!important; margin-left: 0!important; margin-right: 0!important; margin-bottom: 0!important; padding: 0!important;position: absolute!important; top: 50%!important; left: 0!important; }
+a.PIN_1452558256945_embed_grid_ft { cursor: pointer!important; text-shadow: 0 1px #fff!important; display: block!important; text-align: center!important; border: 1px solid #ccc!important; margin: 10px 10px 0!important; height: 31px!important; line-height: 30px!important;border-radius: 2px!important; text-decoration: none!important; font-family: Helvetica!important; font-weight: bold!important; font-size: 13px!important; color: #746d6a!important; background: #f4f4f4 url(https://s-passets.pinimg.com/images/pidgets/board_button_link.png) 0 0 repeat-x}
+a.PIN_1452558256945_embed_grid_ft:hover { text-decoration: none!important; background: #fefefe url(https://s-passets.pinimg.com/images/pidgets/board_button_hover.png) 0 0 repeat-x}
+a.PIN_1452558256945_embed_grid_ft:active { text-decoration: none!important; background: #e4e4e4 url(https://s-passets.pinimg.com/images/pidgets/board_button_active.png) 0 0 repeat-x}
+a.PIN_1452558256945_embed_grid_ft span.PIN_1452558256945_embed_grid_ft_logo { vertical-align: top!important; display: inline-block!important; margin-left: 2px!important; height: 30px!important; width: 66px!important; background: transparent url(https://s-passets.pinimg.com/images/pidgets/board_button_logo.png) 50% 48% no-repeat!important; }
+.PIN_1452558256945_hidden { display:none!important; }</style></head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <div id="siteheader" class="uitext">
+<div class="mainContent">
+<ul id="usernav" class="nav">
+<li>
+<strong>
+<a href="/user/new" rel="nofollow" class="navlink">register</a>
+</strong>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" rel="nofollow" class="navlink">sign in</a>
+</li>
+</ul>
+<div id="logo">
+<a href="/"></a>
+<a href="/"><img width="140" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" alt="Goodreads: Book reviews, recommendations, and discussion" /></a>
+</div>
+<div id="sitesearch">
+<form method="get" accept-charset="UTF-8" action="/search" id="headerSearchForm"><input type="hidden" value="?" name="utf8" /><div class="auto_complete_field_wrapper">
+<input type="text" placeholder="Title / Author / ISBN" id="sitesearch_field" name="query" />
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading trans" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="loading" id="sitesearch_field_loading" style="display: none" />
+</div>
+<a onclick="$j('#headerSearchForm').submit(); return false;" href="#" class="submitLink"><img width="16" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" alt="search" title="Title / Author / ISBN" /></a>
+</form>
+</div>
+
+<ul id="sitenav" class="nav">
+<li>
+<a href="/" class="navlink">Home</a>
+</li>
+<li>
+<a href="/review/list" rel="nofollow" class="navlink">My Books</a>
+</li>
+<li>
+<a href="/friend" rel="nofollow" class="navlink">Friends</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a href="/book" class="navlink" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2015" title="2015 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2016/1" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Quotes</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Creative Writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">People</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a href="/book" class="dropDownOpener subnavlink"></a>
+</div>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+      <div id="landingAdLeft" class="genericLandingAdRail">
+    <div style="width: 160px; height: 600px; right: 0px; position: absolute; display: none;" id="div-gpt-ad-0f79939f81">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-0f79939f81");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-0f79939f81").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__container__" style="border: 0pt none;"><iframe width="160" height="600" frameborder="0" id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0" name="google_ads_iframe_/4215/goodr.book.left.out.160x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div><iframe width="0" height="0" frameborder="0" id="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__hidden__" name="google_ads_iframe_/4215/goodr.book.left.out.160x600_0__hidden__" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom; visibility: hidden; display: none;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div>
+
+  </div>
+  <div id="landingAdRight" class="genericLandingAdRail">
+    <div style="width: 160px; height: 600px; left: 0px; position: absolute; display: none;" id="div-gpt-ad-31c40b662d">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-31c40b662d");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-31c40b662d").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.right.out.160x600_0__container__" style="border: 0pt none;"><iframe width="160" height="600" frameborder="0" id="google_ads_iframe_/4215/goodr.book.right.out.160x600_0" name="google_ads_iframe_/4215/goodr.book.right.out.160x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+  </div>
+
+    <div class="mainContent">
+          <div id="premiumAdTop">
+      <div style="width: 970px; height: 66px; display: none;" id="div-gpt-ad-5e7e5c3313">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-5e7e5c3313");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-5e7e5c3313").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.top.out.970x66_0__container__" style="border: 0pt none;"><iframe width="970" height="66" frameborder="0" id="google_ads_iframe_/4215/goodr.book.top.out.970x66_0" name="google_ads_iframe_/4215/goodr.book.top.out.970x66_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+    </div>
+
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  <div class="ctaBannerShown">
+<div class="ctaHeader">
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “Heroes of Their Own Lives: The Politics and History of Family Violence” as Want to Read:
+</div>
+<div class="ctaButton">
+<div id="1_book_2633061" class="wtrButtonContainer wtrSignedOut">
+<div class="wtrUp wtrLeft">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="37riA7OpmffNFUhl3dpyjvbg7N+F8Rfvk3PtRN/l7lC6bt3QQXuNDUHNPN6ju5Q8vxcvxswsUEX5eujWE3AYFQ==" name="authenticity_token" />
+<input type="hidden" value="2633061" id="book_id" name="book_id" />
+<input type="hidden" value="to-read" id="name" name="name" />
+<input type="hidden" value="1_book_2633061" id="unique_id" name="unique_id" />
+<input type="hidden" value="true" id="wtr_new" name="wtr_new" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" class="wtrLeftUpRef" value="" id="ref" name="ref" />
+<input type="hidden" class="wtrExisting" value="false" id="existing_review" name="existing_review" />
+<input type="hidden" id="page_url" name="page_url" />
+<button type="submit" class="wtrToRead">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class="wtrRight wtrUp">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="37riA7OpmffNFUhl3dpyjvbg7N+F8Rfvk3PtRN/l7lC6bt3QQXuNDUHNPN6ju5Q8vxcvxswsUEX5eujWE3AYFQ==" name="authenticity_token" />
+<input type="hidden" value="1_book_2633061" id="unique_id" name="unique_id" />
+<input type="hidden" value="2633061" id="book_id" name="book_id" />
+<input type="hidden" id="a" name="a" />
+<input type="hidden" id="name" name="name" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" id="page_url" name="page_url" />
+</form>
+
+<button class="wtrShelfButton"></button>
+<div class="wtrShelfMenu">
+<ul class="wtrExclusiveShelves">
+<li><button value="to-read" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Want to Read</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+<li><button value="currently-reading" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Currently Reading</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+<li><button value="read" type="submit" name="name" class="wtrExclusiveShelf">
+<span class="progressTrigger">Read</span>
+<img src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" class="progressIndicator" alt="saving…" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="ctaBannerTriangle"></div>
+
+
+<div itemtype="http://schema.org/Book" itemscope="" class="leftContainer">
+<div class="last col stacked" id="topcol">
+
+
+<div class="col" id="imagecol">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a href="/book/photo/2633061-heroes-of-their-own-lives" itemprop="image" rel="nofollow"><img src="http://d.gr-assets.com/books/1266982494l/2633061.jpg" alt="Heroes of Their Own Lives: The Politics and History of Family Violence" id="coverImage" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="http://www.goodreads.com/work/editions/1169687-heroes-of-their-own-lives-the-politics-and-history-of-family-violence--">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div id="edition_2633061_enlarge" class="coverButton enlargeCover">
+            Enlarge cover
+          </div>
+          <div style="display: none;" id="edition_2633061_enlarge_cover" class="editionCover">
+            <img alt="2633061" src="http://d.gr-assets.com/books/1266982494l/2633061.jpg" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+    <div id="2_book_2633061" class="wtrButtonContainer wtrSignedOut">
+<div class="wtrUp wtrLeft">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="37riA7OpmffNFUhl3dpyjvbg7N+F8Rfvk3PtRN/l7lC6bt3QQXuNDUHNPN6ju5Q8vxcvxswsUEX5eujWE3AYFQ==" name="authenticity_token" />
+<input type="hidden" value="2633061" id="book_id" name="book_id" />
+<input type="hidden" value="to-read" id="name" name="name" />
+<input type="hidden" value="2_book_2633061" id="unique_id" name="unique_id" />
+<input type="hidden" value="true" id="wtr_new" name="wtr_new" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" class="wtrLeftUpRef" value="" id="ref" name="ref" />
+<input type="hidden" class="wtrExisting" value="false" id="existing_review" name="existing_review" />
+<input type="hidden" value="/book/show/2633061-heroes-of-their-own-lives" id="page_url" name="page_url" />
+<button type="submit" class="wtrToRead">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class="wtrRight wtrUp">
+<form method="post" accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm"><input type="hidden" value="?" name="utf8" /><input type="hidden" value="37riA7OpmffNFUhl3dpyjvbg7N+F8Rfvk3PtRN/l7lC6bt3QQXuNDUHNPN6ju5Q8vxcvxswsUEX5eujWE3AYFQ==" name="authenticity_token" />
+<input type="hidden" value="2_book_2633061" id="unique_id" name="unique_id" />
+<input type="hidden" value="2633061" id="book_id" name="book_id" />
+<input type="hidden" id="a" name="a" />
+<input type="hidden" id="name" name="name" />
+<input type="hidden" value="false" id="from_choice" name="from_choice" />
+<input type="hidden" value="false" id="from_home_module" name="from_home_module" />
+<input type="hidden" value="/book/show/2633061-heroes-of-their-own-lives" id="page_url" name="page_url" />
+</form>
+
+<button class="wtrShelfButton"></button>
+</div>
+
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div data-rating="0" data-submit-url="/review/rate/2633061?page_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives&amp;stars_click=true&amp;wtr_button_id=2_book_2633061" data-user-id="0" data-resource-id="2633061" class="stars"><a ref="" href="#" title="did not like it" class="star off">1 of 5 stars</a><a ref="" href="#" title="it was ok" class="star off">2 of 5 stars</a><a ref="" href="#" title="liked it" class="star off">3 of 5 stars</a><a ref="" href="#" title="really liked it" class="star off">4 of 5 stars</a><a ref="" href="#" title="it was amazing" class="star off">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+  <div data-book-id="2633061" class="asyncPreviewButtonContainer">
+      
+
+<a href="#" data-book-id="2633061" id="js-kcrPreviewButton" class="gr-button kcrPreviewButton asyncPreviewButton">Open Preview</a>
+
+<div style="display: none;" class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook2633061">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>Heroes of Their Own Lives</cite> by Linda Gordon.
+      </div>
+      <form method="post" data-remote="true" accept-charset="UTF-8" action="/kindle_book_mapping_flags" id="new_kindle_book_mapping_flag" class="new_kindle_book_mapping_flag"><input type="hidden" value="?" name="utf8" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br />
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" />
+        </div>
+        <input type="hidden" id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" value="2633061" />
+        <input type="submit" class="gr-button" value="Report Problem" name="commit" />
+         
+        <button class="buttonAsActionLinkSecondary" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+        Cancel and return to book page
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div style="display:none;" class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation">
+  <p>Thanks for telling us about the problem.</p>
+  <button id="js-wrongBookKindlePreviewScreenConfirmationDismiss" class="gr-button" type="button">
+    Return to Book Page
+  </button>
+</div>
+<div style="display: none;" class="kindleCloudReader" id="kindleCloudReaderBook2633061">
+  <div class="topBanner">
+    <a href="#" data-book-id="2633061" class="js-wrongBookKindlePreview" id="wrongBookLink">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>Heroes of Their Own Lives</cite>
+        by Linda Gordon
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    &lt;iframe id="wrongBookKindlePreviewScreen"&gt;</iframe>
+  
+</div>
+
+  </div>
+
+
+</div>
+
+<div class="last col" id="metacol">
+<h1 itemprop="name" class="bookTitle" id="bookTitle">
+      Heroes of Their Own Lives: The Politics and History of Family Violence
+</h1>
+
+<div class="stacked" id="bookAuthors">
+  <span class="by smallText">by</span>
+<span itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+<a href="http://www.goodreads.com/author/show/98901.Linda_Gordon" itemprop="url" class="authorName"><span itemprop="name">Linda Gordon</span></a>
+</span>
+
+</div>
+
+<div itemtype="http://schema.org/AggregateRating" itemscope="" style="position: relative" class="uitext stacked hreview-aggregate" id="bookMeta">
+  <span style="display:none" class="item"><span class="fn">Heroes of Their Own Lives: The Politics and History of Family Violence</span></span>
+  <span class="stars staticStars"><span class="staticStar p10" size="12x12"></span><span class="staticStar p10" size="12x12"></span><span class="staticStar p10" size="12x12"></span><span class="staticStar p6" size="12x12"></span><span class="staticStar p0" size="12x12"></span></span>
+  <span class="value rating"><span itemprop="ratingValue" class="average">3.87</span></span>
+  <span class="greyText"> · </span>
+  <a onclick="return false" href="#" style="cursor: pointer; " class="actionLinkLite" id="rating_details"><span class="rating_graph" id="rating_graph">
+    <span style="display: inline-block;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="15"><g transform="translate(0,0)"><rect cursor="" x="0" y="0" width="6.857142857142857" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/><rect cursor="" x="0" y="3" width="16" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/><rect cursor="" x="0" y="6" width="11.428571428571429" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/><rect cursor="" x="0" y="9" width="1e-10" height="2" fill="rgb(33,86,37)" fill-opacity="1" stroke="none" stroke-opacity="0" stroke-width="1.5"/></g></svg></span><script type="text/javascript+protovis">
+      renderRatingGraph([6, 14, 10, 0]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>Rating Details</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('rating_details'), "\n      &lt;div id=\"moreBookData\" class=\"bookMeta\" &gt;\n  \n\n  \n\n&lt;table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\"&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;5&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 42%;\" title=\"6 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (6)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;4&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 100%;\" title=\"14 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          46% (14)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;3&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 71%;\" title=\"10 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          33% (10)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;2&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;1&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;div style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/div&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n\n&lt;\/table&gt;\n\n\n    &lt;span class=\"value\"&gt;100&lt;\/span&gt;% of people liked it\n\n  &lt;table&gt;\n    &lt;tr&gt;\n      &lt;td&gt;&lt;strong&gt;All editions:&lt;\/strong&gt;&lt;\/td&gt;\n      &lt;td&gt;\n        &lt;span class=\"value\"&gt;3.87&lt;\/span&gt; average rating,\n        &lt;span class=\"value\"&gt;30&lt;\/span&gt; ratings,\n        &lt;span class=\"value\"&gt;6&lt;\/span&gt; reviews,\n        added by &lt;span class=\"value\"&gt;81&lt;\/span&gt; people,\n        &lt;span class=\"value\"&gt;32&lt;\/span&gt; to-reads\n      &lt;\/td&gt;\n    &lt;\/tr&gt;\n\n      &lt;tr&gt;\n        &lt;td&gt;&lt;strong&gt;This edition:&lt;\/strong&gt;&lt;\/td&gt;\n        &lt;td&gt;\n          &lt;span class=\"value\"&gt;4.25&lt;\/span&gt; average rating,\n          &lt;span class=\"value\"&gt;4&lt;\/span&gt; ratings,\n          &lt;span class=\"value\"&gt;0&lt;\/span&gt; reviews,\n          added by &lt;span class=\"value\"&gt;8&lt;\/span&gt; people\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n  &lt;\/table&gt;\n&lt;\/div&gt;\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating Details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>  <span class="greyText"> · </span>
+  <a href="#other_reviews" class="actionLinkLite votes">
+      <span itemprop="ratingCount" title="30" class="value-title">30 Ratings</span>
+</a>  <span class="greyText"> · </span>
+  <a href="#other_reviews" class="actionLinkLite">
+      <span class="count"><span title="6" class="value-title">6</span></span>
+      Reviews
+</a></div>
+
+<div id="descriptionContainer">
+      <div style="right:0" class="readable stacked" id="description">
+        
+<span id="freeTextContainer499863517227400446">A brilliant history of family violence that reveals the reasons for society'sfailure to control it. "Feminist scholarship at its best"--The New York TimesBook Review. 16 pages of photos.</span>
+
+      </div>
+</div>
+
+<div class="uitext stacked darkGreyText" id="details">
+      <div class="row"><span itemprop="bookFormatType">Paperback</span>, <span itemprop="numberOfPages">416 pages</span></div>
+
+      <div class="row">
+            Published
+        April 1st 1989
+         by Penguin Books
+
+            <nobr class="greyText">
+              (first published 1988)
+            </nobr>
+      </div>
+
+  <div class="buttons">
+    <a onclick="$j('#bookDataBoxShow').hide(); $j('#bookDataBoxHide').show(); $j('#bookDataBox').show();
+                         ; return false;" href="#" class="left inter actionLinkLite" id="bookDataBoxShow">More Details...</a>
+
+        <div style="display: none; margin: 10px 0" class="uitext" id="bookDataBox">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Original Title</div>
+                <div class="infoBoxRowItem">Heroes of Their Own Lives: The Politics and History of Family Violence--Boston, 1880-1960</div>
+              </div>
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ISBN</div>
+                <div class="infoBoxRowItem">
+                  0140104682
+                      <span class="greyText">(ISBN13: <span itemprop="isbn">9780140104684</span>)</span>
+                </div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div itemprop="inLanguage" class="infoBoxRowItem">English</div>
+              </div>
+
+
+
+
+
+
+          <div class="clear"></div>
+
+          <div class="infoBoxRowTitle otherEditions">
+<div class="otherEditionsLink">
+<a href="/work/editions/1169687-heroes-of-their-own-lives-the-politics-and-history-of-family-violence--">Other Editions (2)</a>
+</div>
+</div>
+<div class="infoBoxRowItem">
+<div class="otherEditionsRow">
+<div class="otherEditionCovers">
+<ul>
+<li>
+<div id="edition_1181782" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/1181782.Heroes_of_Their_Own_Lives"><img src="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1347418626i/1181782._UY200_.jpg" alt="Heroes of Their Own Lives: The Politics and History of Family Violence--Boston, 1880-1960" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_1181782'), "&lt;div class=\'editionTitle\'&gt;\nHeroes of Their Own Lives: The Politics and History of Family Violence--Boston, 1880-1960 (Paperback) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn: 0252070798\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn13: 9780252070792\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: Paperback\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\nMarch 15th 2002\nby University of Illinois Press\n&lt;\/div&gt;\n&lt;div class=\'enlargeCover\' id=\'edition_1181782_enlarge\'&gt;\n&lt;a&gt;\nEnlarge cover\n&lt;\/a&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionCover\' id=\'edition_1181782_enlarge_cover\' style=\'display: none;\'&gt;\n&lt;img src=\"http://d.gr-assets.com/books/1347418626l/1181782.jpg\" alt=\"1181782\" /&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'3_book_1181782\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"KkdD02BJCkKl8o86dgOzp6K9WY3hEDmxiwFWac1XVBZPk3wAkpseuCkq+4EIYlUV60qalKjNfhvhCFP7AcKiUw==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"1181782\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_1181782\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"1lT3GsDsrrIkRr/3aF0+40MtwwBkbwDHK8x/YlrWNqyzgMjJMj66SKiey0wWPNhRCtoAGS2yR21BxXrwlkPA6Q==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_1181782\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"1181782\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"1181782\" data-user-id=\"0\" data-submit-url=\"/review/rate/1181782?stars_click=true&amp;wtr_button_id=3_book_1181782\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_1181782').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_1181782').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_1181782').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_1181782').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+<li>
+<div id="edition_3749161" class="otherEdition">
+<a href="http://www.goodreads.com/book/show/3749161-heroes-of-their-own-lives"><img alt="111x148" src="http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" />
+</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('edition_3749161'), "&lt;div class=\'editionTitle\'&gt;\nHeroes of Their Own Lives: 2the Politics and History of Family Violence (Hardcover) \n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn: 0670819093\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nisbn13: 9780670819096\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nformat: Hardcover\n&lt;\/div&gt;\n&lt;div class=\'editionInfo\'&gt;\nPublished\nMarch 23rd 1988\nby Viking Books\n&lt;\/div&gt;\n&lt;div class=\'editionAction\'&gt;\n&lt;div class=\'wtrButtonContainer wtrSignedOut\' id=\'4_book_3749161\'&gt;\n&lt;div class=\'wtrUp wtrLeft\'&gt;\n&lt;form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"jwfK4+bgiOFvm8JHFWGWkou2UNbH4bEawqymQIle1uzq0/UwFDKcG+NDtvxrAHAgwkGTz4489rCopaPSRcsgqQ==\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3749161\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"4_book_3749161\" /&gt;\n&lt;input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" /&gt;\n&lt;input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;button class=\'wtrToRead\' type=\'submit\'&gt;\n&lt;span class=\'progressTrigger\'&gt;Want to Read&lt;\/span&gt;\n&lt;span class=\'progressIndicator\'&gt;saving…&lt;\/span&gt;\n&lt;\/button&gt;\n&lt;\/form&gt;\n\n&lt;\/div&gt;\n\n&lt;div class=\'wtrRight wtrUp\'&gt;\n&lt;form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"&gt;&lt;input name=\"utf8\" type=\"hidden\" value=\"&amp;#x2713;\" /&gt;&lt;input type=\"hidden\" name=\"authenticity_token\" value=\"s8+mGA2WMY5tQPXJfxS7h9wM+1rI5SSd389HGPxwFTfWG5nL/0QldOGYgXIBdV01lfs4Q4E4Yze1xkKKMOXjcg==\" /&gt;\n&lt;input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"4_book_3749161\" /&gt;\n&lt;input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"3749161\" /&gt;\n&lt;input type=\"hidden\" name=\"a\" id=\"a\" /&gt;\n&lt;input type=\"hidden\" name=\"name\" id=\"name\" /&gt;\n&lt;input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" /&gt;\n&lt;input type=\"hidden\" name=\"page_url\" id=\"page_url\" /&gt;\n&lt;\/form&gt;\n\n&lt;button class=\'wtrShelfButton\'&gt;&lt;\/button&gt;\n&lt;\/div&gt;\n\n&lt;div class=\'ratingStars wtrRating\'&gt;\n&lt;div class=\'starsErrorTooltip hidden\'&gt;\nError rating book. Refresh and try again.\n&lt;\/div&gt;\n&lt;div class=\'myRating uitext greyText\'&gt;Rate this book&lt;\/div&gt;\n&lt;div class=\'clearRating uitext\'&gt;Clear rating&lt;\/div&gt;\n&lt;div class=\"stars\" data-resource-id=\"3749161\" data-user-id=\"0\" data-submit-url=\"/review/rate/3749161?stars_click=true&amp;wtr_button_id=4_book_3749161\" data-rating=\"0\"&gt;&lt;a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\"&gt;1 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\"&gt;2 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\"&gt;3 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\"&gt;4 of 5 stars&lt;\/a&gt;&lt;a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\"&gt;5 of 5 stars&lt;\/a&gt;&lt;\/div&gt;\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n&lt;\/div&gt;\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_3749161').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_3749161').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_3749161').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_3749161').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="otherEditionsActions">
+<a href="/work/editions/1169687-heroes-of-their-own-lives-the-politics-and-history-of-family-violence--" class="actionLinkLite">All Editions</a>
+<span class="greyText">
+ | 
+</span>
+<a href="/book/new?author%5Bname%5D=Linda+Gordon&amp;book%5Btitle%5D=Heroes+of+Their+Own+Lives%3A+The+Politics+and+History+of+Family+Violence&amp;work%5Bid%5D=1169687" rel="nofollow" class="actionLinkLite">Add a New Edition</a>
+<span class="secondaryCopy">
+ | 
+</span>
+<a href="/book/combine/98901" class="actionLinkLite" rel="nofollow">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a onclick="$j('#bookDataBoxShow').show(); $j('#bookDataBoxHide').hide(); $j('#bookDataBox').hide();
+                              ; return false;" href="#" style="display:none" class="left inter actionLinkLite" id="bookDataBoxHide">...Less Detail</a>
+
+    <a href="/book/edit/2633061-heroes-of-their-own-lives" rel="nofollow" class="inter uitext greyText right">edit details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+    <div data-book-id="2633061" class="uitext buttons" id="asyncBuyButtonContainer">
+      <span class="buttonBarText"><b>Get a copy:</b></span><ul class="buyButtonBar left"><li class="firstBuyButton"><a href="javascript:void(0)" class="glideButton asyncGlideButton buttonBar " data-ref-tag="null" data-ku-eligible="null" data-url="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives" data-asin="null">Kindle eBook </a></li><li class="secondBuyButton"><a href="/buy_buttons/18/follow?book_id=2633061&amp;ref=x_gr_w_visstd_sout_t1_control_bb&amp;tag=x_gr_w_visstd_sout_t1_control_bb-20" id="buyButton" rel="no_follow" target="_blank" class="buttonBar buttonBar-font-control">Amazon ES</a></li><li><div onmouseout="$(this).down('.floatingBox').hide()" onmouseover="$(this).down('.floatingBox').show()" class=" dropButton" id="buyDropButtonStores"><a href="/book/2633061/get_a_copy" url="/book/2633061/get_a_copy" class="buttonBar buttonBar-font-control">Online Stores ?</a><div style="display:none" class="floatingBox buyBox"><a href="/book_link/follow/1?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Amazon</a><br /><a href="/book_link/follow/3?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Barnes &amp; Noble</a><br /><a href="/book_link/follow/10?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Audible</a><br /><a href="/book_link/follow/4?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Abebooks</a><br /><a href="/book_link/follow/882?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Book Depository</a><br /><a href="/book_link/follow/1027?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Kobo</a><br /><a href="/book_link/follow/9?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Indigo</a><br /><a href="/book_link/follow/2?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Half.com</a><br /><a href="/book_link/follow/5?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Alibris</a><br /><a href="/book_link/follow/2102?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">iBooks</a><br /><a href="/book_link/follow/107?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Better World Books</a><br /><a href="/book_link/follow/8036?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">Google Play</a><br /><a href="/book_link/follow/7?book_id=2633061&amp;source=dropdown" class="actionLinkLite" rel="nofollow" target="_blank">IndieBound</a></div></div></li><li class="lastBuyButton"><a href="/book_link/follow/8?book_id=2633061" class="buttonBar buttonBar-font-control" rel="nofollow" target="_blank">Libraries</a></li></ul><div class="clear"></div>
+<a href="javascript:void(0)" class="asyncKindleUnlimitedBuyText glideButton " data-ref-tag="null" data-ku-eligible="null" data-url="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives" data-asin="null">Or buy for </a>
+
+    </div>
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+    <div id="self_serve_ads"><div style="width: 600px" class="selfServeAds selfServeAds600">
+  <h3 class="clear">
+    <a href="/advertisers/list" style="color:#aaa;">sponsored books</a>
+  </h3>
+  <br class="clear" />
+  
+<div class="selfServeAd">
+    <div class="adImage">
+      <a href="http://ads.goodreads.com:80/c/12667?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=134217729" rel="nofollow"><img src="https://s3.amazonaws.com/photo.goodreads.com/books/1335567274s/13624544.jpg" alt="New Middle-Grade Adventure Series" /></a>
+    </div>
+  <div class="adDetails">
+    <div class="adTitle">
+      <a href="http://ads.goodreads.com:80/c/12667?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=134217729" rel="nofollow">New Middle-Grade Adventure Series</a>
+    </div>
+    <div class="adDescription">
+      Join 12-year olds Zoe &amp; Zak in India on a magical quest for the mythical Ghost Leopard. Read the preview here:
+    </div>
+    <div class="adUrl">
+      www.amazon.com
+    </div>
+    <div class="adEngagement">
+            <a href="http://www.goodreads.com/book/show/13624544&amp;gr=1">view 85 reviews »</a>
+    </div>
+  </div>
+  <br class="clear" />
+</div>
+
+<div class="selfServeAd">
+    <div class="adImage">
+      <a href="http://ads.goodreads.com:80/c/77496?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=134217729" rel="nofollow"><img src="https://d.gr-assets.com/books/1439900998s/26122324.jpg" alt="Know Your Enemy" /></a>
+    </div>
+  <div class="adDetails">
+    <div class="adTitle">
+      <a href="http://ads.goodreads.com:80/c/77496?p=book_page_signed_out&amp;a=13&amp;g=&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=134217729" rel="nofollow">Know Your Enemy</a>
+    </div>
+    <div class="adDescription">
+      Australian author, Tasman Anderson's debut Young Adult novel focuses on love, betrayal, friendship, choices and ultimately, luck.
+    </div>
+    <div class="adUrl">
+      www.goodreads.com
+    </div>
+    <div class="adEngagement">
+    </div>
+  </div>
+  <br class="clear" />
+</div>
+
+
+  <a href="/advertisers/list" class="yourAdHere">more books...</a>
+  <br class="clear" />
+</div>
+</div>
+
+<div id="lazy_loadable_view">
+      
+<a name="friends_reviews"></a>
+<div class=" clearFloats bigBox" id="friendReviews"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"></div>Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class="mediumText">
+To see what your friends thought of this book,
+<a href="/user/new" rel="nofollow" class="actionLink">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="communityQASignedOutMessage mediumText">
+To ask other readers questions about
+<a href="/book/show/2633061-heroes-of-their-own-lives" class="bookLink">Heroes of Their Own Lives</a>,
+<a href="/user/new" rel="nofollow" class="actionLink">please sign up</a>.
+</div>
+
+<div class="noQuestionsMessage">
+<p>
+Be the first to ask a question about Heroes of Their Own Lives
+</p>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/2633061">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="mediumText">
+This book is not yet featured on Listopia.
+<a href="/list" class="actionLink">Add this book to your favorite list »
+</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox" id="other_reviews"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id="reviews">
+<div class="right bookMeta darkGreyText">
+    <span class="smallText">
+(showing
+1-30
+of
+81)
+</span>
+
+</div>
+
+<div data-book-reviews-page="1" id="bookReviewControls">
+  <a onclick="return false" href="#" style="cursor: pointer; " id="span_class_actionlink_filter_span_tip_372" class="uitext"><span class="actionLink">filter</span></a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('span_class_actionlink_filter_span_tip_372'), "\n      &lt;div class=\"greyText smallText\" style=\"white-space:nowrap\"&gt;\n\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?rating=\"&gt;all &lt;span class=\"greyText\"&gt;(81)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/2633061-heroes-of-their-own-lives?rating=5\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;5 stars &lt;span class=\"greyText\"&gt;(6)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/2633061-heroes-of-their-own-lives?rating=4\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;4 stars &lt;span class=\"greyText\"&gt;(14)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/2633061-heroes-of-their-own-lives?rating=3\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;3 stars &lt;span class=\"greyText\"&gt;(10)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/2633061-heroes-of-their-own-lives?rating=2\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;2 stars &lt;span class=\"greyText\"&gt;(0)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n            &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n            &lt;span class=\"loadingLinkSpan\"&gt;&lt;a href=\"/book/reviews/2633061-heroes-of-their-own-lives?rating=1\" class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\"&gt;1 star &lt;span class=\"greyText\"&gt;(0)&lt;\/span&gt;&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/div&gt;\n\n      &lt;div class=\"bookMeta\"&gt;\n        editions:\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?edition_reviews=false\"&gt;all&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?edition_reviews=true\"&gt;this edition&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &amp;nbsp;\n        content:\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?text_only=false\"&gt;any&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?text_only=true\"&gt;text-only&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_actionlink_filter_span_tip_372').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_actionlink_filter_span_tip_372').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <span class="greyText"> | </span>
+
+  <a onclick="return false" href="#" style="cursor: pointer; " id="span_class_actionlink_sort_span_default_tip_694" class="uitext"><span class="actionLink">sort</span>: default</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('span_class_actionlink_sort_span_default_tip_694'), "\n      &lt;nobr&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?sort=default\"&gt;default&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?sort=newest\"&gt;newest&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n        &lt;span class=\"greyText\"&gt;&amp;nbsp;|&amp;nbsp;&lt;\/span&gt;\n        &lt;span class=\"loadingLinkSpan\"&gt;&lt;a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/2633061-heroes-of-their-own-lives?sort=oldest\"&gt;oldest&lt;\/a&gt;&lt;span class=\"loadingAnimation\"&gt;&lt;\/span&gt;&lt;span class=\"loadingError\"&gt;&lt;\/span&gt;&lt;\/span&gt;\n      &lt;\/nobr&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_actionlink_sort_span_default_tip_694').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_actionlink_sort_span_default_tip_694').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <a onclick="return false" href="#" style="cursor: pointer; " id="_tip_153" class="bookMeta">(?)</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('_tip_153'), "\n      &lt;div style=\"width: 500px\"&gt;\n        The default sorting algorithm on Goodreads uses a variety of factors to\n        determine the most interesting reviews. The recipe for our special sauce\n        is a closely guarded trade secret, but the ingredients are: length of\n        the review, number of people who liked it, recency of the review,\n        popularity of the reviewer (i.e., number of people who have liked reviews\n        by that person across all books).\n      &lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, hideOthers: true, title: 'about sorting' });
+      $('_tip_153').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('_tip_153').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>
+  <span class="greyText"> | </span>
+  <a onclick="return false" href="#" style="cursor: pointer; " class="actionLink" id="rating_details_tip">Rating Details</a><script>
+//&lt;![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n      &lt;div id=\"moreBookData\" class=\"bookMeta\" &gt;\n  \n\n  \n\n&lt;table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\"&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;5&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 42%;\" title=\"6 ratings\" href=\"/book/show/2633061-heroes-of-their-own-lives?rating=5\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          20% (6)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;4&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 100%;\" title=\"14 ratings\" href=\"/book/show/2633061-heroes-of-their-own-lives?rating=4\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          46% (14)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;3&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 71%;\" title=\"10 ratings\" href=\"/book/show/2633061-heroes-of-their-own-lives?rating=3\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          33% (10)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;2&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" href=\"/book/show/2633061-heroes-of-their-own-lives?rating=2\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n      &lt;tr&gt;\n        &lt;th class=\"right\"&gt;1&amp;ensp;&lt;a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"&gt;&lt;\/a&gt;&lt;\/th&gt;\n        &lt;td width=\"350\"&gt;\n          &lt;a style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" href=\"/book/show/2633061-heroes-of-their-own-lives?rating=1\" data-remote=\"true\"&gt;&amp;nbsp;&lt;\/a&gt;\n        &lt;\/td&gt;\n        &lt;td width=\"90\"&gt;\n          0% (0)\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n\n&lt;\/table&gt;\n\n\n    &lt;span class=\"value\"&gt;100&lt;\/span&gt;% of people liked it\n\n  &lt;table&gt;\n    &lt;tr&gt;\n      &lt;td&gt;&lt;strong&gt;All editions:&lt;\/strong&gt;&lt;\/td&gt;\n      &lt;td&gt;\n        &lt;span class=\"value\"&gt;3.87&lt;\/span&gt; average rating,\n        &lt;span class=\"value\"&gt;30&lt;\/span&gt; ratings,\n        &lt;span class=\"value\"&gt;6&lt;\/span&gt; reviews,\n        added by &lt;span class=\"value\"&gt;81&lt;\/span&gt; people,\n        &lt;span class=\"value\"&gt;32&lt;\/span&gt; to-reads\n      &lt;\/td&gt;\n    &lt;\/tr&gt;\n\n      &lt;tr&gt;\n        &lt;td&gt;&lt;strong&gt;This edition:&lt;\/strong&gt;&lt;\/td&gt;\n        &lt;td&gt;\n          &lt;span class=\"value\"&gt;4.25&lt;\/span&gt; average rating,\n          &lt;span class=\"value\"&gt;4&lt;\/span&gt; ratings,\n          &lt;span class=\"value\"&gt;0&lt;\/span&gt; reviews,\n          added by &lt;span class=\"value\"&gt;8&lt;\/span&gt; people\n        &lt;\/td&gt;\n      &lt;\/tr&gt;\n  &lt;\/table&gt;\n&lt;\/div&gt;\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]&gt;
+</script>  <script type="text/javascript">
+  //&lt;![CDATA[
+      var $ratingGraph = $j('#rating_graph');
+      var $copy;
+      if ($ratingGraph.length &gt; 0) {
+          $copy = $ratingGraph.clone();
+          $j('#rating_details_tip_graph').remove();
+          $copy.attr('id', 'rating_details_tip_graph');
+          $copy.find('script').remove();
+          $j('#rating_details_tip').prepend($copy);
+      }
+  //]]&gt;
+  </script>
+</div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section firstReview">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review" id="review_431760055">
+  <link href="http://www.goodreads.com/review/show/431760055" itemprop="url" />
+  <a href="/user/show/10621367-mels-mueller" class="left imgcol" title="Mels Mueller"><img src="http://d.gr-assets.com/users/1354597716p2/10621367.jpg" alt="Mels Mueller" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/431760055?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Oct 20, 2012</a>
+
+      <a href="/user/show/10621367-mels-mueller" class="user" title="Mels Mueller">Mels Mueller</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+
+          <span class="greyText"> · </span>
+          <a href="/book/show/1181782.Heroes_of_Their_Own_Lives" title="Paperback 9780252070792" class="lightGreyText">review of another edition</a>
+
+          <div><span class="uitext greyText">Recommends it for: </span>
+           <span class="uitext reviewText">Book Clubs, People who want to know about Social Work in Boston</span></div>
+
+          <div>
+    <span class="greyText">Recommended to Mels by: </span>
+      Book Club
+  </div>
+
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a href="/review/list/10621367-mels-mueller?shelf=book-club-books" class="actionLinkLite">book-club-books</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer431760055">
+            
+<span id="freeTextContainer13782363103673605626">Such a biased book. It is clear that the author is a historian since she went to all the effort of reading the case files from the MSPCC but I was often left wondering why she chose only Boston (I know she told us but still) when she herself is from Wisconsin. Surely she could have looked at several different cities to have gotten an average of the social work in the country at the time. The fact that she only looked at Boston (if the reader is not aware of this fact) makes it look like the prob</span>
+  <span style="display:none" id="freeText13782363103673605626">Such a biased book. It is clear that the author is a historian since she went to all the effort of reading the case files from the MSPCC but I was often left wondering why she chose only Boston (I know she told us but still) when she herself is from Wisconsin. Surely she could have looked at several different cities to have gotten an average of the social work in the country at the time. The fact that she only looked at Boston (if the reader is not aware of this fact) makes it look like the problem of family violence and the need for social workers was overwhelming in the late 19th and early 20th centuries. I know that the author was trying to highlight the struggles of women in her book but by leaving out men from her equation so many times she has not presented the full history that she should have known as a good historian she was responsible to give her readers. This book is not something that I would have picked up on a normal basis and by reading it proves that while I may have been a history major in college, I still do not enjoy histories about violence and the like. Give me a good book on a King or Queen of Europe anyday and I will have it done by midnight.</span>
+  <a onclick="swapContent($(this));; return false;" href="#" data-text-id="13782363103673605626">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=431760055&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" title="Flag this review as inappropriate." id="flag_link431760055" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_431760055" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/431760055?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_431760055">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review" id="review_727378401">
+  <link href="http://www.goodreads.com/review/show/727378401" itemprop="url" />
+  <a href="/user/show/184521-john" class="left imgcol" title="John"><img src="http://d.gr-assets.com/users/1189184436p2/184521.jpg" alt="John" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/727378401?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Oct 10, 2013</a>
+
+      <a href="/user/show/184521-john" class="user" title="John">John</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="really liked it">really liked it</span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p0" size="15x15" title="really liked it"></span></span>
+
+          <span class="greyText"> · </span>
+          <a href="/book/show/1181782.Heroes_of_Their_Own_Lives" title="Paperback 9780252070792" class="lightGreyText">review of another edition</a>
+
+
+        
+
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer727378401">
+            
+<span id="freeTextContainer12041286374820094573">In class we have been discussing a lot of positives and negatives about this book, but I think most readers who are interested in the topic will find the book fascinating and will not particularly care about the various ways it can be criticized. The biggest problem is that pretty much all of this is based on one set of sources - case records prepared by social workers. These social workers were middle or upper class people, and they were recording information about lower class people, often imm</span>
+  <span style="display:none" id="freeText12041286374820094573">In class we have been discussing a lot of positives and negatives about this book, but I think most readers who are interested in the topic will find the book fascinating and will not particularly care about the various ways it can be criticized. The biggest problem is that pretty much all of this is based on one set of sources - case records prepared by social workers. These social workers were middle or upper class people, and they were recording information about lower class people, often immigrants. We really have nothing from the lower class people directly. This isn't really Gordon's fault, though...it would be great if there was a collection of working class immigrant diaries and letters out there, but those are really hard to come by. These case reports are what we have. So everything we know about these people and what happened in their homes comes through the interpretation of someone of a different class, different ethnic group, and probably different faith and possibly different first language.<br />That being said, the really interesting thing here is how Gordon traces the way conceptions of family violence changed over time, and the way ideas about gender and the family played into this change. For example, women began to take more and more blame, as child "neglect" was identified as a problem. In previous generations, and in some of the cultures these immigrants were coming from, everyone in the household was supposed to contribute to the household economy. But American reformers became more and more focused on what was "proper" for a family - a working father and a mother at home with the children. In many of these impoverished households, mothers needed to work, but that by definition made them "neglectful" mothers, as they were not doing what the reformers saw as their primary job. A father, by contrast, could not really be neglectful, because he was supposed to be working outside the home. So in a household with two working parents, child neglect was taking place, and it came to be seen as only the fault of the mother.<br />I had never really thought about the changing definition of abuse, and I had certainly never considered how gender played into it, so much of this book was eye opening for me. It was also interesting to receive these little glimpses into the lives of poor Bostonians, even though (as noted above) we need to remember the sources of those glimpses. </span>
+  <a onclick="swapContent($(this));; return false;" href="#" data-text-id="12041286374820094573">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=727378401&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" title="Flag this review as inappropriate." id="flag_link727378401" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_727378401" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/727378401?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_727378401">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review" id="review_269871147">
+  <link href="http://www.goodreads.com/review/show/269871147" itemprop="url" />
+  <a href="/user/show/160429-rachel" class="left imgcol" title="Rachel"><img src="http://d.gr-assets.com/users/1183486163p2/160429.jpg" alt="Rachel" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/269871147?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Feb 05, 2012</a>
+
+      <a href="/user/show/160429-rachel" class="user" title="Rachel">Rachel</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+
+          <span class="greyText"> · </span>
+          <a href="/book/show/1181782.Heroes_of_Their_Own_Lives" title="Paperback 9780252070792" class="lightGreyText">review of another edition</a>
+
+
+        
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a href="/review/list/160429-rachel?shelf=theory" class="actionLinkLite">theory</a>, 
+              <a href="/review/list/160429-rachel?shelf=history" class="actionLinkLite">history</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer269871147">
+            
+<span id="freeTextContainer9149438974368191297">This was a very interesting study of, as the tag line reads, "the politics and history of family violence." Using evidence from Boston from 1880-1960, Linda Gordon presents both an interesting, provocative, and at times untenable historical analysis. On the one hand, several of her claims and conclusions are clear and well-supported. I totally buy that "family violence" is a culturally, socially, and politically constructed category; I also agree with her evidence that shows that, in historical</span>
+  <span style="display:none" id="freeText9149438974368191297">This was a very interesting study of, as the tag line reads, "the politics and history of family violence." Using evidence from Boston from 1880-1960, Linda Gordon presents both an interesting, provocative, and at times untenable historical analysis. On the one hand, several of her claims and conclusions are clear and well-supported. I totally buy that "family violence" is a culturally, socially, and politically constructed category; I also agree with her evidence that shows that, in historical periods that coincided with declines in feminist activity, there was also less activity on the behalf of victims of family violence. However, some of her use of evidence makes me a little uncomfortable. Much of the evidence is taken at face value--there is not a great deal of inquiry into *why* people said some things. For example, she claims that there must have been very little abuse of husbands by wives, because it is not reflected in the case files. However, she does not stop to consider that perhaps men did not report it because it badly damaged their masculinity, etc. She also makes sweeping generalizations about certain categories, like motherhood, that I find unexamined and problematic. In short, she views certain things, such as violence, as culturally constructed, while viewing other things, like maternal feelings, as somewhat constructed but also inherent and/or biological. She also is strangely psychological--Freudian, in fact. I don't mine the Freud, I would just like her to be a little more explicit about her intellectual orientation. Criticisms aside, I was very interested throughout the book, and she presents a great deal of very interesting evidence in a more-or-less convincing manner. (Also note that it was written in the 1980s, so some of my criticisms result from my current chronological orientation, vis-a-vis developments in history and gender studies.)</span>
+  <a onclick="swapContent($(this));; return false;" href="#" data-text-id="9149438974368191297">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=269871147&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" title="Flag this review as inappropriate." id="flag_link269871147" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_269871147" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/269871147?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_269871147">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review nosyndicate" id="review_1233055573">
+  <link href="http://www.goodreads.com/review/show/1233055573" itemprop="url" />
+  <a href="/user/show/19769021-sohvi" class="left imgcol" title="Sohvi"><img src="http://d.gr-assets.com/users/1366915701p2/19769021.jpg" alt="Sohvi" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/1233055573?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Mar 22, 2015</a>
+
+      <a href="/user/show/19769021-sohvi" class="user" title="Sohvi">Sohvi</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="liked it">liked it</span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p10" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span><span class="staticStar p0" size="15x15" title="liked it"></span></span>
+
+          <span class="greyText"> · </span>
+          <a href="/book/show/1181782.Heroes_of_Their_Own_Lives" title="Paperback 9780252070792" class="lightGreyText">review of another edition</a>
+
+
+        
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a href="/review/list/19769021-sohvi?shelf=history" class="actionLinkLite">history</a>, 
+              <a href="/review/list/19769021-sohvi?shelf=science" class="actionLinkLite">science</a>, 
+              <a href="/review/list/19769021-sohvi?shelf=non-fiction" class="actionLinkLite">non-fiction</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer1233055573">
+            
+<span id="freeTextContainer1200439971126328153">This was interesting, but a bit old perhaps. There were some issues, such as speaking about the white Americans as "native" and I too got confused about the Freudian stuff. In some cases the author was clearly referring to the beliefs of the historical time she was researching but in some occasions it sounded a bit like the author herself was also defending those Freudian theories. <br /><br />But all in all it was still and interesting read. Just keep in mind, that the book is from the 80's. </span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=1233055573&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" title="Flag this review as inappropriate." id="flag_link1233055573" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_1233055573" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/1233055573?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_1233055573">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review nosyndicate" id="review_75492334">
+  <link href="http://www.goodreads.com/review/show/75492334" itemprop="url" />
+  <a href="/user/show/1705509-beth" class="left imgcol" title="Beth"><img src="http://d.gr-assets.com/users/1297960155p2/1705509.jpg" alt="Beth" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/75492334?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Nov 04, 2009</a>
+
+      <a href="/user/show/1705509-beth" class="user" title="Beth">Beth</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="really liked it">really liked it</span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p0" size="15x15" title="really liked it"></span></span>
+
+          <span class="greyText"> · </span>
+          <a href="/book/show/1181782.Heroes_of_Their_Own_Lives" title="Paperback 9780252070792" class="lightGreyText">review of another edition</a>
+
+
+        
+
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a href="/review/list/1705509-beth?shelf=for-school" class="actionLinkLite">for-school</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer75492334">
+            
+<span id="freeTextContainer9432342730477648072">This is the way a history based on organizational records should be done. Excellent examination of family violence based on the records of a Boston children's welfare organization. Well written, compelling, and thought provoking</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=75492334&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" title="Flag this review as inappropriate." id="flag_link75492334" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_75492334" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/75492334?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_75492334">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review nosyndicate" id="review_182517832">
+  <link href="http://www.goodreads.com/review/show/182517832" itemprop="url" />
+  <a href="/user/show/83960-michelle" class="left imgcol" title="Michelle"><img src="http://d.gr-assets.com/users/1371588488p2/83960.jpg" alt="Michelle" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a href="/review/show/182517832?book_show_action=true" itemprop="publishDate" class="reviewDate createdAt right">Nov 15, 2011</a>
+
+      <a href="/user/show/83960-michelle" class="user" title="Michelle">Michelle</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was amazing">it was amazing</span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span></span>
+
+          <span class="greyText"> · </span>
+          <a href="/book/show/1181782.Heroes_of_Their_Own_Lives" title="Paperback 9780252070792" class="lightGreyText">review of another edition</a>
+
+
+        
+
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span style="" class="readable" id="reviewTextContainer182517832">
+            
+<span id="freeTextContainer1559825071761352959">This book was very helpful for my paper on the social construction of Child Maltreatment. It explores how Boston looked at child abuse and the social control of the upper and middle class imposed on the poor.</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+        
+
+
+  
+    <div class="updateActionLinks">
+        <a href="/flagged/new?resource_id=182517832&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" title="Flag this review as inappropriate." id="flag_link182517832" rel="nofollow" class="right flag">flag</a>
+
+
+
+
+
+      <span id="like_container_review_182517832" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives" class="jsLike like_it gr-button gr-button--small" rel="nofollow">Like</a></span> · <a href="/review/show/182517832?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div style="display: none;" id="comments_for_review_182517832">
+</div>
+
+  
+
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1496696989">
+  <link href="http://www.goodreads.com/review/show/1496696989" itemprop="url" />
+  <a href="/user/show/2793376-buried-in-print" class="left imgcol" title="Buried In Print"><img src="http://d.gr-assets.com/users/1265582807p2/2793376.jpg" alt="Buried In Print" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/2793376-buried-in-print" class="user" title="Buried In Print">Buried In Print</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1496696989?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 05, 2016</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1487617461">
+  <link href="http://www.goodreads.com/review/show/1487617461" itemprop="url" />
+  <a href="/user/show/5215319-tasasha" class="left imgcol" title="Tasasha"><img src="http://d.gr-assets.com/users/1440192081p2/5215319.jpg" alt="Tasasha" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/5215319-tasasha" class="user" title="Tasasha">Tasasha</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1487617461?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 31, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1473799714">
+  <link href="http://www.goodreads.com/review/show/1473799714" itemprop="url" />
+  <a href="/user/show/11767832-brad" class="left imgcol" title="Brad"><img src="http://d.gr-assets.com/users/1378538501p2/11767832.jpg" alt="Brad" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/11767832-brad" class="user" title="Brad">Brad</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1473799714?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 19, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1461112650">
+  <link href="http://www.goodreads.com/review/show/1461112650" itemprop="url" />
+  <a href="/user/show/4831064-tori" class="left imgcol" title="Tori"><img src="http://d.gr-assets.com/users/1437883760p2/4831064.jpg" alt="Tori" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/4831064-tori" class="user" title="Tori">Tori</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="it was amazing">it was amazing</span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span><span class="staticStar p10" size="15x15" title="it was amazing"></span></span>
+        <br />
+        <a href="/review/show/1461112650?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 05, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1407261910">
+  <link href="http://www.goodreads.com/review/show/1407261910" itemprop="url" />
+  <a href="/user/show/42273892-meghan-monahan" class="left imgcol" title="Meghan Monahan"><img src="http://d.gr-assets.com/users/1429361455p2/42273892.jpg" alt="Meghan Monahan" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/42273892-meghan-monahan" class="user" title="Meghan Monahan">Meghan Monahan</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1407261910?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Oct 03, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1401510634">
+  <link href="http://www.goodreads.com/review/show/1401510634" itemprop="url" />
+  <a href="/user/show/20982949-ivette" class="left imgcol" title="Ivette"><img src="http://d.gr-assets.com/users/1397298223p2/20982949.jpg" alt="Ivette" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/20982949-ivette" class="user" title="Ivette">Ivette</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1401510634?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Sep 26, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1398061416">
+  <link href="http://www.goodreads.com/review/show/1398061416" itemprop="url" />
+  <a href="/user/show/1236399-laura" class="left imgcol" title="Laura"><img src="http://d.gr-assets.com/users/1213358344p2/1236399.jpg" alt="Laura" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/1236399-laura" class="user" title="Laura">Laura</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1398061416?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Sep 21, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1383751359">
+  <link href="http://www.goodreads.com/review/show/1383751359" itemprop="url" />
+  <a href="/user/show/26003516-laura-bh" class="left imgcol" title="Laura BH"><img src="http://d.gr-assets.com/users/1450275595p2/26003516.jpg" alt="Laura BH" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/26003516-laura-bh" class="user" title="Laura BH">Laura BH</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1383751359?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Sep 05, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1349479638">
+  <link href="http://www.goodreads.com/review/show/1349479638" itemprop="url" />
+  <a href="/user/show/45517147-liz-hill" class="left imgcol" title="Liz Hill"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Liz Hill" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/45517147-liz-hill" class="user" title="Liz Hill">Liz Hill</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1349479638?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jul 30, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1330060654">
+  <link href="http://www.goodreads.com/review/show/1330060654" itemprop="url" />
+  <a href="/user/show/14224684-storm-lake-public-library-book-clubs" class="left imgcol" title="Storm Lake Public Library Book Clubs"><img src="http://d.gr-assets.com/users/1351966324p2/14224684.jpg" alt="Storm Lake Public Library Book Clubs" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/14224684-storm-lake-public-library-book-clubs" class="user" title="Storm Lake Public Library Book Clubs">Storm Lake Public Library Book Clubs</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1330060654?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jul 09, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1328995750">
+  <link href="http://www.goodreads.com/review/show/1328995750" itemprop="url" />
+  <a href="/user/show/56704-ashley" class="left imgcol" title="Ashley"><img src="http://d.gr-assets.com/users/1367878383p2/56704.jpg" alt="Ashley" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/56704-ashley" class="user" title="Ashley">Ashley</a>
+
+          is currently reading it
+
+        <br />
+        <a href="/review/show/1328995750?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jul 08, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1311531920">
+  <link href="http://www.goodreads.com/review/show/1311531920" itemprop="url" />
+  <a href="/user/show/19804425-shirley-aldana" class="left imgcol" title="Shirley Aldana"><img src="http://d.gr-assets.com/users/1367006986p2/19804425.jpg" alt="Shirley Aldana" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/19804425-shirley-aldana" class="user" title="Shirley Aldana">Shirley Aldana</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1311531920?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jun 18, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1303246394">
+  <link href="http://www.goodreads.com/review/show/1303246394" itemprop="url" />
+  <a href="/user/show/113584-mary" class="left imgcol" title="Mary"><img src="http://d.gr-assets.com/users/1239566966p2/113584.jpg" alt="Mary" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/113584-mary" class="user" title="Mary">Mary</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1303246394?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jun 09, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1283577401">
+  <link href="http://www.goodreads.com/review/show/1283577401" itemprop="url" />
+  <a href="/user/show/30326932-jennifer" class="left imgcol" title="Jennifer"><img src="http://d.gr-assets.com/users/1396827169p2/30326932.jpg" alt="Jennifer" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/30326932-jennifer" class="user" title="Jennifer">Jennifer</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1283577401?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">May 18, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1254293073">
+  <link href="http://www.goodreads.com/review/show/1254293073" itemprop="url" />
+  <a href="/user/show/37290726-sarah-austin" class="left imgcol" title="Sarah Austin"><img src="http://d.gr-assets.com/users/1416875171p2/37290726.jpg" alt="Sarah Austin" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/37290726-sarah-austin" class="user" title="Sarah Austin">Sarah Austin</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1254293073?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Apr 13, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1213650407">
+  <link href="http://www.goodreads.com/review/show/1213650407" itemprop="url" />
+  <a href="/user/show/40519887-davy-jones" class="left imgcol" title="Davy Jones"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Davy Jones" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/40519887-davy-jones" class="user" title="Davy Jones">Davy Jones</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1213650407?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Mar 04, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1196178963">
+  <link href="http://www.goodreads.com/review/show/1196178963" itemprop="url" />
+  <a href="/user/show/1339707-bingo-gunter" class="left imgcol" title="Bingo Gunter"><img src="http://d.gr-assets.com/users/1421005802p2/1339707.jpg" alt="Bingo Gunter" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/1339707-bingo-gunter" class="user" title="Bingo Gunter">Bingo Gunter</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1196178963?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Feb 09, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1167738011">
+  <link href="http://www.goodreads.com/review/show/1167738011" itemprop="url" />
+  <a href="/user/show/39141584-judy-berglund" class="left imgcol" title="Judy Berglund"><img src="http://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" alt="Judy Berglund" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/39141584-judy-berglund" class="user" title="Judy Berglund">Judy Berglund</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1167738011?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 13, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1166562493">
+  <link href="http://www.goodreads.com/review/show/1166562493" itemprop="url" />
+  <a href="/user/show/20395698-hl-chen" class="left imgcol" title="Hl Chen"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Hl Chen" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/20395698-hl-chen" class="user" title="Hl Chen">Hl Chen</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1166562493?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Nov 09, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1165081939">
+  <link href="http://www.goodreads.com/review/show/1165081939" itemprop="url" />
+  <a href="/user/show/2419468-kim-hollstein" class="left imgcol" title="Kim Hollstein"><img src="http://d.gr-assets.com/users/1374468724p2/2419468.jpg" alt="Kim Hollstein" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/2419468-kim-hollstein" class="user" title="Kim Hollstein">Kim Hollstein</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1165081939?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 11, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext nosyndicate" id="review_1158006042">
+  <link href="http://www.goodreads.com/review/show/1158006042" itemprop="url" />
+  <a href="/user/show/21756520-ari-gat" class="left imgcol" title="Ari Gató"><img src="http://d.gr-assets.com/users/1372518115p2/21756520.jpg" alt="Ari Gató" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/21756520-ari-gat" class="user" title="Ari Gató">Ari Gató</a>
+
+          marked it as to-read
+
+        <br />
+        <a href="/review/show/1158006042?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Jan 06, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1148601814">
+  <link href="http://www.goodreads.com/review/show/1148601814" itemprop="url" />
+  <a href="/user/show/8217731-jesse" class="left imgcol" title="Jesse"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Jesse" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/8217731-jesse" class="user" title="Jesse">Jesse</a>
+
+        rated it
+        <span class=" staticStars"><span class="staticStar p10" size="15x15" title="really liked it">really liked it</span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p10" size="15x15" title="really liked it"></span><span class="staticStar p0" size="15x15" title="really liked it"></span></span>
+        <br />
+        <a href="/review/show/1148601814?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 31, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1136174898">
+  <link href="http://www.goodreads.com/review/show/1136174898" itemprop="url" />
+  <a href="/user/show/10500284-rt" class="left imgcol" title="Rt"><img src="http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="Rt" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/10500284-rt" class="user" title="Rt">Rt</a>
+
+          added it
+
+        <br />
+        <a href="/review/show/1136174898?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Dec 19, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext">
+    <div class="section">
+      
+
+<div itemtype="http://schema.org/Review" itemscope="" itemprop="reviews" class="review notext" id="review_1115565819">
+  <link href="http://www.goodreads.com/review/show/1115565819" itemprop="url" />
+  <a href="/user/show/36087165-ryan-mahon" class="left imgcol" title="Ryan Mahon"><img src="http://d.gr-assets.com/users/1413694431p2/36087165.jpg" alt="Ryan Mahon" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <a href="/user/show/36087165-ryan-mahon" class="user" title="Ryan Mahon">Ryan Mahon</a>
+
+          is currently reading it
+
+        <br />
+        <a href="/review/show/1115565819?book_show_action=true" itemprop="publishDate" class="reviewDate" rel="nofollow">Nov 25, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div style="float: right; margin-top: 10px" class="uitext">
+  <div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a onclick="new Ajax.Request('/book/reviews/2633061-heroes-of-their-own-lives?page=2', {asynchronous:true, evalScripts:true, method:'get', parameters:'authenticity_token=' + encodeURIComponent('XIP+b/BedAeeHY7173LsfwiIqRfbm+Hea8dVcSl4GUs5V8G8Aoxg/RLF+k6REwrNQX9qDpJGpnQBzlDj5e3vDg==')}); return false;" href="#" rel="next">2</a> <a onclick="new Ajax.Request('/book/reviews/2633061-heroes-of-their-own-lives?page=3', {asynchronous:true, evalScripts:true, method:'get', parameters:'authenticity_token=' + encodeURIComponent('ak1jPrNz7sdF4p4i5AzRBB4hwrw5rATd09GBukzLWlAPmVztQaH6Pck66pmabTe2V9YBpXBxQ3e52IQogF6sFQ==')}); return false;" href="#">3</a> <a onclick="new Ajax.Request('/book/reviews/2633061-heroes-of-their-own-lives?page=2', {asynchronous:true, evalScripts:true, method:'get', parameters:'authenticity_token=' + encodeURIComponent('jlcquwZ4QT4NzZb1b2sd0iLvMexW5sFiRYZMPBe4XsvrgxVo9KpVxIEV4k4RCvtgaxjy9R87hsgvj0mu2y2ojg==')}); return false;" href="#" class="next_page">next »</a></div>
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a href="/topic/new?context_id=2633061&amp;context_type=Book" rel="nofollow" class="actionLinkLite">new topic</a></div><a href="/topic/list_book/2633061-heroes-of-their-own-lives">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class="mediumText">
+There are no discussion topics on this book yet.
+<a href="/topic/new?context_id=2633061&amp;context_type=Book" rel="nofollow" class="actionLink">Be the first to start one »</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+</div>
+
+<div class="rightContainer">
+
+<div class="textRight stacked actionLinkLite">
+      <a href="/book/recommend/2633061-heroes-of-their-own-lives" rel="nofollow">Recommend It</a>
+  <span class="greyText"> | </span>
+    <a href="/book/stats?id=2633061-heroes-of-their-own-lives" rel="nofollow">Stats</a>
+    <span class="greyText"> | </span>
+  <a href="/user_status/book/2633061-heroes-of-their-own-lives" rel="nofollow">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+  <div class="doubleStacked">
+    <div style="width: 300px; height: 250px; margin-top: 9px; margin-bottom: 9px;" id="div-gpt-ad-def36064a3">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-def36064a3");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-def36064a3").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.top.out.300x250_0__container__" style="border: 0pt none;"><iframe width="300" height="250" frameborder="0" id="google_ads_iframe_/4215/goodr.book.top.out.300x250_0" name="google_ads_iframe_/4215/goodr.book.top.out.300x250_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+  </div>
+
+      
+
+      <div class="stacked">
+        <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/work/shelves/1169687">Genres</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="elementList elementListLast">
+      <div class="left">
+        <a href="/genres/history" class="actionLinkLite bookPageGenreLink">History</a>
+      </div>
+        <div class="right">
+          <a href="/shelf/users/2633061-heroes-of-their-own-lives?shelf=history" rel="nofollow" class="actionLinkLite greyText bookPageGenreLink" title="5 people shelved this book as 'history'">5 users</a>
+        </div>
+      <div class="clear"></div>
+    </div>
+  <a href="/book/shelves/2633061-heroes-of-their-own-lives" class="actionLink right bookPageGenreLink__seeMoreLink">See top shelves…</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+      </div>
+
+    <div class=" clearFloats bigBox" id="aboutAuthor"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/show/98901.Linda_Gordon">About Linda Gordon</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+      <a href="/author/show/98901.Linda_Gordon"><img alt="98901" src="http://d.gr-assets.com/authors/1277838615p2/98901.jpg" class="right" /></a>
+    <div class="readable">
+      
+<span id="freeTextContainer2106422952518766379">Linda Gordon is the Florence Kelley Professor of History at New York University. She is the author of numerous books and won the Bancroft Prize for <em>The Great Arizona Orphan Abduction</em>. She lives in New York. "</span>
+
+    </div>
+    <a href="/author/show/98901.Linda_Gordon" class="actionLink moreLink">More about Linda Gordon...</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/list/98901.Linda_Gordon">Books by Linda Gordon</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div data-current-user-id="false" data-use-wtr-tooltip="true" class="js-dataTooltip">
+        <div data-placement="bottom-left" data-resource-id="169744" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/169744.The_Great_Arizona_Orphan_Abduction"><img width="50" src="http://d.gr-assets.com/books/1348336562m/169744.jpg" id="more_book_169744" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="6634092" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/6634092-dorothea-lange"><img width="50" src="http://d.gr-assets.com/books/1348664016m/6634092.jpg" id="more_book_6634092" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="777893" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/777893.The_Moral_Property_of_Women"><img width="50" src="http://d.gr-assets.com/books/1328829436m/777893.jpg" id="more_book_777893" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="777890" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/777890.Pitied_But_Not_Entitled"><img width="50" src="http://d.gr-assets.com/books/1328051346m/777890.jpg" id="more_book_777890" /></a>
+        </div>
+        <div data-placement="bottom-left" data-resource-id="502919" data-resource-type="Book" class="js-tooltipTrigger tooltipTrigger">
+          <a href="/book/show/502919.Woman_s_Body_Woman_s_Right"><img width="50" src="http://d.gr-assets.com/books/1387702731m/502919.jpg" id="more_book_502919" /></a>
+        </div>
+    </div>
+    <div class="moreLink">
+      <a href="/author/list/98901.Linda_Gordon" class="actionLink">More…</a>
+    </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  <div id="cobrandSlot">
+<div style="width: 300px; height: 140px; display: none;" id="div-gpt-ad-b4ff1e5b96">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-b4ff1e5b96");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-b4ff1e5b96").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.cb.300x140_0__container__" style="border: 0pt none;"><iframe width="300" height="140" frameborder="0" id="google_ads_iframe_/4215/goodr.book.cb.300x140_0" name="google_ads_iframe_/4215/goodr.book.cb.300x140_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+</div>
+
+
+
+
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Share This Book</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+  <div class="socialMedia">
+    <div class="shareButton">
+      
+<div data-show-faces="false" data-width="90" data-layout="button_count" data-send="false" data-href="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives" class="fb-like fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=2415071772&amp;container_width=0&amp;href=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=90"><span style="vertical-align: bottom; width: 80px; height: 20px;"><iframe width="90px" height="1000px" frameborder="0" name="f13944cdb752b8e" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" style="border: medium none; visibility: visible; width: 80px; height: 20px;" src="http://www.facebook.com/v2.0/plugins/like.php?app_id=2415071772&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df4c51f7e7aa4b%26domain%3Dwww.goodreads.com%26origin%3Dhttp%253A%252F%252Fwww.goodreads.com%252Ffe5e671cfc8b92%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=90" class=""></iframe></span></div>
+
+    </div>
+
+    <div data-gr-tracker-id="book_page_tweet" class="shareButton" id="twitter">
+      <iframe frameborder="0" id="twitter-widget-0" scrolling="no" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 61px; height: 20px;" title="Twitter Tweet Button" src="http://platform.twitter.com/widgets/tweet_button.c633b87376883931e7436b93bb46a699.en.html#_=1452558253453&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives&amp;size=m&amp;text=Heroes%20of%20Their%20Own%20Lives%3A%20The%20Politics%20and%20History%20of%20Family%20Violence%20by%20Linda%20Gordon%20%E2%80%94%20Reviews%2C%20Discussion%2C%20Bookclubs%2C%20Lists&amp;type=share&amp;url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1181782.Heroes_of_Their_Own_Lives"></iframe>
+    </div>
+
+    <div class="shareButton">
+      <div style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent none repeat scroll 0% 0%; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px;" id="___plusone_0"><iframe width="100%" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" id="I0_1452558256924" name="I0_1452558256924" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=medium&amp;origin=http%3A%2F%2Fwww.goodreads.com&amp;url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F1181782.Heroes_of_Their_Own_Lives&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es.OWlIx9v1iaM.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCPvZHP7wTNKPCOVTI6wz-lDqOTp7A#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1452558256924&amp;parent=http%3A%2F%2Fwww.goodreads.com&amp;pfname=&amp;rpctoken=22666724" data-gapiattached="true" title="+1"></iframe></div>
+    </div>
+
+    <div class="shareButton" id="pinterest">
+      <a class="PIN_1452558256945_pin_it_button_20 PIN_1452558256945_pin_it_button_en_20_gray PIN_1452558256945_pin_it_button_inline_20 PIN_1452558256945_pin_it_beside_20" data-pin-href="https://www.pinterest.com/pin/create/button/?guid=HibRiawrbExr-1&amp;url=http%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F2633061-heroes-of-their-own-lives&amp;media=http%3A%2F%2Fd.gr-assets.com%2Fbooks%2F1266982494l%2F2633061.jpg&amp;description=Heroes+of+Their+Own+Lives%3A+The+Politics+and+History+of+Family+Violence" data-pin-log="button_pinit" data-pin-config="beside"><span class="PIN_1452558256945_hidden" id="PIN_1452558256945_pin_count_0"><i></i></span></a>
+    </div>
+
+    <div class="shareButton" id="personalSite">
+      <div style="display:none;" id="blogBook2633061">
+        <h2>Share on your website</h2>
+        <br />
+        <table border="0">
+  <tbody><tr>
+    <td valign="top" class="nobreak">title link</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;Heroes of Their Own Lives: The Politics and History of Family Violence&lt;/a&gt;" size="25" onclick="this.select();" id="titleLink2633061" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span><br />
+      <a href="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;utm_source=blog_book">Heroes of Their Own Lives: The Politics and History of Family Violence</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">avg rating</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;script src=&quot;http://www.goodreads.com/book/avg_rating_widget/2633061&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span><br />
+      <a href="http://www.goodreads.com/book/show/2633061?utm_medium=api&amp;utm_source=book_widget" style="float: left; padding-right: 10px" title="Heroes of Their Own Lives: The Politics and History of Family Violence"><img border="0" src="http://d.gr-assets.com/books/1266982494s/2633061.jpg" alt="Heroes of Their Own Lives: The Politics and History of Family Violence" /></a><div><a href="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;utm_source=book_widget">Heroes of Their Own Lives: The Politics and History of Family Violence</a><br />Goodreads rating: 3.87 (30 ratings)</div>
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">small image</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;&lt;img alt=&quot;Heroes of Their Own Lives: The Politics and History of Family Violence&quot; src=&quot;http://d.gr-assets.com/books/1266982494s/2633061.jpg&quot; /&gt;&lt;/a&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span>
+      <a onclick="$('smallImagePreview').toggle(); return false;" href="#">click here</a>
+      <div style="display: none; width: auto;" class="floatingBox" id="smallImagePreview">
+  			<a onclick="$('smallImagePreview').hide(); return false;; return false;" href="#" class="closeLink">[close]</a>
+        <a href="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;utm_source=blog_book"><img src="http://d.gr-assets.com/books/1266982494s/2633061.jpg" alt="Heroes of Their Own Lives: The Politics and History of Family Violence" /></a>
+  		</div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">med image</td>
+    <td style="padding: 0 0 20px 10px">
+      <input type="text" value="&lt;a href=&quot;http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;amp;utm_source=blog_book&quot;&gt;&lt;img alt=&quot;Heroes of Their Own Lives: The Politics and History of Family Violence&quot; src=&quot;http://d.gr-assets.com/books/1266982494m/2633061.jpg&quot; /&gt;&lt;/a&gt;" size="25" onclick="this.select();" class="smallText" />
+      <br /><br /><span class="greyText">preview:</span>
+      <a onclick="$('mediumImagePreview').toggle(); return false;" href="#">click here</a>
+      <div style="display: none; width: auto;" class="floatingBox" id="mediumImagePreview">
+  			<a onclick="$('mediumImagePreview').hide(); return false;; return false;" href="#" class="closeLink">[close]</a>
+        <a href="http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;utm_source=blog_book"><img src="http://d.gr-assets.com/books/1266982494m/2633061.jpg" alt="Heroes of Their Own Lives: The Politics and History of Family Violence" /></a>
+  		</div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" class="nobreak">BBCode</td>
+    <td style="padding: 0 0 20px 10px">
+      <textarea onclick="this.select()" columns="25" rows="2">[url=http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;utm_source=blog_book][img]http://d.gr-assets.com/books/1266982494l/2633061.jpg[/img][/url]
+      [url=http://www.goodreads.com/book/show/2633061-heroes-of-their-own-lives?utm_medium=api&amp;utm_source=blog_book]Heroes of Their Own Lives: The Politics and History of Family Violence by Linda Gordon[/url]</textarea>
+    </td>
+  </tr>
+</tbody></table>
+      </div>
+      +
+      <a onclick="Lightbox.showBoxByID('blogBook2633061');; return false;" href="#" rel="nofollow" id="personalSite" class="mediumText">Share on your website</a>
+    </div>
+  </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><br /><br />
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/1169687-heroes-of-their-own-lives-the-politics-and-history-of-family-violence--">Trivia About Heroes of Their O...</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+				<p class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/1169687-heroes-of-their-own-lives-the-politics-and-history-of-family-violence--">Add some now »</a></p>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+  <div style="width: 300px; height: 250px; margin-top: 9px; margin-bottom: 9px;" id="div-gpt-ad-58916f9e83">
+<script>
+  //&lt;![CDATA[
+    if (typeof isShowingBuyableFeatures === 'undefined' || isShowingBuyableFeatures()) {
+      googletag.cmd.push(function() {
+        googletag.display("div-gpt-ad-58916f9e83");
+      });
+    } else {
+      // remove the whitespace
+      document.getElementById("div-gpt-ad-58916f9e83").style.display = "none";
+    }
+  //]]&gt;
+</script>
+<div id="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0__container__" style="border: 0pt none;"><iframe width="300" height="250" frameborder="0" id="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0" name="google_ads_iframe_/4215/goodr.book.bottom.out.300x250_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"></iframe></div></div>
+
+
+</div>
+
+  
+
+
+
+<script>
+//&lt;![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i &lt; n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]&gt;
+</script>
+
+<!-- Ethnio Activation Code -->
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+©
+2016
+Goodreads Inc
+</div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a href="/about/us" class="first" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index" rel="nofollow">our blog</a>
+</li>
+<li>
+<a href="/authors-advertisers" rel="nofollow">authors &amp; advertisers blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a href="/help" class="last" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?rel=nofollow&amp;switch_to=mobile">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div onclick="Lightbox.hideBox()" style="display:none" id="overlay"></div>
+<div style="display:none" id="box">
+	<div title="Close this window" onclick="Lightbox.hideBox()" class="xBackground js-closeModalIcon" id="close"></div>
+	<div id="boxContents"></div>
+	<div style="display:none" id="boxContentsLeftovers"></div>
+	<div class="clear"></div>
+</div>
+
+<div style="display:none;" id="fbSigninNotification">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" />
+</div>
+
+  <script src="http://ads.goodreads.com/ad?p=book_page_signed_out&amp;s=600x150&amp;uid=false&amp;sid=94ab2464935eced8b2144e9a8a5cab70&amp;gtargeting=27wr29" type="text/javascript">
+  </script><iframe src="http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html" style="visibility: hidden; display: none;"></iframe>
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe frameborder="0" name="fb_xdm_frame_http" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=fe5e671cfc8b92&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe><iframe frameborder="0" name="fb_xdm_frame_https" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=fe5e671cfc8b92&amp;origin=http%3A%2F%2Fwww.goodreads.com"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+<script type="text/javascript">
+//&lt;![CDATA[  
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+//]]&gt;
+</script>
+
+
+<script>
+  //&lt;![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]&gt;
+</script>
+<noscript>
+&lt;img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'&gt;
+</noscript>
+
+<script>
+  //&lt;![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]&gt;
+</script>
+<noscript>
+&lt;img style="display: none" width="0" height="0" alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;amp;c2=6035830&amp;amp;amp;c3=&amp;amp;amp;c4=&amp;amp;amp;c5=&amp;amp;amp;c6=&amp;amp;amp;c15=&amp;amp;amp;cv=2.0&amp;amp;amp;cj=1" /&gt;
+</noscript>
+
+
+
+
+<iframe name="oauth2relay509052499" id="oauth2relay509052499" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fwww.goodreads.com#rpctoken=1335553939&amp;forcesecure=1" style="width: 1px; height: 1px; position: absolute; top: -100px;" tabindex="-1"></iframe><iframe id="google_osd_static_frame_5639785480613" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>
