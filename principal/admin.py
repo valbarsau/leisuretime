@@ -7,7 +7,7 @@ from principal.models import *
 from django.contrib import admin
 
 admin.site.register(Autor)
-# admin.site.register(Pelicula)
+admin.site.register(Puntuacion)
 # 
 # admin.site.register(Ocupacion)
 admin.site.register(Usuario)
