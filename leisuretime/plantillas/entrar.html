@@ -1,11 +1,10 @@
 {%extends "base.html"%}
-
 {%block contenido%}
-<h1>Busqueda por usuario para recomendar</h1>
 
-<form id="form" action="/productos/usuarios/recomendaciones" method="post">
+<form id="form" action="/user/entrar/" method="post">
     {% csrf_token %}
     {{ form.as_p }}
     <input type="submit" value="Submit" />
 </form>
-{% endblock %}
+
+{%endblock%}

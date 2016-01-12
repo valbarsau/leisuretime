@@ -25,8 +25,8 @@ def almacena_usuario():
             id_us=fila[0]
             nombre_u="user"+str(id_us)
             print nombre_u
-            #passw=django.contrib.auth.hashers.make_password(nombre_u)
-            Usuario.objects.create(username=nombre_u,password=nombre_u,id_usuario=id_us,localizacion=unicode(fila[1], errors="replace"))
+            passw=django.contrib.auth.hashers.make_password(nombre_u)
+            Usuario.objects.create(username=nombre_u,password=passw,id_usuario=id_us,localizacion=unicode(fila[1], errors="replace"))
            
 almacena_usuario()
         

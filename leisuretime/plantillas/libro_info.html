@@ -1,0 +1,47 @@
+{%extends "base.html"%}
+
+{%block contenido%}
+
+
+<div class="panel panel-primary">
+      <div class="panel-heading">Informacion del libro</div>
+      <div class="panel-body">
+	  <div class="panel panel-default">
+  <div class="panel-body"><b>Titulo:</b> {{libro.titulo}}</div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-body"><b>ISBN:</b> {{libro.isbn}}</div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body"><b>Editorial:</b> {{libro.editorial}}</div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-body"><b>Descripcion:</b> {{libro.descripcion}}</div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body">
+<li><b>Generos a los que pertenece el libro:</b>
+<ul>
+{%for genero in libro.generos.all%}
+</br>
+<li><b>{{genero.categoria}}</b> </li>
+
+
+
+
+
+
+
+
+{%endfor%}
+
+
+</ul>
+</li></div>
+    </div>
+	</div>
+</div>
+
+{% endblock %}

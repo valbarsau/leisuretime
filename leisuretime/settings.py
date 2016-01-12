@@ -117,6 +117,20 @@ TEMPLATE_DIRS = (
     os.path.join(RUTA_PROYECTO, 'plantillas'),
     
 )
+#necesario para poder acceder al usuario desde la plantilla
+TEMPLATE_CONTEXT_PROCESSORS = (
+    
+    'django.core.context_processors.request',
+    "django.contrib.auth.context_processors.auth",
+   
+)
+
+
+STATIC_URL = '/static/'
+STATICFILES_DIRS = (
+    
+    os.path.join(RUTA_PROYECTO, "static")
+)
 
 
 INSTALLED_APPS = (

@@ -1,0 +1,48 @@
+{%extends "base.html"%}
+
+{%block contenido%}
+<h1>Libros:</h1>
+       
+  <table class="table table-responsive table-striped">
+    <thead>
+      <tr>
+        
+        <th>Titulo:</th>
+		 <th>Putuacion dada:</th>
+		<th>Informacion:</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+{%for puntuacion in puntuaciones%}
+
+
+
+
+      <tr>
+        <td>{{puntuacion.libro.titulo}}</td>
+		<td>{{puntuacion.puntuacion}}</td>
+		<td><a href="/libro/info/{{puntuacion.libro.id}}"> Ver </td>
+       
+      </tr>
+	  {%endfor%}
+    </tbody>
+  </table>
+ 
+
+
+
+
+
+
+
+
+</br>
+
+</ul>
+
+
+
+
+
+{% endblock %}

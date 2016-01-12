@@ -1,0 +1,31 @@
+{%extends "base.html"%}
+
+{%block contenido%}
+<h1>Libros por puntuar:</h1>
+       
+  <table class="table table-responsive table-striped">
+    <thead>
+      <tr>
+        
+        <th>Titulo:</th>
+		<th>Informacion:</th>
+		 <th>Enlace:</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+{%for libro in libros%}
+
+
+
+
+      <tr>
+        <td>{{libro.titulo}}</td>
+		<td><a href="/libro/info/{{libro.id}}"> Ver </a></td>
+		<td><a href="/libro/user/puntuar/{{libro.id}}"> Puntuar </a></td>
+       
+      </tr>
+	  {%endfor%}
+    </tbody>
+  </table>
+ {%endblock%}

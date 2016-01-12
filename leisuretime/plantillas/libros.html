@@ -1,0 +1,29 @@
+{%extends "base.html"%}
+
+{%block contenido%}
+<h1>Libros:</h1>
+       
+  <table class="table table-responsive table-striped">
+    <thead>
+      <tr>
+        
+        <th>Titulo:</th>
+		 <th>Informacion del libro:</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+{%for libro in libros%}
+
+
+
+
+      <tr>
+        <td>{{libro.titulo}}</td>
+		<td><a href="/libro/info/{{libro.id}}"> Ver </a></td>
+       
+      </tr>
+	  {%endfor%}
+    </tbody>
+  </table>
+ {%endblock%}
