@@ -1,0 +1,37 @@
+{%extends "base.html"%}
+
+{%block contenido%}
+<h1>Productos recomedados</h1>
+
+
+
+<ul>
+{%for producto in productos%}
+</br>
+<li><b>Nombre:</b> {{producto.nombre}}</li>
+<li><b>Descripcion:</b> {{producto.descripcion}}</li>
+
+
+
+<li><b>Tiendas:</b></li>
+{%for precio in producto.precio_set.all%}
+<ul>
+
+<li><b>Nombre:</b> {{precio.tienda.nombre}}</li>
+<li><b>Url:</b> {{precio.tienda.url}}</li>
+<li><b>Email:</b> {{precio.tienda.email}}</li>
+
+</ul>
+{%endfor%}
+
+
+
+
+
+
+
+{%endfor%}
+
+
+</ul>
+{% endblock %}
