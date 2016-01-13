@@ -9,7 +9,7 @@ from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.auth import login, authenticate, logout
 from django.contrib.auth.decorators import login_required
 from leisuretime.recomendaciones import *
-from leisuretime import recomendaciones
+from leisuretime import recomendaciones, Wikipedia
 def index(request):
 
     return render_to_response('index.html', context_instance=RequestContext(request))
@@ -88,7 +88,10 @@ def libros_no_puntuados(request):
 
 def info(request,id_libro):
     libro=Libro.objects.get(id=id_libro)
-    result = render_to_response("libro_info.html", {"libro":libro}, context_instance=RequestContext(request))
+    wiki_inf=Wikipedia.wiki(libro.titulo)
+    if len(wiki_inf)==0:
+        wiki_inf.append("No se ha encontrado en wikipedia")
+    result = render_to_response("libro_info.html", {"libro":libro,"wiki_info":wiki_inf}, context_instance=RequestContext(request))
     return result
 @login_required(login_url='/user/entrar')    
 def recomienda(request):
